@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 author_profile: true
+layout: default
 ---
 
 Books
