@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D., Massachusetts Institute of Technology, 2012
-  - Thesis: Efficient Buffer Design Algorithms for Production Line Profit Maximization
+  - Thesis: <a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a>
   - http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf
   - Advisor: Dr. Stanley B. Gershwin
   - Other Committee Members: Dr. Steven Graves, Dr. Brian Anthony
