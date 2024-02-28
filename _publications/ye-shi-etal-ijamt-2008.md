@@ -3,7 +3,7 @@ title: "Interpolation of continuous micro line segment trajectories based on loo
 collection: publications
 permalink: /publication/ye-shi-etal-ijamt-2008
 excerpt: 'In this paper, an interpolation method based on look-ahead algorithm is presented. With the proposed method, CNC systems can predict the variation of the curvature of the coming trajectory so that adaptively determine whether accelerates the interpolation feedrate to enhance machining efficiency or decelerates the feedrate to guarantee the machining precision.'
-date: 2011-10-01
+date: 2008-10-01
 venue: 'International Journal of Advanced Manufacturing Technology'
 citation: 'Ye, P., C. Shi, K. Yang, and Q. Lv (2008). Interpolation of continuous micro line segment trajectories based on look-ahead algorithm in high-speed machining. <i>International Journal of Advanced Manufacturing Technology 37</i>, 881-897.'
 ---
