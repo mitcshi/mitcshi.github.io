@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D., Massachusetts Institute of Technology, 2012
- - Thesis: Efficient Buer Design Algorithms for Production Line Prot Maximization
- - http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf
- - Advisor: Dr. Stanley B. Gershwin
- - Other Committee Members: Dr. Steven Graves, Dr. Brian Anthony
+  - Thesis: Efficient Buffer Design Algorithms for Production Line Profit Maximization
+  - http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf
+  - Advisor: Dr. Stanley B. Gershwin
+  - Other Committee Members: Dr. Steven Graves, Dr. Brian Anthony
 * M.Eng., Tsinghua University, 2007
   - Graduate with the highest honors (top 2%), Outstanding master's thesis
   - Thesis: Study on the Look-Ahead Function Based Motion Control Algorithm for Continuous Micro Line Trajectories
