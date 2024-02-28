@@ -1,5 +1,5 @@
 ---
-title: "Improving financial services data quality - A Citigroup practice"
+title: "Improving financial services data quality: A Citigroup practice"
 collection: publications
 permalink: /publication/shi-etal-ijlss-2015
 excerpt: 'This paper proposes a funnel methodology that selects business data elements for data quality improvement practices at Citigroup.'
