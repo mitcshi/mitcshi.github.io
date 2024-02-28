@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, Massachusetts Institute of Technology, 2012
-* M.S. in Mechanical Engineering, Tsinghua University, 2007
-* B.S. in Mechanical Engineering, Tsinghua University, 2005
+* Ph.D, Massachusetts Institute of Technology, 2012
+* M.Eng., Tsinghua University, 2007
+* B.Eng., Tsinghua University, 2005
 
 Work experience
 ======
