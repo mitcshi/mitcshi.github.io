@@ -2,6 +2,7 @@
 title: "Part sojourn time distribution in a two-machine line"
 collection: publications
 permalink: /publication/shi-gershwin-ejor-2016
+excerpt: 'This paper presents an analytic formulation for the part sojourn time distribution in a two-machine one-buffer transfer line.'
 date: 2016-01-01
 venue: 'European Journal of Operational Research'
 citation: 'Shi, C. and S. B. Gershwin (2016). Part sojourn time distribution in a two-machine line. <i>European Journal of Operational Research 248</i>(1), 146-158.'
