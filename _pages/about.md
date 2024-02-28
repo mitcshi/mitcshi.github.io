@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Shi, Chuan"
 author_profile: true
 redirect_from: 
   - /about/
