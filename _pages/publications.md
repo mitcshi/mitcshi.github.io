@@ -1,7 +1,7 @@
 ---
+layout: single-sc
 permalink: /publications/
 author_profile: true
-layout: archive-sc
 ---
 
 Books
