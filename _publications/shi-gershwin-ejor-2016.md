@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/shi-gershwin-ejor-2016
 date: 2016-01-01
 venue: 'European Journal of Operational Research'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Shi, C. and S. B. Gershwin (2016). Part sojourn time distribution in a two-machine line. <i>European Journal of Operational Research 248</i>(1), 146-158.'
 ---
 
