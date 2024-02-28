@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Part sojourn time distribution in a two-machine line"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/shi-gershwin-ejor-2016
+date: 2016
+venue: 'European Journal of Operational Research'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Shi, C. and S. B. Gershwin (2016). Part sojourn time distribution in a two-machine line. <i>European Journal of Operational Research 248</i>(1), 146-158.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The time that a part may spend in a buffer between successive operations is limited in some manufacturing processes. Parts that wait too long must be reworked or discarded due to the risk of quality degradation. In
+this paper, we present an analytic formulation for the steady-state probability distribution of the time a part spends in a two-machine, one-buffer transfer line (the part sojourn time). To do so, we develop a set of recurrence equations for the conditional probability of a part’s sojourn time, given the number of parts already in the buffer when it arrives and the state of the downstream machine. Then we compute the unconditional
+probabilities of the part sojourn time using the total probability theorem. Numerical results are provided to demonstrate how the shape of the distribution depends on machine reliability and the buffer size. The
+analytic formulation is also applied to approximately compute the part sojourn time distribution in a given buffer of a long line. Comparison with simulation shows good agreement.
