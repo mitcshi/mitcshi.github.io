@@ -38,4 +38,4 @@ Working Papers
 
 * Refined book-to-market ratio and the cross-section of stock returns in China.<br>(with X. Lian and Y. Liu), 2019
 
-* <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a><br>(with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
+* <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a> (with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
