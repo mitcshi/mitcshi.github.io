@@ -26,6 +26,12 @@ Selected Papers
 
 * <a href="https://mitcshi.github.io/publication/ye-shi-etal-ijamt-2008">Interpolation of continuous micro line segment trajectories based on look-ahead algorithm in high-speed machining</a><br>(with P. Ye, K. Yang, and Q. Lv), <i><b>International Journal of Advanced Manufacturing Technology</b> 37</i>, 2008, 881-897
 
+* <a href="https://mitcshi.github.io/publication/shi-etal-cme-2007">Study on S-shape curve acceleration and deceleration control on NC system</a><br>(with T. Zhao, P. Ye, and Q. Lv), <i><b>China Mechanical Engineering</b> 18</i>(7), 2007, 1421-1425
+
+* <a href="https://mitcshi.github.io/publication/yang-shi-etal-thu-2007">Smooth transfer control algorithm of continuous segment trajectory in CNC system</a><br>(with K. Yang, P. Ye, and Q. Lv), <i><b>Journal of Tsinghua University (Science and Technology)</b> 47</i>(8), 2007, 1295-1299
+
+* Study on end-point discrimination methods of circular interpolation<br>(with B. Lin, P. Ye, and H. Zhang), <i><b>Manufacturing Technology & Machine Tool</b></i>, 2007, 86-90
+
 Working Papers
 ------
 * Skill 1
