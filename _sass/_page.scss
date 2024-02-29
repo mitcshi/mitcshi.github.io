@@ -48,6 +48,12 @@
   font-size: $type-size-4;
 }
 
+.unique-page-class p,
+.unique-page-class li,
+.unique-page-class dl {
+  font-size: 0.9em;
+}
+
 .page__content {
 
   h2 {
@@ -57,10 +63,6 @@
 
   p, li, dl {
     font-size: 1em;
-  }
-
-  .unique-page-class p, .unique-page-class li, .unique-page-class dl {
-      font-size: 0.9em;
   }
 
   /* paragraph indents */
