@@ -6,9 +6,9 @@ author_profile: true
 
 <h2 style="margin-top: 0;">Books</h2>
 
-* <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/">Machine Learning and Asset Pricing (in Chinese)</a><br>Chinese Title: 《机器学习与资产定价》<br>Chinese translation of Nagel, S. (2021). <a href="https://press.princeton.edu/books/hardcover/9780691218700/machine-learning-in-asset-pricing">Machine Learning in Asset Pricing</a>. Princeton University Press<br>(with X. Wang), 2022, Publishing House of Electronics Industry
+* <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank">Machine Learning and Asset Pricing (in Chinese)</a><br>Chinese Title: 《机器学习与资产定价》<br>Chinese translation of Nagel, S. (2021). <a href="https://press.princeton.edu/books/hardcover/9780691218700/machine-learning-in-asset-pricing" target="_blank">Machine Learning in Asset Pricing</a>. Princeton University Press<br>(with X. Wang), 2022, Publishing House of Electronics Industry
   
-* <a href="https://www.factorwar.com/">Factor Investing: Methodology and Practice (in Chinese)</a><br>Chinese Title: 《因子投资：方法与实践》<br>(with Y. Liu and X. Lian), 2020, Publishing House of Electronics Industry
+* <a href="https://www.factorwar.com/" target="_blank">Factor Investing: Methodology and Practice (in Chinese)</a><br>Chinese Title: 《因子投资：方法与实践》<br>(with Y. Liu and X. Lian), 2020, Publishing House of Electronics Industry
 
 Selected Papers
 ------
