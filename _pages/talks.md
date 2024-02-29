@@ -22,3 +22,19 @@ author_profile: true
 * Shanghai University, 07/2021
 * Peking University, 06/2021
 * Tsinghua University, 11/2018
+
+<h3>Talks on advances in asset pricing/factor investing for institutional investors</h3>
+
+* E Fund Management, 10/2021
+* China Merchants Fund, 09/2021
+* China Southern Asset Management, 04/2021
+* ICBC Credit Suisse Asset Management, 03/2021
+* China Asset Management, 03/2021
+* Hua'an Fund Management, 12/2020
+* Hwabao WP Fund, 12/2020
+* Everbright Pramerica Fund, 12/2020
+* Bank of Communications Schroder Fund, 11/2020
+* Bosera Asset Management, 11/2020
+* Fullgoal Fund Management, 11/2020, 10/2021
+* Taikang Asset, 10/2020
+* Penghua Fund Management, 09/2020
