@@ -16,11 +16,11 @@ Selected Papers
   
 * <a href="https://mitcshi.github.io/publication/shi-gershwin-ijpr-2016">A segmentation approach for solving buffer allocation problems in large production systems</a> (with S. B. Gershwin), <i><b>International Journal of Production Research</b> 54</i>(20), 2016, 6121-6141
 
-* <a href="https://mitcshi.github.io/publication/shi-etal-ijlss-2015">Improving financial services data quality - A Citigroup practice</a> (with H. Heien, J. R. Talburt, R. A. Granese, D. W. Gray, R. Jugulum, R. Ramachandran, J. Singh, J. Hamilton, and H. I. Joyce)<br><i><b>International Journal of Lean Six Sigma</b> 6</i>(2), 2015, 98-110
+* <a href="https://mitcshi.github.io/publication/shi-etal-ijlss-2015">Improving financial services data quality - A Citigroup practice</a><br>(with H. Heien, J. R. Talburt, R. A. Granese, D. W. Gray, R. Jugulum, R. Ramachandran, J. Singh, J. Hamilton, and H. I. Joyce), <i><b>International Journal of Lean Six Sigma</b> 6</i>(2), 2015, 98-110
 
 * <a href="https://mitcshi.github.io/publication/shi-gershwin-cie-2014">Improvement of the evaluation of closed-loop production systems with unreliable machines and finite buffers</a> (with S. B. Gershwin), <i><b>Computers & Industrial Engineering</b> 75</i>, 2014, 239-256
 
-* <a href="https://mitcshi.github.io/publication/shi-ye-ijamt-2011">The look-ahead function based interpolation algorithm for continuous micro line trajectories</a><br>(with P. Ye), <i><b>International Journal of Advanced Manufacturing Technology</b> 54</i>(5-8), 2011, 649-668
+* <a href="https://mitcshi.github.io/publication/shi-ye-ijamt-2011">The look-ahead function based interpolation algorithm for continuous micro line trajectories</a> (with P. Ye), <i><b>International Journal of Advanced Manufacturing Technology</b> 54</i>(5-8), 2011, 649-668
 
 * <a href="https://mitcshi.github.io/publication/shi-gershwin-ijpe-2009">An efficient buffer design algorithm for production line profit maximization</a><br>(with S. B. Gershwin), <i><b>International Journal of Production Economics</b> 122</i>(2), 2009, 725-740
 
