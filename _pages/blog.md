@@ -2,6 +2,7 @@
 layout: single-sc
 permalink: /blog/
 author_profile: true
+classes: unique-page-class
 ---
 This page collects my selected blog articles on asset pricing, factor investing, fund research, and portfolio management, mostly written in Chinese.
 
