@@ -38,3 +38,15 @@ author_profile: true
 * Fullgoal Fund Management, 11/2020, 10/2021
 * Taikang Asset, 10/2020
 * Penghua Fund Management, 09/2020
+
+<h3>Talks for sell-side strategy conferences and other industry associations</h3>
+
+* COFCO Futures, 07/2023
+* Western Securities, 11/2022
+* CFA Beijing Association, 06/2021
+* Kaiyuan Securities, 05/2021, 08/2022
+* Huachuang Securities, 10/2020
+* Northeast Securities, 07/2020, 02/2023
+* Haitong Securities, 10/2019, 08/2021
+* CITIC Futures, 08/2019
+* SDIC Essence Futures, 05/2019
