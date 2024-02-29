@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single-sc
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -7,8 +7,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-Education
-------
+<h2 style="margin-top: 0;">Educations</h2>
+
 * Ph.D., Massachusetts Institute of Technology, 2012
   - Thesis: <a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a>
   - Advisor: Dr. Stanley B. Gershwin
