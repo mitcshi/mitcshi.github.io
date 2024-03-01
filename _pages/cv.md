@@ -25,7 +25,7 @@ Industrial Experience
 ------
 * Co-founder and Chief Scientist, Beijing Liangxin Investment Management Co. Ltd., 09/2015 - present
   - Advanced time-series and cross-sectional data analysis using statistical modeling and machine learning.
-  - Quantitative Strategy Development Leadership.
+  - Quantitative strategy development leadership.
   - Risk control expertise.
 
 * Senior Member of Technical Staff, Oracle America, Inc., 01/2012 - 09/2015
@@ -35,12 +35,12 @@ Industrial Experience
   - Global team coordination and client interaction.
 
 * Data Quality Analyst (Internship), Citigroup, Inc., 06/2011 - 09/2011, 11/2011 - 01/2012
-  * Data quality enhancement.
-  * Advanced data profiling and cleansing.
+  - Data quality enhancement.
+  - Advanced data profiling and cleansing.
 
 * Modeling & Simulation Analyst (Internship), Procter & Gamble, 06/2010 - 08/2010
-  * Production line optimization via advanced modeling and simulation techniques.
-  * Development of simulation test protocol.
+  - Production line optimization via advanced modeling and simulation techniques.
+  - Development of simulation test protocol.
   
 Professional Service
 ------
@@ -95,6 +95,6 @@ Honors/Awards
 * Tsinghua Academic Excellence Scholarship, Tsinghua University, 12/2003
 * Tsinghua Academic Excellence Scholarship, Tsinghua University, 12/2002
 
-Referees
+References
 ------
 * Will provide upon request.
