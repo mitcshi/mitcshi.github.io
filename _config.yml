@@ -25,8 +25,8 @@ author:
   name             : "SHI, Chuan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing"
+  employer         : # URL
   uri              : # URL
   email            : # URL
 
