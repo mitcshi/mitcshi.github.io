@@ -14,8 +14,8 @@ This page collects my selected blog articles on asset pricing, factor investing,
 * <a href="https://mp.weixin.qq.com/s/GrL_acVeZYdUtodVHLzoHA" target="_blank">主流多因子模型巡礼</a>
 * <a href="https://mp.weixin.qq.com/s/qOR-ivh1te0UNx-Nuvg3gw" target="_blank">Cross-Section Research, A History</a>
 * <a href="https://mp.weixin.qq.com/s/Rl6xlXrrpY4G8eYHouyUAA" target="_blank">Farewell，ad-hoc 多因子模型</a>
-* <a href="https://mp.weixin.qq.com/s/5JTyVeDGAzjwWDDrg7XYag" target="_blank">股票多因子模型的回归检验</a>
-* <a href="https://mp.weixin.qq.com/s/5YST-wo-a81iso4IxHS9hg" target="_blank">多因子回归检验中的 Newey-West 调整</a>
+* <a href="https://mp.weixin.qq.com/s/KEeLztS2AeKlVFxkJyXE3w" target="_blank">从 Factor Zoo 到 Factor War，实证资产定价走向何方</a>
+* <a href="https://mp.weixin.qq.com/s/UFOa3kKOIgSCufijTPTisw" target="_blank">Factor War 外传</a>
 * <a href="https://mp.weixin.qq.com/s/TQ24edy8QRZinRWtxRL5PA" target="_blank">实证资产定价理论新进展</a>
 * <a href="https://mp.weixin.qq.com/s/5GWJU3sKB4VTKe0l1UJeyw" target="_blank">机器学习与资产定价: Facts and Fictions</a>
 * <a href="https://mp.weixin.qq.com/s/5upSsMUMqACBeYu6fkTAPA" target="_blank">The Virtues of Complex Models</a>
@@ -29,6 +29,17 @@ This page collects my selected blog articles on asset pricing, factor investing,
 p-Hacking
 ------
 * <a href="https://zhuanlan.zhihu.com/p/38663777" target="_blank">在追逐 p-value 的道路上狂奔，却在科学的道路上渐行渐远</a>
+* <a href="https://mp.weixin.qq.com/s/6laIT5epxdLVuEEIQbbZ5g" target="_blank">Campbell Harvey: “Tortured Data”</a>
+* <a href="https://mp.weixin.qq.com/s/CfhVXfq9i90aLpwXcfIIow" target="_blank">Being Honest with Backtest Reporting</a>
+* <a href="https://mp.weixin.qq.com/s/QOdTdKjNE838FoM71gYJew" target="_blank">常见多重检验方法及其实证 (I)</a>
+* <a href="https://mp.weixin.qq.com/s/uUl4P6v1ea0zcGvG-Xqy5Q" target="_blank">出色不如走运 (VIII)</a>
+* <a href="https://mp.weixin.qq.com/s/eNbQOKYfwQZa2kKCFu3bFw" target="_blank">出色不如走运 (VII)</a>
+* <a href="https://mp.weixin.qq.com/s/p3xl23lyz2FgLfg-YpgbKA" target="_blank">出色不如走运 (VI)</a>
+* <a href="https://mp.weixin.qq.com/s/qLX-WvuCHJXwi29aOiLDiw" target="_blank">出色不如走运 (V)</a>
+* <a href="https://mp.weixin.qq.com/s/2CGEBnu5kR6YmQxqNJR4DA" target="_blank">出色不如走运 (IV)</a>
+* <a href="https://mp.weixin.qq.com/s/AxXVkWD3FbkKgd7h4qD01w" target="_blank">出色不如走运 (III)</a>
+* <a href="https://mp.weixin.qq.com/s/H0OQB81YTTiR2Qyxz8ffVQ" target="_blank">出色不如走运 (II)</a>
+* <a href="https://mp.weixin.qq.com/s/GTrwXcZ0AbvRLdUS546Kpw" target="_blank">出色不如走运 (I)</a>
 
 Factor Investing
 ------
@@ -54,6 +65,8 @@ Fund research
 
 Financial Econometrics
 ------
+* <a href="https://mp.weixin.qq.com/s/5JTyVeDGAzjwWDDrg7XYag" target="_blank">股票多因子模型的回归检验</a>
+* <a href="https://mp.weixin.qq.com/s/5YST-wo-a81iso4IxHS9hg" target="_blank">多因子回归检验中的 Newey-West 调整</a>
 * <a href="https://mp.weixin.qq.com/s/CIbMnqFY5cxCAcjK6bI3nw" target="_blank">Generalized Method of Moments</a>
 * <a href="https://mp.weixin.qq.com/s/ReuZMsateJrC1PiRaxReYA" target="_blank">Portfolio Sort 的源起、中兴和未来</a>
 * <a href="https://mp.weixin.qq.com/s/5YEkJEpGelDJo5Qe7RV9Hg" target="_blank">为什么要进行因子正交化处理?</a>
@@ -65,6 +78,7 @@ Financial Machine Learning
 ------
 * <a href="https://mp.weixin.qq.com/s/sV1KCqUk9phjsVJ6JHmRkg" target="_blank">Financial Machine Learning</a>
 * <a href="https://mp.weixin.qq.com/s/RgkShbGBAaXoSDBpssf76A" target="_blank">为什么机器学习在投资领域不好使</a>
+* <a href="https://mp.weixin.qq.com/s/4YRfFqqZ7XDGHRQLusboig" target="_blank">Missing Financial Data</a>
 * <a href="https://mp.weixin.qq.com/s/06QD8Wl16eZm41iv1gDJAQ" target="_blank">PCA 的源起、中兴和未来</a>
 * <a href="http://www.liang-xin.com/contents/2023/3/20-cff51271aaeb4cbea7ac8e389dfa79dd.html" target="_blank">The Bootstrap Method</a>
 * <a href="https://mp.weixin.qq.com/s/wAWaE6-1GXveRkEqWkI8TQ" target="_blank">一文看懂支持向量机</a>
