@@ -53,11 +53,11 @@ Referee for Journals
 
 Books
 ------
-* Wang, X. and C. Shi (2022). Machine Learing and Asset Pricing (in Chinese). Publishing House of Electronics Industry
+* Wang, X. and C. Shi (2022). <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank">Machine Learing and Asset Pricing (in Chinese)</a>. Publishing House of Electronics Industry
   - Chinese Title: 《机器学习与资产定价》
   - This book is the Chinese translation of Nagel, S. (2021). Machine Learning in Asset Pricing. Princeton University Press.
 
-* Shi, C., Y. Liu, and X. Lian (2020). Factor Investing: Methodology and Practice (in Chinese). Publishing House of Electronics Industry
+* Shi, C., Y. Liu, and X. Lian (2020). <a href="https://www.factorwar.com/" target="_blank">Factor Investing: Methodology and Practice (in Chinese)</a>. Publishing House of Electronics Industry
   - Chinese Title: 《因子投资：方法与实践》
 
 Selected Papers
@@ -68,13 +68,16 @@ Selected Papers
   
 Invited Talks
 ------
-* Talks on quantitative investment and factor investing for higher education institutions
-  - Central University of Finance and Economics, Fudan University, Nanjing University, Peking University, Renmin University of China, Shanghai Advanced Institute of Finance, Shanghai University, Southwestern University of Finance and Economics, Tianjin University, Tsinghua University
+* Talks on asset pricing/factor investing for higher education institutions
+  - Fudan University, Nanjing University, Peking University, Renmin University of China, Shanghai Advanced Institute of Finance, Tianjin University
 
-* Talks on factor investing and advances in empirical asset pricing for institutional investors
-  - Bank of Communications Schroder Fund, Bosera Asset Management, China Asset Management, China Merchants Fund, China Southern Asset Management, E Fund, Everbright Pramerica Fund, Fullgoal Fund, Hua'an Fund, Hwabao WP Fund, ICBC Credit Suisse Asset Management, Penghua Fund, Taikang Asset
+* Talks on quantitative investment for higher education institutions
+  - Central University of Finance and Economics, Nanjing University, Peking University, Peking University HSBC Business School, Shanghai University, Southwestern University of Finance and Economics, Tsinghua University
 
-* Talks on sell-side strategy conferences and other industry associations
+* Talks on advances in asset pricing/factor investing for institutional investors
+  - Bank of Communications Schroder Fund, Bosera Asset Management, China Asset Management, China Merchants Fund, China Southern Asset Management, E Fund Management, Everbright Pramerica Fund, Fullgoal Fund Management, Hua’an Fund Management, Hwabao WP Fund, ICBC Credit Suisse Asset Management, Penghua Fund Management, Taikang Asset
+
+* Talks for sell-side strategy conferences and other industry associations
   - CITIC Futures, CFA Beijing Association, COFCO Futures, Haitong Securities, Huachuang Securities, Kaiyuan Securities, Northeast Securities, SDIC Essence Futures, Western Securities
   
 Honors/Awards
