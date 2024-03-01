@@ -24,23 +24,23 @@ redirect_from:
 Industrial Experience
 ------
 * Co-founder and Chief Scientist, Beijing Liangxin Investment Management Co. Ltd., 09/2015 - present
-  - Advanced Time-Series and Cross-Sectional Data Analysis: Spearhead the analysis of empirical data utilizing a blend of statistical tools and machine learning methods, driving insights about assets' expected returns and risks.
-  - Quantitative Strategy Development Leadership: Orchestrate the entire lifecycle of quantitative strategy development, including the construction of alpha signals, signal aggregation, asset return prediction, covariance matrix modeling, portfolio optimization, and rigorous backtesting, culminating in successful strategy implementation.
-  - Risk Control Expertise: Assess various financial risks such as market, liquidity, tail, and operational risks to identify and mitigate potential threats to the fund's investments.
+  - Advanced time-series and cross-sectional data analysis using statistical modeling and machine learning.
+  - Quantitative Strategy Development Leadership.
+  - Risk control expertise.
 
 * Senior Member of Technical Staff, Oracle America, Inc., 01/2012 - 09/2015
-  - Customer Requirement Analysis: As a member of the core BI functionality team, I collaborated closely with product managers and other internal BI application teams like Finance, SCM, and HCM to understand customer needs and ensure seamless integration and functionality.
-  - Data Warehouse Design: Designed data warehouse models, defined metadata, and built robust data integration procedures. This approach streamlined the process of transforming customer requirements into actionable data insights.
-  - Cross-Functional Collaboration: Worked closely with Quality Assurance (QA) teams to ensure the smooth progression of the entire software development lifecycle.
-  - Global Team Coordination and Client Interaction: Effectively communicated and coordinated with a global team spread across the USA, India, and the UK, ensuring organized progress of development tasks. Conducted technical conference calls with key clients, providing timely solutions to product issues and maintaining excellent client relations.
+  - Customer requirement analysis.
+  - Data warehouse design.
+  - Cross-functional collaboration.
+  - Global team coordination and client interaction.
 
 * Data Quality Analyst (Internship), Citigroup, Inc., 06/2011 - 09/2011, 11/2011 - 01/2012
-  * Data Quality Enhancement: Actively supported the data quality engagement process, playing a crucial role in maintaining and improving the integrity of critical data elements. This involved a focused approach to data management and quality control within the Chief Data Office.
-  * Advanced Data Profiling and Cleansing Techniques: Utilized Six Sigma methodologies for comprehensive data profiling and cleansing. This included statistical data analysis, statistical process control, and root cause analysis to assess and significantly enhance data quality, ensuring the accuracy and reliability of vital corporate data assets.
+  * Data quality enhancement.
+  * Advanced data profiling and cleansing.
 
 * Modeling & Simulation Analyst (Internship), Procter & Gamble, 06/2010 - 08/2010
-  * Production Line Optimization: Successfully optimized the Duracell AAA battery production line, significantly enhancing its capacity and efficiency. This involved applying advanced modeling and simulation techniques to streamline the manufacturing process, demonstrating a keen understanding of production dynamics and operational improvement strategies.
-  * Development of Simulation Test Protocol: Innovatively created and implemented a transfer line integration simulation test protocol for P&G's bottle packing process. This initiative improved the efficiency and effectiveness of the packing process.
+  * Production line optimization via advanced modeling and simulation techniques.
+  * Development of simulation test protocol.
   
 Professional Service
 ------
