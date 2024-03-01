@@ -51,7 +51,16 @@ Referee for Journals
 ------
 * <i>Annals of Operations Research</i>, <i>Computers in Industry</i>, <i>IIE Transactions</i>, <i>European Journal of Operational Research</i>, <i>INFORMS Journal on Computing</i>, <i>Information Systems and e-Business Management</i>, <i>International Journal of Advanced Manufacturing Technology</i>, <i>International Journal of Computer Integrated Manufacturing</i>, <i>International Journal of Management Science (Omega)</i>, <i>International Journal of Production Economics</i>, <i>International Journal of Production Research</i>, <i>International Journal of Physical Distribution & Logistics Management</i>, <i>Journal of Intelligent Manufacturing</i>, <i>Journal of Optimization Theory and Applications</i>, <i>Journal of the Operational Research Society</i>, <i>OR Spectrum</i>, <i>Probability in the Engineering and Informational Sciences</i>
 
-Publications
+Books
+------
+* Wang, X. and C. Shi (2022). Machine Learing and Asset Pricing (in Chinese). Publishing House of Electronics Industry
+  - Chinese Title: 《机器学习与资产定价》
+  - This book is the Chinese translation of Nagel, S. (2021). Machine Learning in Asset Pricing. Princeton University Press.
+
+* Shi, C., Y. Liu, and X. Lian (2020). Factor Investing: Methodology and Practice (in Chinese). Publishing House of Electronics Industry
+  - Chinese Title: 《因子投资：方法与实践》
+
+Selected Papers
 ------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
