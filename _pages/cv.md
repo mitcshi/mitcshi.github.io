@@ -92,8 +92,8 @@ Honors/Awards
 * Graduate with Honors for Bachelor's Degree, Tsinghua University, 07/2005
 * The Second Place Prize in the 6th Creative Machine Design Contest, Tsinghua University, 10/2004
 * National Scholarship of China, 12/2004
-* Tsinghua Academic Excellence Scholarship, Tsinghua University, 12/2003
-* Tsinghua Academic Excellence Scholarship, Tsinghua University, 12/2002
+* Academic Excellence Scholarship, Tsinghua University, 12/2003
+* Academic Excellence Scholarship, Tsinghua University, 12/2002
 
 References
 ------
