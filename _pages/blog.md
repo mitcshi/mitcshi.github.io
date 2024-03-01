@@ -50,15 +50,23 @@ Factor Investing
 * <a href="https://mp.weixin.qq.com/s/vfUsJ6jwdFkGav99auUKLA" target="_blank">到底需要多少因子?</a>
 * <a href="https://www.factorwar.com/littlebook/behavioral-finance/" target="_blank">行为金融学小册子</a>
 * <a href="https://mp.weixin.qq.com/s/skNzwg2FdgYWcgMjE-ruQA" target="_blank">一个混合四因子模型</a>
+* <a href="https://mp.weixin.qq.com/s/vooNbJljmSNx02Mr1pMwOg" target="_blank">价值因子</a>
+* <a href="https://mp.weixin.qq.com/s/wxMai6rMNEo1-F3RnTxllA" target="_blank">动量因子</a>
+* <a href="https://mp.weixin.qq.com/s/z7yi9HeJFslUIlbdNVrZsw" target="_blank">因子动量和动量因子</a>
+* <a href="https://www.factorwar.com/littlebook/profitability-factor/" target="_blank">盈利因子</a>
+* <a href="https://mp.weixin.qq.com/s/LT227uh7V3NnjUatJxlrZw" target="_blank">质量因子</a>
+* <a href="https://mp.weixin.qq.com/s/qNH1M-ThqkKhT1ZOSyR_sQ" target="_blank">低风险异象</a>
 
 Portfolio Management
 ------
+* <a href="https://mp.weixin.qq.com/s/DmB22oncRpYfwnNcFOyAYQ" target="_blank">Harry Markowitz</a>
 * <a href="https://mp.weixin.qq.com/s/0WBpcEkWaNTIJ8H-u_9-OA" target="_blank">浅析资产配置的几种方法</a>
 * <a href="https://mp.weixin.qq.com/s/LmLAU7sn7dGabvXGKL1YcA" target="_blank">正确理解 Barra 的纯因子模型</a>
 * <a href="https://mp.weixin.qq.com/s/LjOtlE-oBI7QoA_sKROexg" target="_blank">Barra 因子模型截面回归求解</a>
 * <a href="https://mp.weixin.qq.com/s/YzIO9c3ErkQhY8I2p96Ukg" target="_blank">Black-Litterman 模型 —— 贝叶斯框架下的资产配置利器</a>
 * <a href="https://mp.weixin.qq.com/s/uAJp3jFJs-wJuj5LRuL8oQ" target="_blank">配置风险收益还是配置噪音?</a>
 * <a href="https://mp.weixin.qq.com/s/1rGJvqTycc28M9OS4hbahA" target="_blank">Ledoit and Wolf 的协方差矩阵收缩之旅</a>
+* <a href="https://mp.weixin.qq.com/s/uAJp3jFJs-wJuj5LRuL8oQ" target="_blank">配置风险收益还是配置噪音</a>
 
 Fund research
 ------
