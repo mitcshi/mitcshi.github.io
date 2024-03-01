@@ -32,20 +32,21 @@ p-Hacking
 * <a href="https://mp.weixin.qq.com/s/6laIT5epxdLVuEEIQbbZ5g" target="_blank">Campbell Harvey: “Tortured Data”</a>
 * <a href="https://mp.weixin.qq.com/s/CfhVXfq9i90aLpwXcfIIow" target="_blank">Being Honest with Backtest Reporting</a>
 * <a href="https://mp.weixin.qq.com/s/QOdTdKjNE838FoM71gYJew" target="_blank">常见多重检验方法及其实证 (I)</a>
-* <a href="https://mp.weixin.qq.com/s/uUl4P6v1ea0zcGvG-Xqy5Q" target="_blank">出色不如走运 (VIII)</a>
-* <a href="https://mp.weixin.qq.com/s/eNbQOKYfwQZa2kKCFu3bFw" target="_blank">出色不如走运 (VII)</a>
-* <a href="https://mp.weixin.qq.com/s/p3xl23lyz2FgLfg-YpgbKA" target="_blank">出色不如走运 (VI)</a>
-* <a href="https://mp.weixin.qq.com/s/qLX-WvuCHJXwi29aOiLDiw" target="_blank">出色不如走运 (V)</a>
-* <a href="https://mp.weixin.qq.com/s/2CGEBnu5kR6YmQxqNJR4DA" target="_blank">出色不如走运 (IV)</a>
-* <a href="https://mp.weixin.qq.com/s/AxXVkWD3FbkKgd7h4qD01w" target="_blank">出色不如走运 (III)</a>
-* <a href="https://mp.weixin.qq.com/s/H0OQB81YTTiR2Qyxz8ffVQ" target="_blank">出色不如走运 (II)</a>
 * <a href="https://mp.weixin.qq.com/s/GTrwXcZ0AbvRLdUS546Kpw" target="_blank">出色不如走运 (I)</a>
+* <a href="https://mp.weixin.qq.com/s/H0OQB81YTTiR2Qyxz8ffVQ" target="_blank">出色不如走运 (II)</a>
+* <a href="https://mp.weixin.qq.com/s/AxXVkWD3FbkKgd7h4qD01w" target="_blank">出色不如走运 (III)</a>
+* <a href="https://mp.weixin.qq.com/s/2CGEBnu5kR6YmQxqNJR4DA" target="_blank">出色不如走运 (IV)</a>
+* <a href="https://mp.weixin.qq.com/s/qLX-WvuCHJXwi29aOiLDiw" target="_blank">出色不如走运 (V)</a>
+* <a href="https://mp.weixin.qq.com/s/p3xl23lyz2FgLfg-YpgbKA" target="_blank">出色不如走运 (VI)</a>
+* <a href="https://mp.weixin.qq.com/s/eNbQOKYfwQZa2kKCFu3bFw" target="_blank">出色不如走运 (VII)</a>
+* <a href="https://mp.weixin.qq.com/s/uUl4P6v1ea0zcGvG-Xqy5Q" target="_blank">出色不如走运 (VIII)</a>
 
 Factor Investing
 ------
 * <a href="https://mp.weixin.qq.com/s/Rjk5rjtLmhON86m_zeC8VQ" target="_blank">Anomalies, Factors, and Multi-Factor Models</a>
 * <a href="https://mp.weixin.qq.com/s/1wFsoAxcIJmencV1abvCOQ" target="_blank">学术界、管理人、投资者视角下的因子投资</a>
 * <a href="https://mp.weixin.qq.com/s/5pxX7I59Bfi2eMpu78tp8w" target="_blank">因子投资的高维数时代</a>
+* <a href="https://mp.weixin.qq.com/s/EOl1jcfdYplKVa_KkiF3rA" target="_blank">稀疏性幻觉</a>
 * <a href="https://mp.weixin.qq.com/s/vfUsJ6jwdFkGav99auUKLA" target="_blank">到底需要多少因子?</a>
 * <a href="https://www.factorwar.com/littlebook/behavioral-finance/" target="_blank">行为金融学小册子</a>
 * <a href="https://mp.weixin.qq.com/s/skNzwg2FdgYWcgMjE-ruQA" target="_blank">一个混合四因子模型</a>
@@ -65,6 +66,7 @@ Fund research
 
 Financial Econometrics
 ------
+* <a href="https://mp.weixin.qq.com/s/5SRHMjU1tHiWLW2k-JPb6Q" target="_blank">金融计量学发展史上的重要文献</a>
 * <a href="https://mp.weixin.qq.com/s/5JTyVeDGAzjwWDDrg7XYag" target="_blank">股票多因子模型的回归检验</a>
 * <a href="https://mp.weixin.qq.com/s/5YST-wo-a81iso4IxHS9hg" target="_blank">多因子回归检验中的 Newey-West 调整</a>
 * <a href="https://mp.weixin.qq.com/s/CIbMnqFY5cxCAcjK6bI3nw" target="_blank">Generalized Method of Moments</a>
@@ -73,15 +75,24 @@ Financial Econometrics
 * <a href="https://mp.weixin.qq.com/s/xCTXTAg5fvb3Zu2x0r5uwg" target="_blank">协方差矩阵的 Newey-West 调整</a>
 * <a href="https://mp.weixin.qq.com/s/1-d2S0KCLx6u9CEIVOO2nQ" target="_blank">收益率预测的贝叶斯收缩</a>
 * <a href="https://mp.weixin.qq.com/s/Cl0H-IFtDcpGDT7D9PqRtA" target="_blank">贝叶斯统计</a>
+* <a href="https://mp.weixin.qq.com/s/eIZHMQfKZOXjmQ6bxN_khA" target="_blank">用 Venn Diagram 理解多元线性回归的 OLS 估计</a>
 
 Financial Machine Learning
 ------
 * <a href="https://mp.weixin.qq.com/s/sV1KCqUk9phjsVJ6JHmRkg" target="_blank">Financial Machine Learning</a>
+* <a href="https://mp.weixin.qq.com/s/REdXtt8lxighwoUiCc98Vg" target="_blank">机器学习时代的回测规程</a>
 * <a href="https://mp.weixin.qq.com/s/RgkShbGBAaXoSDBpssf76A" target="_blank">为什么机器学习在投资领域不好使</a>
-* <a href="https://mp.weixin.qq.com/s/4YRfFqqZ7XDGHRQLusboig" target="_blank">Missing Financial Data</a>
-* <a href="https://mp.weixin.qq.com/s/06QD8Wl16eZm41iv1gDJAQ" target="_blank">PCA 的源起、中兴和未来</a>
+* <a href="https://mp.weixin.qq.com/s/jUd3hIasokFPTSd2wUIP6g" target="_blank">Bias-Variance Tradeoff</a>
 * <a href="http://www.liang-xin.com/contents/2023/3/20-cff51271aaeb4cbea7ac8e389dfa79dd.html" target="_blank">The Bootstrap Method</a>
 * <a href="https://mp.weixin.qq.com/s/wAWaE6-1GXveRkEqWkI8TQ" target="_blank">一文看懂支持向量机</a>
-* <a href="https://mp.weixin.qq.com/s/PHg1C6WbEZ09yqApvUNTGQ" target="_blank">少树服从多树 (II)</a>
 * <a href="https://mp.weixin.qq.com/s/TTo4MjrA_fKupJDl64dK3A" target="_blank">少树服从多树 (I)</a>
-* <a href="https://mp.weixin.qq.com/s/jUd3hIasokFPTSd2wUIP6g" target="_blank">Bias-Variance Tradeoff</a>
+* <a href="https://mp.weixin.qq.com/s/PHg1C6WbEZ09yqApvUNTGQ" target="_blank">少树服从多树 (II)</a>
+* <a href="https://mp.weixin.qq.com/s/5e3RiGX3PNmtdp1hFa8Nmg" target="_blank">主成分分析，换个角度看世界</a>
+* <a href="https://mp.weixin.qq.com/s/06QD8Wl16eZm41iv1gDJAQ" target="_blank">PCA 的源起、中兴和未来</a>
+* <a href="https://mp.weixin.qq.com/s/4YRfFqqZ7XDGHRQLusboig" target="_blank">Missing Financial Data</a>
+* <a href="https://mp.weixin.qq.com/s/3ts6LCPa9KFOfUWVXkyQ2A" target="_blank">浅谈隐马尔可夫模型</a>
+* <a href="https://mp.weixin.qq.com/s/l-M-1nCqiWTZebpXZAlm2Q" target="_blank">用 K-means 聚类做市场状态分析</a>
+* <a href="https://mp.weixin.qq.com/s/Ze23oMDmJy25HWnsp3ZNlQ" target="_blank">逻辑回归</a>
+* <a href="https://mp.weixin.qq.com/s/_HNynycv8uq89_3p-B-eXw" target="_blank">朴素贝叶斯分类器</a>
+* <a href="https://mp.weixin.qq.com/s/0sqjRgcH25MFC2KTtHHZQw" target="_blank">逻辑回归 vs 朴素贝叶斯</a>
+* <a href="https://mp.weixin.qq.com/s/JWad3HDakv5fcpNgGLfnvw" target="_blank">粗糙路径理论 —— 价格序列降维利器</a>
