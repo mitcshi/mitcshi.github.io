@@ -53,11 +53,11 @@ Referee for Journals
 
 Books
 ------
-* Wang, X. and C. Shi (2022). <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank">Machine Learing and Asset Pricing (in Chinese)</a>. Publishing House of Electronics Industry
+* Wang, X. and C. Shi (2022). <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank"><b>Machine Learing and Asset Pricing (in Chinese)</b></a>. Publishing House of Electronics Industry
   - Chinese Title: 《机器学习与资产定价》
   - This book is the Chinese translation of Nagel, S. (2021). Machine Learning in Asset Pricing. Princeton University Press.
 
-* Shi, C., Y. Liu, and X. Lian (2020). <a href="https://www.factorwar.com/" target="_blank">Factor Investing: Methodology and Practice (in Chinese)</a>. Publishing House of Electronics Industry
+* Shi, C., Y. Liu, and X. Lian (2020). <a href="https://www.factorwar.com/" target="_blank"><b>Factor Investing: Methodology and Practice (in Chinese)</b></a>. Publishing House of Electronics Industry
   - Chinese Title: 《因子投资：方法与实践》
 
 Selected Papers
