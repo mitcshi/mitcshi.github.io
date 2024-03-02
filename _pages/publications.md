@@ -32,10 +32,12 @@ Selected Papers
 
 * Study on end-point discrimination methods of circular interpolation<br>(with B. Lin, P. Ye, and H. Zhang), <i><b>Manufacturing Technology & Machine Tool</b></i>, 2007, 86-90
 
+* Study on control algorithm for continuous segments trajectory interpolation<br>(with P. Ye and Q. Lv), <i><b>Journal of Wuhan University of Technology</b> 28</i>(z2), 2006, 994-998
+
 Working Papers
 ------
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian), 2021, SSRN 3928587
 
-* Refined book-to-market ratio and the cross-section of stock returns in China.<br>(with X. Lian and Y. Liu), 2019
+* Refined book-to-market ratio and the cross-section of stock returns in China<br>(with X. Lian and Y. Liu), 2019
 
 * <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a> (with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
