@@ -14,6 +14,9 @@ This page collects my selected blog articles on asset pricing, factor investing,
 * <a href="https://mp.weixin.qq.com/s/GrL_acVeZYdUtodVHLzoHA" target="_blank">主流多因子模型巡礼</a>
 * <a href="https://mp.weixin.qq.com/s/qOR-ivh1te0UNx-Nuvg3gw" target="_blank">Cross-Section Research, A History</a>
 * <a href="https://mp.weixin.qq.com/s/Rl6xlXrrpY4G8eYHouyUAA" target="_blank">Farewell，ad-hoc 多因子模型</a>
+* <a href="https://mp.weixin.qq.com/s/gscIUbqUi-bnOD-7lnyjwg" target="_blank">Eugene Fama —— 一段 50 年的传奇</a>
+* <a href="https://mp.weixin.qq.com/s/K0OvEjH4G0nFrjgjnk0Uug" target="_blank">Which Beta (II)?</a>
+* <a href="https://mp.weixin.qq.com/s/PY-yP88khRz5Tmed7HYZ8A" target="_blank">Which Beta (III)?</a>
 * <a href="https://mp.weixin.qq.com/s/KEeLztS2AeKlVFxkJyXE3w" target="_blank">从 Factor Zoo 到 Factor War，实证资产定价走向何方</a>
 * <a href="https://mp.weixin.qq.com/s/UFOa3kKOIgSCufijTPTisw" target="_blank">Factor War 外传</a>
 * <a href="https://mp.weixin.qq.com/s/TQ24edy8QRZinRWtxRL5PA" target="_blank">实证资产定价理论新进展</a>
@@ -48,14 +51,22 @@ Factor Investing
 * <a href="https://mp.weixin.qq.com/s/5pxX7I59Bfi2eMpu78tp8w" target="_blank">因子投资的高维数时代</a>
 * <a href="https://mp.weixin.qq.com/s/EOl1jcfdYplKVa_KkiF3rA" target="_blank">稀疏性幻觉</a>
 * <a href="https://mp.weixin.qq.com/s/vfUsJ6jwdFkGav99auUKLA" target="_blank">到底需要多少因子?</a>
+* <a href="https://mp.weixin.qq.com/s/uNZreoxPG1sxyFM1cIzYow" target="_blank">另类数据的前景和陷阱</a>
 * <a href="https://www.factorwar.com/littlebook/behavioral-finance/" target="_blank">行为金融学小册子</a>
 * <a href="https://mp.weixin.qq.com/s/skNzwg2FdgYWcgMjE-ruQA" target="_blank">一个混合四因子模型</a>
+* <a href="https://mp.weixin.qq.com/s/um7eHtLRA5zcIlQz1ud_Hw" target="_blank">中国版的 Fama-French 三因子模型</a>
+* <a href="https://mp.weixin.qq.com/s/mtgVSk5Aksgnz3T9NXTgTg" target="_blank">一个加入行为因子的复合模型</a>
 * <a href="https://mp.weixin.qq.com/s/vooNbJljmSNx02Mr1pMwOg" target="_blank">价值因子</a>
 * <a href="https://mp.weixin.qq.com/s/wxMai6rMNEo1-F3RnTxllA" target="_blank">动量因子</a>
 * <a href="https://mp.weixin.qq.com/s/z7yi9HeJFslUIlbdNVrZsw" target="_blank">因子动量和动量因子</a>
 * <a href="https://www.factorwar.com/littlebook/profitability-factor/" target="_blank">盈利因子</a>
 * <a href="https://mp.weixin.qq.com/s/LT227uh7V3NnjUatJxlrZw" target="_blank">质量因子</a>
+* <a href="https://mp.weixin.qq.com/s/2CH0gOMCBc_JiDC-RPUBZw" target="_blank">BAB vs BABAB</a>
 * <a href="https://mp.weixin.qq.com/s/qNH1M-ThqkKhT1ZOSyR_sQ" target="_blank">低风险异象</a>
+* <a href="https://mp.weixin.qq.com/s/0xKWT-mbxPyhcncKtARGZg" target="_blank">异质波动率之谜</a>
+* <a href="https://mp.weixin.qq.com/s/L2jXcM8n3Mm7JJ1D2U3yRQ" target="_blank">加强版反转</a>
+* <a href="https://mp.weixin.qq.com/s/CmAS9tlgbKGDmTa17ZHFTQ" target="_blank">寻找股票市场中的预期差</a>
+* <a href="https://mp.weixin.qq.com/s/DZTAc86tC8sn26s3l0g5cg" target="_blank">PEAD, R.I.P.? PEAD.txt 来代替</a>
 
 Portfolio Management
 ------
@@ -78,12 +89,14 @@ Financial Econometrics
 * <a href="https://mp.weixin.qq.com/s/5JTyVeDGAzjwWDDrg7XYag" target="_blank">股票多因子模型的回归检验</a>
 * <a href="https://mp.weixin.qq.com/s/5YST-wo-a81iso4IxHS9hg" target="_blank">多因子回归检验中的 Newey-West 调整</a>
 * <a href="https://mp.weixin.qq.com/s/CIbMnqFY5cxCAcjK6bI3nw" target="_blank">Generalized Method of Moments</a>
+* <a href="https://mp.weixin.qq.com/s/HFLxJ7QwMAkJJ5WnJLEqvA" target="_blank">Which Beta (I)?</a>
 * <a href="https://mp.weixin.qq.com/s/ReuZMsateJrC1PiRaxReYA" target="_blank">Portfolio Sort 的源起、中兴和未来</a>
 * <a href="https://mp.weixin.qq.com/s/5YEkJEpGelDJo5Qe7RV9Hg" target="_blank">为什么要进行因子正交化处理?</a>
 * <a href="https://mp.weixin.qq.com/s/xCTXTAg5fvb3Zu2x0r5uwg" target="_blank">协方差矩阵的 Newey-West 调整</a>
 * <a href="https://mp.weixin.qq.com/s/1-d2S0KCLx6u9CEIVOO2nQ" target="_blank">收益率预测的贝叶斯收缩</a>
 * <a href="https://mp.weixin.qq.com/s/Cl0H-IFtDcpGDT7D9PqRtA" target="_blank">贝叶斯统计</a>
 * <a href="https://mp.weixin.qq.com/s/eIZHMQfKZOXjmQ6bxN_khA" target="_blank">用 Venn Diagram 理解多元线性回归的 OLS 估计</a>
+* <a href="https://mp.weixin.qq.com/s/qtu7P1vHH0yIaVIUojf2Tg" target="_blank">Bayesian Two-Pass Regression</a>
 
 Financial Machine Learning
 ------
@@ -104,3 +117,5 @@ Financial Machine Learning
 * <a href="https://mp.weixin.qq.com/s/_HNynycv8uq89_3p-B-eXw" target="_blank">朴素贝叶斯分类器</a>
 * <a href="https://mp.weixin.qq.com/s/0sqjRgcH25MFC2KTtHHZQw" target="_blank">逻辑回归 vs 朴素贝叶斯</a>
 * <a href="https://mp.weixin.qq.com/s/JWad3HDakv5fcpNgGLfnvw" target="_blank">粗糙路径理论 —— 价格序列降维利器</a>
+* <a href="https://mp.weixin.qq.com/s/TZogoW--e7Nz1-1376lXzw" target="_blank">Augmented Fama-MacBeth Regression (I)</a>
+* <a href="https://mp.weixin.qq.com/s/ufZj-u9hUf7pRE-VtbsN2w" target="_blank">Augmented Fama-MacBeth Regression (II)</a>
