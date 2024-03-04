@@ -4,6 +4,6 @@ permalink: /code-and-data/
 author_profile: true
 ---
 
-Daily factor returns for Shi, C. and X. Lian (2021). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a>. SSRN 3928587
-* [Link to CSV 1](/path/to/your/csv1.csv)
-* [Link to CSV 2](/path/to/your/csv2.csv)
+Daily factor returns (2000/1/1 to 2023/12/31) for Shi, C. and X. Lian (2021). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a>. SSRN 3928587
+* [Download 1](/files/data/BetaPlus4-Academic-Daily-Returns.csv) (Constructed according to academic procedure)
+* [Download 2](/files/data/BetaPlus4-Simple-Daily-Returns.csv) (Constructed according to industrial practice)
