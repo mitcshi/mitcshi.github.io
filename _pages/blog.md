@@ -20,6 +20,7 @@ This page collects my selected blog articles on asset pricing, factor investing,
 * <a href="https://mp.weixin.qq.com/s/KEeLztS2AeKlVFxkJyXE3w" target="_blank">从 Factor Zoo 到 Factor War，实证资产定价走向何方</a>
 * <a href="https://mp.weixin.qq.com/s/UFOa3kKOIgSCufijTPTisw" target="_blank">Factor War 外传</a>
 * <a href="https://mp.weixin.qq.com/s/TQ24edy8QRZinRWtxRL5PA" target="_blank">实证资产定价理论新进展</a>
+* <a href="https://mp.weixin.qq.com/s/7B0mGBON_hZj1pNe7nz5EQ" target="_blank">机器学习与资产定价</a>
 * <a href="https://mp.weixin.qq.com/s/5GWJU3sKB4VTKe0l1UJeyw" target="_blank">机器学习与资产定价: Facts and Fictions</a>
 * <a href="https://mp.weixin.qq.com/s/5upSsMUMqACBeYu6fkTAPA" target="_blank">The Virtues of Complex Models</a>
 * <a href="https://mp.weixin.qq.com/s/h4G62VY-5cR3XPpv_CIgwA" target="_blank">Risk-Return Tradeoffs (I)</a>
@@ -46,8 +47,10 @@ p-Hacking
 
 Factor Investing
 ------
+* <a href="https://mp.weixin.qq.com/s/0D26XDJj139GP8cCvfIPFw" target="_blank">统一视角下的因子投资</a>
 * <a href="https://mp.weixin.qq.com/s/Rjk5rjtLmhON86m_zeC8VQ" target="_blank">Anomalies, Factors, and Multi-Factor Models</a>
 * <a href="https://mp.weixin.qq.com/s/1wFsoAxcIJmencV1abvCOQ" target="_blank">学术界、管理人、投资者视角下的因子投资</a>
+* <a href="https://mp.weixin.qq.com/s/-jwD06vz8vVfriSZlUyWSw" target="_blank">因子投资 —— “被动的”主动投资</a>
 * <a href="https://mp.weixin.qq.com/s/5pxX7I59Bfi2eMpu78tp8w" target="_blank">因子投资的高维数时代</a>
 * <a href="https://mp.weixin.qq.com/s/EOl1jcfdYplKVa_KkiF3rA" target="_blank">稀疏性幻觉</a>
 * <a href="https://mp.weixin.qq.com/s/vfUsJ6jwdFkGav99auUKLA" target="_blank">到底需要多少因子?</a>
