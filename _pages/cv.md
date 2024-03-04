@@ -66,6 +66,30 @@ Selected Papers
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Working Papers
+------
+* A composite four-factor model in China<br>(with X. Lian), 2021, SSRN 3928587
+
+* Refined book-to-market ratio and the cross-section of stock returns in China<br>(with X. Lian and Y. Liu), 2019
+
+* Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers (with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
+
+Refereed Conference Publications
+------
+* The additive property in long line optimization<br>(with S. B. Gershwin), IFAC Conference on Manufacturing Modeling, Management and Control, Saint Petersburg, Russia, July 19-21, 2013
+
+* Qualitative behavior of average buffer levels<br>(with S. B. Gershwin), The 9th International Conference on Stochastic Models of Manufacturing and Service Operations, Kloster Seeon, Germany, May 25-30, 2013
+
+* Part waiting time distribution in a two-machine line<br>(with S. B. Gershwin), The 14th IFCA Symposium on Information Control Problems in Manufacturing (INCOM 2012), Bucharest, Romania, May 23-25, 2012
+
+* The segmentation method for long line optimization<br>(with S. B. Gershwin), The 8th International Conference on Stochastic Models of Manufacturing and Service Operations, Kusadasi, Turkey, May 28-Jan 2, 2011
+
+* An efficient buffer design algorithm for production line profit maximization<br>(with S. B. Gershwin) The 13th IFCA Symposium on Information Control Problems in Manufacturing (INCOM 2009), Moscow, Russia, June 3-5, 2009
+
+* The look-ahead based adaptive motion control for high-speed machining of complicated contours, (with P. Ye, Q. Lv, and K. Yang), IEEE International Symposium on Assembly and Manufacturing, Ann Arbor, MI, July 22-25, 2007
+
+* The recycling model of the printed circuit board and its economy evaluation<br>(with Q. Niu, D. Xiang, X. Liu, G. Duan), IEEE International Symposium on Electronics and the Environment, Orlando, FL, May 7-10, 2007
+
 Invited Talks
 ------
 * Talks on asset pricing/factor investing for higher education institutions
