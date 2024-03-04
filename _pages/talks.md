@@ -6,7 +6,7 @@ author_profile: true
 
 I have delivered numerous guest lectures at various universities and mutual funds, sharing insights and research findings in asset pricing, factor investing, and quantitative investment. Additionally, I have conducted several talks at sell-side strategy conferences, where I discussed market trends and investment methodologies.
 
-<h3>Lectures on advance in asset pricing/factor investing for higher education institutions</h3>
+<h3>Lectures on advance in asset pricing/factor investing at universities</h3>
 
 * Nanjing University, 06/2022
 * Renmin University of China, 11/2021
@@ -15,7 +15,7 @@ I have delivered numerous guest lectures at various universities and mutual fund
 * Peking University, 12/2020
 * Tianjin University, 04/2020
 
-<h3>Lectures on quantitative investment for higher education institutions</h3>
+<h3>Lectures on quantitative investment at universities</h3>
 
 * Southwestern University of Finance and Economics, 06/2023
 * Central University of Finance and Economics, 06/2023
@@ -25,7 +25,7 @@ I have delivered numerous guest lectures at various universities and mutual fund
 * Peking University, 06/2021
 * Tsinghua University, 11/2018
 
-<h3>Lectures on advances in asset pricing/factor investing for institutional investors</h3>
+<h3>Lectures on advances in asset pricing/factor investing at institutional investors</h3>
 
 * E Fund Management, 10/2021
 * China Merchants Fund, 09/2021
