@@ -25,7 +25,7 @@ I have delivered numerous guest lectures at various universities and mutual fund
 * Peking University, 06/2021
 * Tsinghua University, 11/2018
 
-<h3>Lectures on advances in asset pricing/factor investing at institutional investors</h3>
+<h3>Lectures on advances in asset pricing/factor investing for institutional investors</h3>
 
 * E Fund Management, 10/2021
 * China Merchants Fund, 09/2021
@@ -41,7 +41,7 @@ I have delivered numerous guest lectures at various universities and mutual fund
 * Taikang Asset, 10/2020
 * Penghua Fund Management, 09/2020
 
-<h3>Talks at sell-side strategy conferences and other industry associations</h3>
+<h3>Talks at sell-side strategy conferences and for industry associations</h3>
 
 * COFCO Futures, 07/2023
 * Western Securities, 11/2022
