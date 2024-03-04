@@ -10,7 +10,7 @@ redirect_from:
 <h2 style="margin-top: 0;">Educations</h2>
 
 * Ph.D., Massachusetts Institute of Technology, 2012
-  - Thesis: <a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a>
+  - Thesis: <b><a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a></b>
   - Advisor: Dr. Stanley B. Gershwin
   - Other Committee Members: Dr. Steven Graves, Dr. Brian Anthony
 * M.Eng., Tsinghua University, 2007
@@ -68,11 +68,11 @@ Selected Papers
   
 Working Papers
 ------
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian), 2021, SSRN 3928587
+* <b><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a></b><br>(with X. Lian), 2021, SSRN 3928587
 
 * Refined book-to-market ratio and the cross-section of stock returns in China<br>(with X. Lian and Y. Liu), 2019
 
-* <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a> (with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
+* <b><a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a></b> (with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
 
 Refereed Conference Publications
 ------
