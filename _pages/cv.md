@@ -90,18 +90,18 @@ Refereed Conference Publications
 
 * The recycling model of the printed circuit board and its economy evaluation<br>(with Q. Niu, D. Xiang, X. Liu, G. Duan), IEEE International Symposium on Electronics and the Environment, Orlando, FL, May 7-10, 2007
 
-Invited Talks
+Guest Lectures/Invited Talks
 ------
-* Talks on asset pricing/factor investing for higher education institutions
+* Lectures on advance in asset pricing/factor investing at universities
   - Fudan University, Nanjing University, Peking University, Renmin University of China, Shanghai Advanced Institute of Finance, Tianjin University
 
-* Talks on quantitative investment for higher education institutions
+* Lectures on quantitative investment at universities
   - Central University of Finance and Economics, Nanjing University, Peking University, Peking University HSBC Business School, Shanghai University, Southwestern University of Finance and Economics, Tsinghua University
 
-* Talks on advances in asset pricing/factor investing for institutional investors
+* Lectures on advances in asset pricing/factor investing for institutional investors
   - Bank of Communications Schroder Fund, Bosera Asset Management, China Asset Management, China Merchants Fund, China Southern Asset Management, E Fund Management, Everbright Pramerica Fund, Fullgoal Fund Management, Hua’an Fund Management, Hwabao WP Fund, ICBC Credit Suisse Asset Management, Penghua Fund Management, Taikang Asset
 
-* Talks for sell-side strategy conferences and other industry associations
+* Talks at sell-side strategy conferences and for industry associations
   - CITIC Futures, CFA Beijing Association, COFCO Futures, Haitong Securities, Huachuang Securities, Kaiyuan Securities, Northeast Securities, SDIC Essence Futures, Western Securities
   
 Honors/Awards
