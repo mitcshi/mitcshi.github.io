@@ -6,7 +6,7 @@ classes: unique-page-class
 ---
 This page collects my selected blog articles on asset pricing, factor investing, p-hacking, portfolio management, fund research, financial econometrics, and financial machine learning, mostly written in Chinese.
 
-<h2 style="margin-top: 0;">Asset Pricing</h2>
+<h2>Asset Pricing</h2>
 
 * <a href="https://mp.weixin.qq.com/s/xpcf6NvmQDcu24tXzGuGFw" target="_blank">理解资产价格</a>
 * <a href="https://mp.weixin.qq.com/s/q55Nq8IXEAWfPJ8Z-sO7Qg" target="_blank">多因子模型背后的资产定价理论</a>
