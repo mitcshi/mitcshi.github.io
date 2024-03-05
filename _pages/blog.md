@@ -15,6 +15,7 @@ This page collects my selected blog articles on asset pricing, factor investing,
 * <a href="https://mp.weixin.qq.com/s/qOR-ivh1te0UNx-Nuvg3gw" target="_blank">Cross-Section Research, A History</a>
 * <a href="https://mp.weixin.qq.com/s/Rl6xlXrrpY4G8eYHouyUAA" target="_blank">Farewell，ad-hoc 多因子模型</a>
 * <a href="https://mp.weixin.qq.com/s/gscIUbqUi-bnOD-7lnyjwg" target="_blank">Eugene Fama —— 一段 50 年的传奇</a>
+* <a href="https://mp.weixin.qq.com/s/SaOzbIVnkvd5y3b3xeMTWA" target="_blank">致敬 Stephen Ross：从 APT 到多因子模型</a>
 * <a href="https://mp.weixin.qq.com/s/K0OvEjH4G0nFrjgjnk0Uug" target="_blank">Which Beta (II)?</a>
 * <a href="https://mp.weixin.qq.com/s/PY-yP88khRz5Tmed7HYZ8A" target="_blank">Which Beta (III)?</a>
 * <a href="https://mp.weixin.qq.com/s/KEeLztS2AeKlVFxkJyXE3w" target="_blank">从 Factor Zoo 到 Factor War，实证资产定价走向何方</a>
