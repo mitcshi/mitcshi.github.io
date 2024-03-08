@@ -12,9 +12,9 @@
 
   @include clearfix();
   position: sticky;
-  top: 44px; // 如果masthead的高度是70px
+  top: 60px; // 如果masthead的高度是70px
   margin-bottom: 1em;
-  margin-top: 30px; // 使得sidebar下移，不被masthead挡住
+  margin-top: 35px; // 使得sidebar下移，不被masthead挡住
 
   @include breakpoint($large) {
     @include span(2 of 12);
