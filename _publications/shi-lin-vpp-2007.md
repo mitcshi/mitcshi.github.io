@@ -3,7 +3,7 @@ title: "Design of air-operated spring-based stand assist chair tracking knee joi
 collection: publications
 permalink: /publication/shi-lin-vpp-2007
 excerpt: 'The article discusses the development of an air-operated spring-based stand assist chair designed to help elderly individuals stand up safely and effectively by mitigating risks like dizziness and falls, using experiments and human pace analysis to optimize its design and function.'
-date: 2007-01-01
+date: 2007-12-31
 venue: 'Virtual and Physical Prototyping'
 citation: 'Shi, C. and B. Lin (2007). Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly. <i>Virtual and Physical Prototyping 2</i>(3), 173-179.'
 ---
