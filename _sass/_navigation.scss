@@ -173,10 +173,8 @@
    ========================================================================== */
 
 .greedy-nav {
-  position: fixed;
-  top: 0;
+  position: relative;
   width: 100%;
-  height: 3em;
   background: $background-color;
 
   a {
