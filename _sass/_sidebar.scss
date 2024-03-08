@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  margin-top: 30px; // 使得sidebar下移，不被masthead挡住
 
   @include breakpoint($large) {
     @include span(2 of 12);
