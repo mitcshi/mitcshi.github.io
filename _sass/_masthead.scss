@@ -4,6 +4,8 @@
 
 .masthead {
   position: fixed;
+  top: 0;
+  width: 100%; /* 确保宽度为100% */
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
