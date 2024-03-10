@@ -88,7 +88,7 @@ Refereed Conference Publications
 
 * The look-ahead based adaptive motion control for high-speed machining of complicated contours, (with P. Ye, Q. Lv, and K. Yang), IEEE International Symposium on Assembly and Manufacturing, Ann Arbor, MI, July 22-25, 2007
 
-* The recycling model of the printed circuit board and its economy evaluation<br>(with Q. Niu, D. Xiang, X. Liu, G. Duan), IEEE International Symposium on Electronics and the Environment, Orlando, FL, May 7-10, 2007
+* The recycling model of the printed circuit board and its economy evaluation<br>(with Q. Niu, D. Xiang, X. Liu, and G. Duan), IEEE International Symposium on Electronics and the Environment, Orlando, FL, May 7-10, 2007
 
 Guest Lectures/Invited Talks
 ------
