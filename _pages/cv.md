@@ -60,6 +60,12 @@ Books
 * Shi, C., Y. Liu, and X. Lian (2020). <a href="https://www.factorwar.com/" target="_blank"><b>Factor Investing: Methodology and Practice (in Chinese)</b></a>. Publishing House of Electronics Industry
   - Chinese Title: 《因子投资：方法与实践》
 
+Book Chapter Contributions
+------
+* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch6" target="_blank"><b>Chapter 6: Critical Data Elements: Identification, Validation, and Assessment</b></a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
+
+* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch7" target="_blank"><b>Chapter 7: Prioritization of Critical Data Elements (Funnel Approach)</b></a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
+
 Selected Papers
 ------
   <ul>{% for post in site.publications reversed %}
