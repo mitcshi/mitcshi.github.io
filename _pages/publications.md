@@ -12,9 +12,9 @@ author_profile: true
 
 Book Chapter Contributions
 ------
-* Critical Data Element (CDE) Identification, Validation and Assessment<br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Chapter 6, Wiley 2014
+* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch6" target="_blank">Chapter 6: Critical Data Element: Identification, Validation, and Assessment</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
 
-* Prioritization of CDEs (Funnel Approach)<br>(with H. I. Joyce) In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Chapter 7, Wiley 2014
+* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch7" target="_blank">Chapter 7: Prioritization of Critical Data Elements (Funnel Approach)</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
 
 Selected Journal Papers
 ------
