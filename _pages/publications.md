@@ -10,7 +10,13 @@ author_profile: true
   
 * <a href="https://www.factorwar.com/" target="_blank">Factor Investing: Methodology and Practice (in Chinese)</a><br>Chinese Title: 《因子投资：方法与实践》<br>(with Y. Liu and X. Lian), 2020, Publishing House of Electronics Industry
 
-Selected Papers
+Book Chapter Contributions
+------
+* Critical Data Element (CDE) Identification, Validation and Assessment<br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Chapter 6, Wiley 2014
+
+* Prioritization of CDEs (Funnel Approach)<br>(with H. I. Joyce) In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Chapter 7, Wiley 2014
+
+Selected Journal Papers
 ------
 * <a href="https://mitcshi.github.io/publication/shi-gershwin-ejor-2016">Part sojourn time distribution in a two-machine line</a><br>(with S. B. Gershwin), <i><b>European Journal of Operational Research</b> 248</i>(1), 2016, 146-158
   
