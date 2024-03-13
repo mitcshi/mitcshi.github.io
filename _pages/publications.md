@@ -12,7 +12,7 @@ author_profile: true
 
 Book Chapter Contributions
 ------
-* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch6" target="_blank">Chapter 6: Critical Data Element: Identification, Validation, and Assessment</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
+* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch6" target="_blank">Chapter 6: Critical Data Elements: Identification, Validation, and Assessment</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
 
 * <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch7" target="_blank">Chapter 7: Prioritization of Critical Data Elements (Funnel Approach)</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
 
