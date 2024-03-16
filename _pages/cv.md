@@ -11,7 +11,7 @@ redirect_from:
 
 * Ph.D., Massachusetts Institute of Technology, 2012
   - Doctoral Thesis: <b><a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a></b>
-  - Committee Members: Dr. Stanley B. Gershwin (advisor), Dr. Stephen Graves, Dr. Brian Anthony
+  - Committee Members: Dr. Stanley Gershwin (advisor), Dr. Stephen Graves, Dr. Brian Anthony
   - Minor: Finance
 * M.Eng., Tsinghua University, 2007
   - Graduate with the highest honors (top 2%)
@@ -23,22 +23,22 @@ redirect_from:
 
 Industrial Experience
 ------
-* Co-founder and Chief Scientist, Beijing Liangxin Investment Management Co. Ltd., 09/2015 - present
+* Co-founder and Chief Data Scientist<br><a href="http://www.liang-xin.com/">Beijing Liangxin Investment Management Co. Ltd.</a>, 09/2015 - present
   - Advanced time-series and cross-sectional data analysis using statistical modeling and machine learning.
   - Quantitative strategy development leadership.
   - Risk control expertise.
 
-* Senior Member of Technical Staff, Oracle America, Inc., 01/2012 - 09/2015
+* Senior Member of Technical Staff<br>Oracle America, Inc., Redwood Shores, CA, 01/2012 - 09/2015
   - Customer requirement analysis.
   - Data warehouse design.
   - Cross-functional collaboration.
   - Global team coordination and client interaction.
 
-* Data Quality Analyst (Internship), Citigroup, Inc., 06/2011 - 09/2011, 11/2011 - 01/2012
+* Data Quality Analyst (Internship)<br>Citigroup, Inc., Boston, MA, 06/2011 - 09/2011, 11/2011 - 01/2012
   - Data quality enhancement.
   - Advanced data profiling and cleansing.
 
-* Modeling & Simulation Analyst (Internship), Procter & Gamble, 06/2010 - 08/2010
+* Modeling & Simulation Analyst (Internship)<br>Procter & Gamble, Cincinnati, OH, 06/2010 - 08/2010
   - Production line optimization via advanced modeling and simulation techniques.
   - Development of simulation test protocol.
   
