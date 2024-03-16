@@ -23,7 +23,7 @@ redirect_from:
 
 Industrial Experience
 ------
-* Co-founder and Chief Data Scientist<br><a href="http://www.liang-xin.com/">Beijing Liangxin Investment Management Co. Ltd.</a>, 09/2015 - present
+* Co-founder and Chief Data Scientist<br><a href="http://www.liang-xin.com/" target="_blank">Beijing Liangxin Investment Management Co. Ltd.</a>, 09/2015 - present
   - Advanced time-series and cross-sectional data analysis using statistical modeling and machine learning.
   - Quantitative strategy development leadership.
   - Risk control expertise.
