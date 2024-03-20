@@ -44,7 +44,7 @@ Industrial Experience
   
 Professional Service
 ------
-* Editorial board of <i>Computers in Industry</i>
+* Editorial board of <I><a href="https://www.sciencedirect.com/journal/computers-in-industry" target="_blank">Computers in Industry</a></i>
 * Industry mentor for master's degree in finance, Nanjing University
 
 Referee for Journals
