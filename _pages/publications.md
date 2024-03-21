@@ -6,15 +6,17 @@ author_profile: true
 
 <h2 style="margin-top: 0;">Books</h2>
 
-* <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank">Machine Learning and Asset Pricing (in Chinese)</a><br>Chinese Title: 《机器学习与资产定价》<br>(with X. Wang), 2022, Publishing House of Electronics Industry<br>This book is the Chinese translation of Nagel, S. (2021). <a href="https://press.princeton.edu/books/hardcover/9780691218700/machine-learning-in-asset-pricing" target="_blank">Machine Learning in Asset Pricing</a>. Princeton University Press
+* Navigating the Factor Zoo: The Science of Quantitative Investing<br>(with M. X. Zhang and T. Lu), Routledge, forthcoming
+
+* <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank">Machine Learning and Asset Pricing (in Chinese)</a><br>Chinese Title: 《机器学习与资产定价》<br>(with X. Wang), Publishing House of Electronics Industry, 2022<br>This book is the Chinese translation of Nagel, S. (2021). <a href="https://press.princeton.edu/books/hardcover/9780691218700/machine-learning-in-asset-pricing" target="_blank">Machine Learning in Asset Pricing</a>. Princeton University Press
   
-* <a href="https://www.factorwar.com/" target="_blank">Factor Investing: Methodology and Practice (in Chinese)</a><br>Chinese Title: 《因子投资：方法与实践》<br>(with Y. Liu and X. Lian), 2020, Publishing House of Electronics Industry
+* <a href="https://www.factorwar.com/" target="_blank">Factor Investing: Methodology and Practice (in Chinese)</a><br>Chinese Title: 《因子投资：方法与实践》<br>(with Y. Liu and X. Lian), Publishing House of Electronics Industry, 2020
 
 Book Chapter Contributions
 ------
-* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch6" target="_blank">Chapter 6: Critical Data Elements: Identification, Validation, and Assessment</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
+* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch6" target="_blank">Chapter 6: Critical Data Elements: Identification, Validation, and Assessment</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley, 2014
 
-* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch7" target="_blank">Chapter 7: Prioritization of Critical Data Elements (Funnel Approach)</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
+* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch7" target="_blank">Chapter 7: Prioritization of Critical Data Elements (Funnel Approach)</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley, 2014
 
 Selected Journal Papers
 ------
