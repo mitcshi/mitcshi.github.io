@@ -53,6 +53,8 @@ Referee for Journals
 
 Books
 ------
+* M. X. Zhang, T. Lu, and C. Shi (forthcoming). <b>Navigating the Factor Zoo: The Science of Quantitative Investing</b>. Routledge
+
 * Wang, X. and C. Shi (2022). <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank"><b>Machine Learing and Asset Pricing (in Chinese)</b></a>. Publishing House of Electronics Industry
   - Chinese Title: 《机器学习与资产定价》
   - This book is the Chinese translation of Nagel, S. (2021). Machine Learning in Asset Pricing. Princeton University Press.
