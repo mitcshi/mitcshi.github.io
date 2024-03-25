@@ -74,6 +74,7 @@ Factor Investing
 
 Portfolio Management
 ------
+* <a href="https://mp.weixin.qq.com/s/PXOy7-BZvx_z3S7I1K8qCw" target="_blank">资产配置的源起、中兴和未来</a>
 * <a href="https://mp.weixin.qq.com/s/DmB22oncRpYfwnNcFOyAYQ" target="_blank">Harry Markowitz</a>
 * <a href="https://mp.weixin.qq.com/s/0WBpcEkWaNTIJ8H-u_9-OA" target="_blank">浅析资产配置的几种方法</a>
 * <a href="https://mp.weixin.qq.com/s/LmLAU7sn7dGabvXGKL1YcA" target="_blank">正确理解 Barra 的纯因子模型</a>
