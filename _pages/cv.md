@@ -47,6 +47,25 @@ Professional Service
 * Editorial board of <I><a href="https://www.sciencedirect.com/journal/computers-in-industry" target="_blank">Computers in Industry</a></i>
 * Industry mentor for master's degree in finance, Nanjing University
 
+Teaching Experience
+------
+* MIT 2.853/4 Intro to Manufacturing Systems
+  - Teaching Assistant, Fall 2007, 2008, 2009, 2011
+
+Guest Lectures/Invited Talks
+------
+* Lectures on advance in asset pricing/factor investing at universities
+  - Fudan University, Nanjing University, Peking University, Renmin University of China, Shanghai Advanced Institute of Finance, Tianjin University
+
+* Lectures on quantitative investment at universities
+  - Central University of Finance and Economics, Nanjing University, Peking University, Peking University HSBC Business School, Shanghai University, Southwestern University of Finance and Economics, Tsinghua University
+
+* Lectures on advances in asset pricing/factor investing for institutional investors
+  - Bank of Communications Schroder Fund, Bosera Asset Management, China Asset Management, China Merchants Fund, China Southern Asset Management, E Fund Management, Everbright Pramerica Fund, Fullgoal Fund Management, Hua’an Fund Management, Hwabao WP Fund, ICBC Credit Suisse Asset Management, Penghua Fund Management, Taikang Asset
+
+* Talks at sell-side strategy conferences and for industry associations
+  - CITIC Futures, CFA Beijing Association, COFCO Futures, Haitong Securities, Huachuang Securities, Kaiyuan Securities, Northeast Securities, SDIC Essence Futures, Western Securities
+
 Referee for Journals
 ------
 * <i>Annals of Operations Research</i>, <i>Computers in Industry</i>, <i>IIE Transactions</i>, <i>European Journal of Operational Research</i>, <i>INFORMS Journal on Computing</i>, <i>Information Systems and e-Business Management</i>, <i>International Journal of Advanced Manufacturing Technology</i>, <i>International Journal of Computer Integrated Manufacturing</i>, <i>International Journal of Management Science (Omega)</i>, <i>International Journal of Production Economics</i>, <i>International Journal of Production Research</i>, <i>International Journal of Physical Distribution & Logistics Management</i>, <i>Journal of Intelligent Manufacturing</i>, <i>Journal of Optimization Theory and Applications</i>, <i>Journal of the Operational Research Society</i>, <i>OR Spectrum</i>, <i>Probability in the Engineering and Informational Sciences</i>, <i>管理科学学报</i>
@@ -98,20 +117,6 @@ Refereed Conference Publications
 
 * The recycling model of the printed circuit board and its economy evaluation<br>(with Q. Niu, D. Xiang, X. Liu, and G. Duan), IEEE International Symposium on Electronics and the Environment, Orlando, FL, May 7-10, 2007
 
-Guest Lectures/Invited Talks
-------
-* Lectures on advance in asset pricing/factor investing at universities
-  - Fudan University, Nanjing University, Peking University, Renmin University of China, Shanghai Advanced Institute of Finance, Tianjin University
-
-* Lectures on quantitative investment at universities
-  - Central University of Finance and Economics, Nanjing University, Peking University, Peking University HSBC Business School, Shanghai University, Southwestern University of Finance and Economics, Tsinghua University
-
-* Lectures on advances in asset pricing/factor investing for institutional investors
-  - Bank of Communications Schroder Fund, Bosera Asset Management, China Asset Management, China Merchants Fund, China Southern Asset Management, E Fund Management, Everbright Pramerica Fund, Fullgoal Fund Management, Hua’an Fund Management, Hwabao WP Fund, ICBC Credit Suisse Asset Management, Penghua Fund Management, Taikang Asset
-
-* Talks at sell-side strategy conferences and for industry associations
-  - CITIC Futures, CFA Beijing Association, COFCO Futures, Haitong Securities, Huachuang Securities, Kaiyuan Securities, Northeast Securities, SDIC Essence Futures, Western Securities
-  
 Honors/Awards
 ------
 * Recipient of the Outstanding Contribution Award on the 40th Anniversary of the Publishing House of the Electronics Industry, 08/2022
