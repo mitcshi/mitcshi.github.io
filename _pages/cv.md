@@ -51,7 +51,7 @@ Professional Service
 
 Teaching/Mentoring Experience
 ------
-* MIT 2.853/4 Intro to Manufacturing Systems
+* 2.853/4 Intro to Manufacturing Systems, MIT
   - Teaching Assistant, Fall 2007, 2009, 2010, and 2011
 * Industry advisor for the Master of Finance program, Nanjing University
 
