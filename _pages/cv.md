@@ -7,7 +7,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-<h2 style="margin-top: 0;">Educations</h2>
+<h2 style="margin-top: 0;">Education</h2>
 
 * Ph.D., Massachusetts Institute of Technology, 2012
   - Department of Mechanical Engineering
@@ -24,7 +24,7 @@ redirect_from:
   - Department of Precision Instruments and Mechanology
   - Graduate with honors (top 10%)
 
-Industrial Experience
+Industry Experience
 ------
 * Co-founder and Chief Data Scientist<br><a href="http://www.liang-xin.com/" target="_blank">Beijing Liangxin Investment Management Co. Ltd.</a>, 09/2015 - present
   - Advanced time-series and cross-sectional data analysis using statistical modeling and machine learning.
