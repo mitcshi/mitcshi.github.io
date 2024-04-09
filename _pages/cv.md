@@ -10,15 +10,18 @@ redirect_from:
 <h2 style="margin-top: 0;">Educations</h2>
 
 * Ph.D., Massachusetts Institute of Technology, 2012
+  - Department of Mechanical Engineering
   - Doctoral Thesis: <b><a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a></b>
   - Committee Members: Dr. Stanley Gershwin (advisor), Dr. Stephen Graves, Dr. Brian Anthony
   - Minor: Finance
 * M.Eng., Tsinghua University, 2007
+  - Department of Precision Instruments and Mechanology
   - Graduate with the highest honors (top 2%)
   - Outstanding master's thesis
   - Thesis: Study on the Look-Ahead Function Based Motion Control Algorithm for Continuous Micro Line Trajectories
   - Advisor: Dr. Peiqing Ye
 * B.Eng., Tsinghua University, 2005
+  - Department of Precision Instruments and Mechanology
   - Graduate with honors (top 10%)
 
 Industrial Experience
@@ -44,13 +47,13 @@ Industrial Experience
   
 Professional Service
 ------
-* Editorial board of <I><a href="https://www.sciencedirect.com/journal/computers-in-industry" target="_blank">Computers in Industry</a></i>
-* Industry mentor for master's degree in finance, Nanjing University
+* Editorial board of <i><a href="https://www.sciencedirect.com/journal/computers-in-industry" target="_blank">Computers in Industry</a></i>
 
-Teaching Experience
+Teaching/Mentoring Experience
 ------
 * MIT 2.853/4 Intro to Manufacturing Systems
-  - Teaching Assistant, Fall 2007, 2008, 2009, 2011
+  - Teaching Assistant, Fall 2007, 2009, 2010, and 2011
+* Industry advisor for the Master of Finance program, Nanjing University
 
 Guest Lectures/Invited Talks
 ------
