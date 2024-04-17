@@ -36,6 +36,7 @@ p-Hacking
 * <a href="https://zhuanlan.zhihu.com/p/38663777" target="_blank">在追逐 p-value 的道路上狂奔，却在科学的道路上渐行渐远</a>
 * <a href="https://mp.weixin.qq.com/s/6laIT5epxdLVuEEIQbbZ5g" target="_blank">Campbell Harvey: “Tortured Data”</a>
 * <a href="https://mp.weixin.qq.com/s/CfhVXfq9i90aLpwXcfIIow" target="_blank">Being Honest with Backtest Reporting</a>
+* <a href="https://mp.weixin.qq.com/s/WansAuyQ4UypSOd9_04G1w" target="_blank">多重假设检验的源起、中兴和未来</a>
 * <a href="https://mp.weixin.qq.com/s/QOdTdKjNE838FoM71gYJew" target="_blank">常见多重检验方法及其实证 (I)</a>
 * <a href="https://mp.weixin.qq.com/s/GTrwXcZ0AbvRLdUS546Kpw" target="_blank">出色不如走运 (I)</a>
 * <a href="https://mp.weixin.qq.com/s/H0OQB81YTTiR2Qyxz8ffVQ" target="_blank">出色不如走运 (II)</a>
