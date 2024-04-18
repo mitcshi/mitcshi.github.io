@@ -31,7 +31,7 @@ Industry Experience
   - Quantitative strategy development leadership.
   - Risk control expertise.
 
-* Senior Member of Technical Staff<br>Oracle America, Inc., Redwood Shores, CA, 01/2012 - 09/2015
+* Senior Member of Technical Staff<br>Oracle America, Inc., Redwood Shores, CA, 01/2012 - 02/2016
   - Customer requirement analysis.
   - Data warehouse design.
   - Cross-functional collaboration.
