@@ -43,6 +43,7 @@ I have delivered numerous guest lectures at various universities and mutual fund
 
 <h3>Talks at sell-side strategy conferences and for industry associations</h3>
 
+* Hongyuan Futures, 05/2024
 * COFCO Futures, 07/2023
 * Western Securities, 11/2022
 * CFA Beijing Association, 06/2021
