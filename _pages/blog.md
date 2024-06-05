@@ -103,6 +103,12 @@ Financial Econometrics
 * <a href="https://mp.weixin.qq.com/s/Cl0H-IFtDcpGDT7D9PqRtA" target="_blank">贝叶斯统计</a>
 * <a href="https://mp.weixin.qq.com/s/eIZHMQfKZOXjmQ6bxN_khA" target="_blank">用 Venn Diagram 理解多元线性回归的 OLS 估计</a>
 * <a href="https://mp.weixin.qq.com/s/qtu7P1vHH0yIaVIUojf2Tg" target="_blank">Bayesian Two-Pass Regression</a>
+* <a href="https://mp.weixin.qq.com/s/qcADSWsbz6BE7TBKC-zv6g" target="_blank">金融时间序列分析：基础篇</a>
+* <a href="https://mp.weixin.qq.com/s/d0eK5PjPeXQ3F_5f6Mq3jw" target="_blank">金融时间序列分析：初级篇</a>
+* <a href="https://mp.weixin.qq.com/s/b-EICjsCPLJPkNZRODFkUw" target="_blank">金融时间序列分析：进阶篇</a>
+* <a href="https://mp.weixin.qq.com/s/5dm01vuSK-Se3-r57ouzBQ" target="_blank">金融时间序列分析：应用篇</a>
+* <a href="https://mp.weixin.qq.com/s/UXXcfIifzFzMfIf6BpmhKQ" target="_blank">金融时间序列分析：补完篇</a>
+* <a href="https://mp.weixin.qq.com/s/WDcAYD3gAqKBKoW0LsLg8g" target="_blank">金融时间序列分析：回归篇</a>
 
 Financial Machine Learning
 ------
