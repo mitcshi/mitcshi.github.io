@@ -24,6 +24,10 @@ redirect_from:
   - Department of Precision Instruments and Mechanology
   - Graduate with honors (top 10%)
 
+Academic Experience
+------
+* Assistant Professor (Teaching)<br>with a courtesy title as Professor of Practice in Financial Engineering<br><a href="https://www.cuhk.edu.cn/en" target="_blank">The Chinese University of Hong Kong, Shenzhen</a>, <a href="https://sds.cuhk.edu.cn/" target="_blank">School of Data Science</a>, 08/2024 - present
+
 Industry Experience
 ------
 * Co-founder and Chief Data Scientist<br><a href="http://www.liang-xin.com/" target="_blank">Beijing Liangxin Investment Management Co. Ltd.</a>, 09/2015 - present
@@ -51,6 +55,10 @@ Professional Service
 
 Teaching/Mentoring Experience
 ------
+* DDA3600 Factor Investing, CUHK(SZ)
+  - Instructor, Fall 2024
+* STA4020 Statistical Modeling in Financial Markets, CUHK(SZ)
+  - Instructor, Fall 2024
 * 2.853/4 Intro to Manufacturing Systems, MIT
   - Teaching Assistant, Fall 2007, 2009, 2010, and 2011
 * Industry advisor for the Master of Finance program, Nanjing University
@@ -75,7 +83,7 @@ Referee for Journals
 
 Books
 ------
-* Zhang, M. X., T. Lu, and C. Shi (forthcoming). <b>Navigating the Factor Zoo: The Science of Quantitative Investing</b>. Routledge
+* Zhang, M. X., T. Lu, and C. Shi (forthcoming). <a href="https://www.routledge.com/Navigating-the-Factor-Zoo-The-Science-of-Quantitative-Investing/Zhang-Lu-Shi/p/book/9781032768410" target="_blank"><b>Navigating the Factor Zoo: The Science of Quantitative Investing</b></a>. Routledge
 
 * Wang, X. and C. Shi (2022). <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank"><b>Machine Learing and Asset Pricing (in Chinese)</b></a>. Publishing House of Electronics Industry
   - Chinese Title: 《机器学习与资产定价》
