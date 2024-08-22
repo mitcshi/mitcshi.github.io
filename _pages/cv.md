@@ -26,7 +26,7 @@ redirect_from:
 
 Academic Experience
 ------
-* Assistant Professor (Teaching)<br>with a courtesy title as Professor of Practice in Financial Engineering<br><a href="https://www.cuhk.edu.cn/en" target="_blank">The Chinese University of Hong Kong, Shenzhen</a>, <a href="https://sds.cuhk.edu.cn/" target="_blank">School of Data Science</a>, 08/2024 - present
+* Professor of Practice in Financial Engineering<br><a href="https://www.cuhk.edu.cn/en" target="_blank">The Chinese University of Hong Kong, Shenzhen</a>, School of Data Science, 08/2024 - present
 
 Industry Experience
 ------
