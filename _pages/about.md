@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Chuan Shi is the co-founder of Beijing Liangxin Investment Management Co. Ltd. He is also a Professor of Practice in Financial Engineering at the School of Data Science at The Chinese University of Hong Kong, Shenzhen. He serves as a member of the editorial board for the journal *Computers in Industry*.
+Dr. Chuan Shi is the co-founder of Beijing Liangxin Investment Management Co. Ltd. He is also a Professor of Practice in Financial Engineering at The Chinese University of Hong Kong, Shenzhen. He serves as a member of the editorial board for the journal *Computers in Industry*.
 
 He holds a Ph.D. degree from MIT, specializing in operations research. Before this, he graduated from Tsinghua University with both B.Eng. and M.Eng. degrees. His academic journey has been marked by contributions to optimizing manufacturing systems, bridging both theoretical advances and practical applications. With extensive experience in data analysis, statistical modeling, and machine learning, he has applied these skills to large-scale financial data in the finance sector. His work stands at the intersection of high-level academic research and practical industry application, making him uniquely positioned to offer valuable insights and innovations in data science.
 
