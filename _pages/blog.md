@@ -13,6 +13,7 @@ This page collects my selected blog articles on asset pricing, factor investing,
 * <a href="https://mp.weixin.qq.com/s/vnDJJa_P-0otHe-f_lkH0A" target="_blank">CAPM 的一小段历史</a>
 * <a href="https://mp.weixin.qq.com/s/GrL_acVeZYdUtodVHLzoHA" target="_blank">主流多因子模型巡礼</a>
 * <a href="https://mp.weixin.qq.com/s/qOR-ivh1te0UNx-Nuvg3gw" target="_blank">Cross-Section Research, A History</a>
+* <a href="https://mp.weixin.qq.com/s/ApH5gMvwwcLeyZKH8j1a-g" target="_blank">Cross-Section Research, Looking Forward</a>
 * <a href="https://mp.weixin.qq.com/s/Rl6xlXrrpY4G8eYHouyUAA" target="_blank">Farewell，ad-hoc 多因子模型</a>
 * <a href="https://mp.weixin.qq.com/s/gscIUbqUi-bnOD-7lnyjwg" target="_blank">Eugene Fama —— 一段 50 年的传奇</a>
 * <a href="https://mp.weixin.qq.com/s/SaOzbIVnkvd5y3b3xeMTWA" target="_blank">致敬 Stephen Ross：从 APT 到多因子模型</a>
