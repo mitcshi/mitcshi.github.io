@@ -30,6 +30,7 @@ This page collects my selected blog articles on asset pricing, factor investing,
 * <a href="https://mp.weixin.qq.com/s/GyN7K_uuNf-zopWWtA7tRA" target="_blank">寻找 Mean-Variance Frontier (II)</a>
 * <a href="https://mp.weixin.qq.com/s/QHiTjEg_V4a5hwEsl83k6Q" target="_blank">Toward a better factor model</a>
 * <a href="https://mp.weixin.qq.com/s/rFfiLgV0Y95R4suE9Ji4gg" target="_blank">Toward a better factor model (II)</a>
+* <a href="https://mp.weixin.qq.com/s/E8XxgSTz6tnw8cZ0Xyj3IA" target="_blank">False In-Sample Predictability?</a>
 
 p-Hacking
 ------
