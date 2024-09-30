@@ -114,6 +114,7 @@ Financial Econometrics
 * <a href="https://mp.weixin.qq.com/s/5dm01vuSK-Se3-r57ouzBQ" target="_blank">金融时间序列分析：应用篇</a>
 * <a href="https://mp.weixin.qq.com/s/UXXcfIifzFzMfIf6BpmhKQ" target="_blank">金融时间序列分析：补完篇</a>
 * <a href="https://mp.weixin.qq.com/s/WDcAYD3gAqKBKoW0LsLg8g" target="_blank">金融时间序列分析：回归篇</a>
+* <a href="https://mp.weixin.qq.com/s/jUZrqjTe5xLfV0l9xQ6RYA" target="_blank">金融时间序列分析：预测篇</a>
 
 Financial Machine Learning
 ------
