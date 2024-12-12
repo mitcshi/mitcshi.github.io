@@ -55,9 +55,11 @@ Professional Service
 
 Teaching/Mentoring Experience
 ------
-* DDA3600 Factor Investing, CUHK(SZ)
-  - Instructor, Fall 2024
+* MFE5340 Artificial Intelligence in Financial Engineering: Quantitative Investment, CUHK(SZ)
+  - Instructor, Spring 2025
 * STA4020 Statistical Modeling in Financial Markets, CUHK(SZ)
+  - Instructor, Fall 2024
+* DDA3600 Factor Investing, CUHK(SZ)
   - Instructor, Fall 2024
 * 2.853/4 Intro to Manufacturing Systems, MIT
   - Teaching Assistant, Fall 2007, 2009, 2010, and 2011
