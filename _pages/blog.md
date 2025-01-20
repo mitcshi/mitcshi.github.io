@@ -54,6 +54,7 @@ p-Hacking
 Factor Investing
 ------
 * <a href="https://mp.weixin.qq.com/s/0D26XDJj139GP8cCvfIPFw" target="_blank">统一视角下的因子投资</a>
+* <a href="https://mp.weixin.qq.com/s/cvtel7UxVbCbjVEytBOpOw" target="_blank">Navigating the Factor Zoo</a>
 * <a href="https://mp.weixin.qq.com/s/Rjk5rjtLmhON86m_zeC8VQ" target="_blank">Anomalies, Factors, and Multi-Factor Models</a>
 * <a href="https://mp.weixin.qq.com/s/1wFsoAxcIJmencV1abvCOQ" target="_blank">学术界、管理人、投资者视角下的因子投资</a>
 * <a href="https://mp.weixin.qq.com/s/-jwD06vz8vVfriSZlUyWSw" target="_blank">因子投资 —— “被动的”主动投资</a>
