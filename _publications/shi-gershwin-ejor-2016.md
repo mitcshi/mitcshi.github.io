@@ -1,7 +1,3 @@
-.main-content {
-    padding-top: 60px; /* 根据需要调整这个值 */
-}
-
 ---
 title: "Part sojourn time distribution in a two-machine line"
 collection: publications
