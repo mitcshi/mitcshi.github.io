@@ -4,8 +4,10 @@ permalink: /publication/shi-gershwin-ijpr-2016
 author_profile: true
 ---
 
+<header>
 <h1 class="page__title", itemprop="headline">A segmentation approach for solving buffer allocation problems in large production systems</h1>
 <p>Published in <i>International Journal of Production Research</i>, 2016</p>
+</header>
 
 <br>
 
