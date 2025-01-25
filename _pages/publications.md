@@ -20,6 +20,8 @@ Book Chapter Contributions
 
 Selected Journal Papers
 ------
+* A Graph-Theoretic Approach to Detection of Parkinsonian Freezing of Gait from Videos<br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i><b>Statistics in Medicine</b></i>, 2025, accepted.
+
 * <a href="https://mitcshi.github.io/publication/shi-gershwin-ejor-2016">Part sojourn time distribution in a two-machine line</a><br>(with S. B. Gershwin), <i><b>European Journal of Operational Research</b> 248</i>(1), 2016, 146-158
   
 * <a href="https://mitcshi.github.io/publication/shi-gershwin-ijpr-2016">A segmentation approach for solving buffer allocation problems in large production systems</a> (with S. B. Gershwin), <i><b>International Journal of Production Research</b> 54</i>(20), 2016, 6121-6141
