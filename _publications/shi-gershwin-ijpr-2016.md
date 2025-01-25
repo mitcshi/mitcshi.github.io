@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <header>
-<h1 class="page__title", itemprop="headline">A segmentation approach for solving buffer allocation problems in large production systems</h1>
+<p style="font-size: 24px;"><b>A segmentation approach for solving buffer allocation problems in large production systems</b></p>
 <p>Published in <i>International Journal of Production Research</i>, 2016</p>
 </header>
 
