@@ -102,10 +102,8 @@ Book Chapter Contributions
 
 Selected Papers
 ------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* <a href="https://www.shichuan.info/publication/liu-etal-sim-2025"><b>A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</b></a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i>Statistics in Medicine</i>, 2025, accepted.
+
 Working Papers
 ------
 * <b><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a></b><br>(with X. Lian), 2021, SSRN 3928587
