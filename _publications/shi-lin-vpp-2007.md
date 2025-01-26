@@ -1,11 +1,13 @@
 ---
-title: "Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly"
-collection: publications
+layout: single-sc
 permalink: /publication/shi-lin-vpp-2007
-excerpt: 'The article discusses the development of an air-operated spring-based stand assist chair designed to help elderly individuals stand up safely and effectively by mitigating risks like dizziness and falls, using experiments and human pace analysis to optimize its design and function.'
-date: 2007-12-31
-venue: 'Virtual and Physical Prototyping'
-citation: 'Shi, C. and B. Lin (2007). Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly. <i>Virtual and Physical Prototyping 2</i>(3), 173-179.'
+author_profile: true
 ---
 
-Owing to the reduction of the central pivot function caused by vein motion of the elderly, accidents such as dizziness, and tumble resulting from postural hypotension can occur when the elderly stand quickly from a seated position. In the present paper, an air-operated spring-based stand assist chair is presented, aiming at abating this burden. Through experiments of human pace analysis, the knee joint stress and torque in the standing process are acquired using statistical data from experiments using a simplified model of the human body and expressions of human engineering and theoretical mechanics. Thus the design and parameters of the assistant chair are determined. Two air-operated springs and four roller wheels compose the main part of the actuating mechanism of the proposed chair. The motion analysis of the actuating mechanism, considering the motion restriction and the slight velocity variation of the air-operated spring in the standing process, indicates that the actuating mechanism offers the elderly assistant torque that tracks the knee joint torque in the standing process, and facilitates them to stand up effectively.
+<header>
+<p style="font-size: 24px;"><b>Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly</b></p>
+</header>
+
+Due to the diminished central pivot function in the elderly caused by venous motion, incidents such as dizziness and falls resulting from postural hypotension may occur when they rise quickly from a seated position. This paper introduces an air-operated spring-based stand assist chair designed to alleviate this issue. By conducting experiments on human pace analysis, the knee joint stress and torque during the standing process are obtained using statistical data from a simplified human body model, combined with principles of ergonomics and theoretical mechanics. These findings inform the design and parameters of the assistive chair. The actuating mechanism of the chair primarily consists of two air-operated springs and four roller wheels. Motion analysis of the actuating mechanism, taking into account motion constraints and the slight velocity variation of the air-operated springs during the standing process, demonstrates that the mechanism provides assistive torque that aligns with the knee joint torque, effectively aiding the elderly in standing up.
+
+<p style="font-size: 14px;">Recommended citation: Shi, C. and B. Lin (2007). Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly. <i>Virtual and Physical Prototyping 2</i>(3), 173-179.</p>
