@@ -16,4 +16,4 @@ variance. We implement binary segmentation and incremental computation in our al
 its effectiveness in detecting FOG from video data. The proposed approach that extracts matrix features distincts from the prevailing pixel-based deep learning methods. It provides a new perspective on feature
 extraction for FOG detection, and potentially contributes to improved diagnosis and treatment of PD.
 
-<p style="font-size: 14px;">Recommended citation: Lit et al. (2025). A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos. <i>Statistics in Medicine</i>.</p>
+<p style="font-size: 14px;">Recommended citation: Q. Liu, J. Bao, X. Zhang, C. Shi, C. C. Liu, and R. Luo (2025). A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos. <i>Statistics in Medicine</i>.</p>
