@@ -102,7 +102,11 @@ Book Chapter Contributions
 
 Selected Papers
 ------
-* <a href="https://www.shichuan.info/publication/liu-etal-sim-2025"><b>A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</b></a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i>Statistics in Medicine</i>, 2025, accepted.
+* <a href="https://www.shichuan.info/publication/liu-etal-sim-2025"><b>A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</b></a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i>Statistics in Medicine</i>, 2025, accepted
+
+* <a href="https://www.shichuan.info/publication/shi-gershwin-ejor-2016"><b>Part sojourn time distribution in a two-machine line</b></a><br>(with S. B. Gershwin), <i>European Journal of Operational Research 248</i>(1), 2016, 146-158
+
+* <a href="https://www.shichuan.info/publication/shi-gershwin-ijpr-2016"><b>A segmentation approach for solving buffer allocation problems in large production systems</b></a>(with S. B. Gershwin), <i>International Journal of Production Research 54</i>(20), 2016, 6121-6141
 
 Working Papers
 ------
