@@ -34,6 +34,7 @@ This page collects my selected blog articles on asset pricing, factor investing,
 * <a href="https://mp.weixin.qq.com/s/E8XxgSTz6tnw8cZ0Xyj3IA" target="_blank">False In-Sample Predictability?</a>
 * <a href="https://mp.weixin.qq.com/s/plLtqu8blplRL1j9VgXOeA" target="_blank">资产定价中的实证挑战 (I)</a>
 * <a href="https://mp.weixin.qq.com/s/dhG0nX_B1UP3VAgV4wLzDw" target="_blank">资产定价中的实证挑战 (II)</a>
+* <a href="https://mp.weixin.qq.com/s/qFUS6aUI_ICRAiBULMrEkg" target="_blank">资产定价中的实证挑战 (III)</a>
 
 p-Hacking
 ------
