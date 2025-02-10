@@ -48,7 +48,7 @@ Selected Journal Papers
 
 Working Papers
 ------
-* Operations & Supply Chain Management: Principles and Practice<br>(Crowdsourcing review paper with 94 coauthors), 2025
+* Operations & Supply Chain Management: Principles and Practice<br>(Crowdsourcing review paper with 93 coauthors), 2025
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian), 2021, SSRN 3928587
 
