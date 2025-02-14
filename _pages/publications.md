@@ -50,6 +50,8 @@ Working Papers
 ------
 * Operations & Supply Chain Management: Principles and Practice<br>(Crowdsourcing review paper with 93 coauthors), 2025
 
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral Finance and Factor Investing</a><br>2025, SSRN 5137986
+
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian), 2021, SSRN 3928587
 
 * Refined book-to-market ratio and the cross-section of stock returns in China<br>(with X. Lian and Y. Liu), 2019
