@@ -54,7 +54,7 @@ Working Papers
 
 Permanent Working Papers
 ------
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">Trend following strategies: A practical guide</a><br>(with X. Lian), 2025, SSRN 5140633
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140633" target="_blank">Trend following strategies: A practical guide</a><br>(with X. Lian), 2025, SSRN 5140633
   
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral Finance and Factor Investing</a><br>2025, SSRN 5137986
 
