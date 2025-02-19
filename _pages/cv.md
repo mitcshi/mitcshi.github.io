@@ -118,7 +118,7 @@ Selected Papers
 
 * <a href="https://www.shichuan.info/publication/ye-shi-etal-ijamt-2008">Interpolation of continuous micro line segment trajectories based on look-ahead algorithm in high-speed machining</a> (with P. Ye, K. Yang, and Q. Lv), <i>International Journal of Advanced Manufacturing Technology 37</i>, 2008, 881-897
 
-* <b>Look-ahead feedrate plan method based on the requirement of real time and its experimental study</b> (with Q. Lv, H. Zhang, K. Yang, and H. Lu), <i>Machine Tool & Hydraulics 36</i>(4), 2008, 1-4
+* Look-ahead feedrate plan method based on the requirement of real time and its experimental study (with Q. Lv, H. Zhang, K. Yang, and H. Lu), <i>Machine Tool & Hydraulics 36</i>(4), 2008, 1-4
 
 * <a href="https://www.shichuan.info/publication/shi-lin-vpp-2007">Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly</a> (with B. Lin), <i>Virtual and Physical Prototyping 2</i>(3), 2007, 173-179
 
@@ -126,11 +126,11 @@ Selected Papers
 
 * <a href="https://www.shichuan.info/publication/yang-shi-etal-thu-2007">Smooth transfer control algorithm of continuous segment trajectory in CNC system</a><br>(with K. Yang, P. Ye, and Q. Lv), <i>Journal of Tsinghua University (Science and Technology) 47</i>(8), 2007, 1295-1299
 
-* <b>Study on end-point discrimination methods of circular interpolation</b><br>(with B. Lin, P. Ye, and H. Zhang), <i>Manufacturing Technology & Machine Tool</i>, 2007, 86-90
+* Study on end-point discrimination methods of circular interpolation<br>(with B. Lin, P. Ye, and H. Zhang), <i>Manufacturing Technology & Machine Tool</i>, 2007, 86-90
 
-* <b>The practical study of the professional but non-required courses</b><br>(with P. Ye and H. Zhang) <i>Experimental Technology and Management 24</i>(4), 100-103
+* The practical study of the professional but non-required courses<br>(with P. Ye and H. Zhang) <i>Experimental Technology and Management 24</i>(4), 100-103
 
-* <b>Study on control algorithm for continuous segments trajectory interpolation</b><br>(with P. Ye and Q. Lv), <i>Journal of Wuhan University of Technology 28</i>(z2), 2006, 994-998
+* Study on control algorithm for continuous segments trajectory interpolation<br>(with P. Ye and Q. Lv), <i>Journal of Wuhan University of Technology 28</i>(z2), 2006, 994-998
 
 Working Papers
 ------
