@@ -11,7 +11,7 @@ redirect_from:
 
 * Ph.D., Massachusetts Institute of Technology, 2012
   - Department of Mechanical Engineering
-  - Doctoral Thesis: <b><a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a></b>
+  - Doctoral Thesis: <a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a>
   - Committee Members: Dr. Stanley Gershwin (advisor), Dr. Stephen Graves, Dr. Brian Anthony
   - Minor: Finance
 * M.Eng., Tsinghua University, 2007
@@ -85,46 +85,46 @@ Referee for Journals
 
 Books
 ------
-* Zhang, M. X., T. Lu, and C. Shi (2025). <a href="https://www.routledge.com/Navigating-the-Factor-Zoo-The-Science-of-Quantitative-Investing/Zhang-Lu-Shi/p/book/9781032768410" target="_blank"><b>Navigating the Factor Zoo: The Science of Quantitative Investing</b></a>. Routledge
+* Zhang, M. X., T. Lu, and C. Shi (2025). <a href="https://www.routledge.com/Navigating-the-Factor-Zoo-The-Science-of-Quantitative-Investing/Zhang-Lu-Shi/p/book/9781032768410" target="_blank">Navigating the Factor Zoo: The Science of Quantitative Investing</a>. Routledge
 
-* Wang, X. and C. Shi (2022). <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank"><b>Machine Learning and Asset Pricing (in Chinese)</b></a>. Publishing House of Electronics Industry
+* Wang, X. and C. Shi (2022). <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank">Machine Learning and Asset Pricing (in Chinese)</a>. Publishing House of Electronics Industry
   - Chinese Title: 《机器学习与资产定价》
   - This book is the Chinese translation of Nagel, S. (2021). Machine Learning in Asset Pricing. Princeton University Press.
 
-* Shi, C., Y. Liu, and X. Lian (2020). <a href="https://www.factorwar.com/" target="_blank"><b>Factor Investing: Methodology and Practice (in Chinese)</b></a>. Publishing House of Electronics Industry
+* Shi, C., Y. Liu, and X. Lian (2020). <a href="https://www.factorwar.com/" target="_blank">Factor Investing: Methodology and Practice (in Chinese)</a>. Publishing House of Electronics Industry
   - Chinese Title: 《因子投资：方法与实践》
 
 Book Chapter Contributions
 ------
-* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch6" target="_blank"><b>Chapter 6: Critical Data Elements: Identification, Validation, and Assessment</b></a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
+* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch6" target="_blank">Chapter 6: Critical Data Elements: Identification, Validation, and Assessment</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
 
-* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch7" target="_blank"><b>Chapter 7: Prioritization of Critical Data Elements (Funnel Approach)</b></a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
+* <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch7" target="_blank">Chapter 7: Prioritization of Critical Data Elements (Funnel Approach)</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
 
 Selected Papers
 ------
-* <a href="https://www.shichuan.info/publication/liu-etal-sim-2025"><b>A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</b></a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i>Statistics in Medicine</i>, 2025, accepted
+* <a href="https://www.shichuan.info/publication/liu-etal-sim-2025">A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i>Statistics in Medicine</i>, 2025, accepted
 
-* <a href="https://www.shichuan.info/publication/shi-gershwin-ejor-2016"><b>Part sojourn time distribution in a two-machine line</b></a><br>(with S. B. Gershwin), <i>European Journal of Operational Research 248</i>(1), 2016, 146-158
+* <a href="https://www.shichuan.info/publication/shi-gershwin-ejor-2016">Part sojourn time distribution in a two-machine line</a><br>(with S. B. Gershwin), <i>European Journal of Operational Research 248</i>(1), 2016, 146-158
 
-* <a href="https://www.shichuan.info/publication/shi-gershwin-ijpr-2016"><b>A segmentation approach for solving buffer allocation problems in large production systems</b></a> (with S. B. Gershwin), <i>International Journal of Production Research 54</i>(20), 2016, 6121-6141
+* <a href="https://www.shichuan.info/publication/shi-gershwin-ijpr-2016">A segmentation approach for solving buffer allocation problems in large production systems</a> (with S. B. Gershwin), <i>International Journal of Production Research 54</i>(20), 2016, 6121-6141
 
-* <a href="https://www.shichuan.info/publication/shi-etal-ijlss-2015"><b>Improving financial services data quality - A Citigroup practice</b></a><br>(with H. Heien, J. R. Talburt, R. A. Granese, D. W. Gray, R. Jugulum, R. Ramachandran, J. Singh, J. Hamilton, and H. I. Joyce), <i>International Journal of Lean Six Sigma 6</i>(2), 2015, 98-110
+* <a href="https://www.shichuan.info/publication/shi-etal-ijlss-2015">Improving financial services data quality - A Citigroup practice</a><br>(with H. Heien, J. R. Talburt, R. A. Granese, D. W. Gray, R. Jugulum, R. Ramachandran, J. Singh, J. Hamilton, and H. I. Joyce), <i>International Journal of Lean Six Sigma 6</i>(2), 2015, 98-110
 
-* <a href="https://www.shichuan.info/publication/shi-gershwin-cie-2014"><b>Improvement of the evaluation of closed-loop production systems with unreliable machines and finite buffers</b></a> (with S. B. Gershwin), <i>Computers & Industrial Engineering 75</i>(1), 2014, 239-256
+* <a href="https://www.shichuan.info/publication/shi-gershwin-cie-2014">Improvement of the evaluation of closed-loop production systems with unreliable machines and finite buffers</a> (with S. B. Gershwin), <i>Computers & Industrial Engineering 75</i>(1), 2014, 239-256
 
-* <a href="https://www.shichuan.info/publication/shi-ye-ijamt-2011"><b>The look-ahead function based interpolation algorithm for continuous micro line trajectories</b></a> (with P. Ye), <i>International Journal of Advanced Manufacturing Technology 54</i>(5-8), 2011, 649-668
+* <a href="https://www.shichuan.info/publication/shi-ye-ijamt-2011">The look-ahead function based interpolation algorithm for continuous micro line trajectories</a> (with P. Ye), <i>International Journal of Advanced Manufacturing Technology 54</i>(5-8), 2011, 649-668
 
-* <a href="https://www.shichuan.info/publication/shi-gershwin-ijpe-2009"><b>An efficient buffer design algorithm for production line profit maximization</b></a><br>(with S. B. Gershwin), <i>International Journal of Production Economics 122</i>(2), 2009, 725-740
+* <a href="https://www.shichuan.info/publication/shi-gershwin-ijpe-2009">An efficient buffer design algorithm for production line profit maximization</a><br>(with S. B. Gershwin), <i>International Journal of Production Economics 122</i>(2), 2009, 725-740
 
-* <a href="https://www.shichuan.info/publication/ye-shi-etal-ijamt-2008"><b>Interpolation of continuous micro line segment trajectories based on look-ahead algorithm in high-speed machining</b></a> (with P. Ye, K. Yang, and Q. Lv), <i>International Journal of Advanced Manufacturing Technology 37</i>, 2008, 881-897
+* <a href="https://www.shichuan.info/publication/ye-shi-etal-ijamt-2008">Interpolation of continuous micro line segment trajectories based on look-ahead algorithm in high-speed machining</a> (with P. Ye, K. Yang, and Q. Lv), <i>International Journal of Advanced Manufacturing Technology 37</i>, 2008, 881-897
 
 * <b>Look-ahead feedrate plan method based on the requirement of real time and its experimental study</b> (with Q. Lv, H. Zhang, K. Yang, and H. Lu), <i>Machine Tool & Hydraulics 36</i>(4), 2008, 1-4
 
-* <a href="https://www.shichuan.info/publication/shi-lin-vpp-2007"><b>Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly</b></a> (with B. Lin), <i>Virtual and Physical Prototyping 2</i>(3), 2007, 173-179
+* <a href="https://www.shichuan.info/publication/shi-lin-vpp-2007">Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly</a> (with B. Lin), <i>Virtual and Physical Prototyping 2</i>(3), 2007, 173-179
 
-* <a href="https://www.shichuan.info/publication/shi-etal-cme-2007"><b>Study on S-shape curve acceleration and deceleration control on NC system</b></a><br>(with T. Zhao, P. Ye, and Q. Lv), <i>China Mechanical Engineering 18</i>(7), 2007, 1421-1425
+* <a href="https://www.shichuan.info/publication/shi-etal-cme-2007">Study on S-shape curve acceleration and deceleration control on NC system</a><br>(with T. Zhao, P. Ye, and Q. Lv), <i>China Mechanical Engineering 18</i>(7), 2007, 1421-1425
 
-* <a href="https://www.shichuan.info/publication/yang-shi-etal-thu-2007"><b>Smooth transfer control algorithm of continuous segment trajectory in CNC system</b></a><br>(with K. Yang, P. Ye, and Q. Lv), <i>Journal of Tsinghua University (Science and Technology) 47</i>(8), 2007, 1295-1299
+* <a href="https://www.shichuan.info/publication/yang-shi-etal-thu-2007">Smooth transfer control algorithm of continuous segment trajectory in CNC system</a><br>(with K. Yang, P. Ye, and Q. Lv), <i>Journal of Tsinghua University (Science and Technology) 47</i>(8), 2007, 1295-1299
 
 * <b>Study on end-point discrimination methods of circular interpolation</b><br>(with B. Lin, P. Ye, and H. Zhang), <i>Manufacturing Technology & Machine Tool</i>, 2007, 86-90
 
