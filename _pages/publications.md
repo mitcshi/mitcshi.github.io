@@ -58,6 +58,8 @@ Permanent Working Papers
   
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral finance and factor investing</a><br>2025, SSRN 5137986
 
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145640" target="_blank">Multiple hypothesis testing, empirical asset pricing, and factor investing</a><br>2024, SSRN 5145640
+
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144971" target="_blank">Piotroski's F-score in the Chinese stock market</a><br>2024, SSRN 5144971
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian), 2021, SSRN 3928587
