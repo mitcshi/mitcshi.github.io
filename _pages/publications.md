@@ -20,7 +20,7 @@ Book Chapter Contributions
 
 Selected Journal Papers
 ------
-* <a href="https://mitcshi.github.io/publication/liu-etal-sim-2025">A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i><b>Statistics in Medicine</b></i>, 2025, accepted.
+* <a href="https://mitcshi.github.io/publication/liu-etal-sim-2025">A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i><b>Statistics in Medicine</b> 44</i>(5), 2025, e70020.
 
 * <a href="https://mitcshi.github.io/publication/shi-gershwin-ejor-2016">Part sojourn time distribution in a two-machine line</a><br>(with S. B. Gershwin), <i><b>European Journal of Operational Research</b> 248</i>(1), 2016, 146-158
   
