@@ -148,6 +148,8 @@ Permanent Working Papers
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144971" target="_blank">Piotroski's F-score in the Chinese stock market</a><br>2024, SSRN 5144971
 
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146149" target="_blank">The profitability factor, its extensions, and evidence from China</a><br>(with X. Lian), 2022, SSRN 5146149
+
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian), 2021, SSRN 3928587
 
 * Refined book-to-market ratio and the cross-section of stock returns in China<br>(with X. Lian and Y. Liu), 2019
