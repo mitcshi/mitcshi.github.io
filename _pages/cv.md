@@ -136,7 +136,7 @@ Working Papers
 ------
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150205" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a><br>2025, SSRN 5150205
 
-* Operations & supply chain management: Principles and practice<br>(Crowdsourcing review paper with 93 coauthors), 2025
+* Operations & supply chain management: Principles and practice<br>(Crowdsourcing review paper with 92 coauthors), 2025, under review
 
 * <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a> (with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
 
