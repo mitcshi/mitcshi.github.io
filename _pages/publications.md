@@ -50,6 +50,8 @@ Working Papers
 ------
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150205" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a><br>2025, SSRN 5150205
 
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral finance and factor investing</a><br>2025, SSRN 5137986
+
 * Operations & supply chain management: Principles and practice<br>(Crowdsourcing review paper with 92 coauthors), 2025, under review
 
 * <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a> (with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
@@ -57,8 +59,6 @@ Working Papers
 Permanent Working Papers
 ------
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140633" target="_blank">Trend following strategies: A practical guide</a><br>(with X. Lian), 2025, SSRN 5140633
-  
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral finance and factor investing</a><br>2025, SSRN 5137986
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145640" target="_blank">Multiple hypothesis testing, empirical asset pricing, and factor investing</a><br>2024, SSRN 5145640
 
