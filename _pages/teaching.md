@@ -4,17 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h3 style="margin-top: 0;">MFE5340 Artificial Intelligence in Financial Engineering: Quantitative Investment</h3>
-
-* This course provides a comprehensive introduction to machine learning in quantitative investment, bridging traditional econometrics and modern machine learning techniques. Core topics include asset pricing theory, high-dimensional regression, PCA and factor models, and multiple hypothesis testing. Advanced machine learning applications, such as tree-based methods, neural networks, and large language models, are also covered. Students will learn to tackle real-world challenges like data interpretability, missing data, and model complexity. With a focus on practical applications in finance, this course equips students to analyze complex financial data and apply machine learning in quantitative investment strategies.
-* Instructor (Spring 2025)
-
-<h3>STA4020 Statistical Modeling in Financial Markets</h3>
-
-* This course offers a comprehensive exploration of statistical modeling techniques applied to financial markets, preparing students to tackle complex financial modeling challenges. Over the semester, students will develop a deep understanding of econometric principles, time-series analysis, and maximum likelihood estimation. The curriculum also includes advanced topics such as latent factor models and Bayesian statistics, focusing on their applications in asset pricing and asset allocation. Additionally, students will learn about risk models, stochastic calculus, and the bootstrap method. These topics will be taught with an emphasis on ensuring that students can flexibly apply them in real-world financial analysis.
-* Instructor (Fall 2024)
-
-<h3>DDA3600 Factor Investing</h3>
+<h3 style="margin-top: 0;">DDA3600 Factor Investing</h3>
 
 * This course offers a thorough exploration of factor investing, blending econometrics and machine learning. Key topics include foundational concepts of factor investing, portfolio sorting, cross-sectional and time-series regression methods, and multiple hypothesis testing. The course also covers advanced machine learning models, integrating alternative data sources, and addressing practical challenges such as factor timing and allocation. Drawing on the instructor’s extensive experience in the quantitative hedge fund industry, the course emphasizes real-world practice and application. By course end, students will be prepared to conduct empirical research, develop and backtest factor-based strategies, and apply factor investing principles in professional settings.
 * Instructor (Fall 2024)
