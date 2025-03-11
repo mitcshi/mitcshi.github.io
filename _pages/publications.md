@@ -24,19 +24,19 @@ Selected Journal Papers
 
 * <a href="https://mitcshi.github.io/publication/shi-gershwin-ejor-2016">Part sojourn time distribution in a two-machine line</a><br>(with S. B. Gershwin), <i><b>European Journal of Operational Research</b> 248</i>(1), 2016, 146-158
   
-* <a href="https://mitcshi.github.io/publication/shi-gershwin-ijpr-2016">A segmentation approach for solving buffer allocation problems in large production systems</a> (with S. B. Gershwin), <i><b>International Journal of Production Research</b> 54</i>(20), 2016, 6121-6141
+* <a href="https://mitcshi.github.io/publication/shi-gershwin-ijpr-2016">A segmentation approach for solving buffer allocation problems in large production systems</a><br>(with S. B. Gershwin), <i><b>International Journal of Production Research</b> 54</i>(20), 2016, 6121-6141
 
-* <a href="https://mitcshi.github.io/publication/shi-etal-ijlss-2015">Improving financial services data quality - A Citigroup practice</a><br>(with H. Heien, J. R. Talburt, R. A. Granese, D. W. Gray, R. Jugulum, R. Ramachandran, J. Singh, J. Hamilton, and H. I. Joyce), <i><b>International Journal of Lean Six Sigma</b> 6</i>(2), 2015, 98-110
+* <a href="https://mitcshi.github.io/publication/shi-etal-ijlss-2015">Improving financial services data quality - A Citigroup practice</a><br>(with H. Heien, J. R. Talburt, R. A. Granese, D. W. Gray, R. Jugulum, R. Ramachandran, J. Singh, J. Hamilton, and H. I. Joyce)<br><i><b>International Journal of Lean Six Sigma</b> 6</i>(2), 2015, 98-110
 
-* <a href="https://mitcshi.github.io/publication/shi-gershwin-cie-2014">Improvement of the evaluation of closed-loop production systems with unreliable machines and finite buffers</a> (with S. B. Gershwin), <i><b>Computers & Industrial Engineering</b> 75</i>, 2014, 239-256
+* <a href="https://mitcshi.github.io/publication/shi-gershwin-cie-2014">Improvement of the evaluation of closed-loop production systems with unreliable machines and finite buffers</a><br>(with S. B. Gershwin), <i><b>Computers & Industrial Engineering</b> 75</i>, 2014, 239-256
 
-* <a href="https://mitcshi.github.io/publication/shi-ye-ijamt-2011">The look-ahead function based interpolation algorithm for continuous micro line trajectories</a> (with P. Ye), <i><b>International Journal of Advanced Manufacturing Technology</b> 54</i>(5-8), 2011, 649-668
+* <a href="https://mitcshi.github.io/publication/shi-ye-ijamt-2011">The look-ahead function based interpolation algorithm for continuous micro line trajectories</a><br>(with P. Ye), <i><b>International Journal of Advanced Manufacturing Technology</b> 54</i>(5-8), 2011, 649-668
 
 * <a href="https://mitcshi.github.io/publication/shi-gershwin-ijpe-2009">An efficient buffer design algorithm for production line profit maximization</a><br>(with S. B. Gershwin), <i><b>International Journal of Production Economics</b> 122</i>(2), 2009, 725-740
 
-* <a href="https://mitcshi.github.io/publication/ye-shi-etal-ijamt-2008">Interpolation of continuous micro line segment trajectories based on look-ahead algorithm in high-speed machining</a> (with P. Ye, K. Yang, and Q. Lv), <i><b>International Journal of Advanced Manufacturing Technology</b> 37</i>, 2008, 881-897
+* <a href="https://mitcshi.github.io/publication/ye-shi-etal-ijamt-2008">Interpolation of continuous micro line segment trajectories based on look-ahead algorithm in high-speed machining</a><br>(with P. Ye, K. Yang, and Q. Lv), <i><b>International Journal of Advanced Manufacturing Technology</b> 37</i>, 2008, 881-897
 
-* <a href="https://mitcshi.github.io/publication/shi-lin-vpp-2007">Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly</a> (with B. Lin), <i><b>Virtual and Physical Prototyping</b> 2</i>(3), 2007, 173-179
+* <a href="https://mitcshi.github.io/publication/shi-lin-vpp-2007">Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly</a><br>(with B. Lin), <i><b>Virtual and Physical Prototyping</b> 2</i>(3), 2007, 173-179
 
 * <a href="https://mitcshi.github.io/publication/shi-etal-cme-2007">Study on S-shape curve acceleration and deceleration control on NC system</a><br>(with T. Zhao, P. Ye, and Q. Lv), <i><b>China Mechanical Engineering</b> 18</i>(7), 2007, 1421-1425
 
@@ -48,24 +48,24 @@ Selected Journal Papers
 
 Working Papers
 ------
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150205" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a><br>2025, SSRN 5150205
-
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral finance and factor investing</a><br>2025, SSRN 5137986
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150205" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a> 2025, SSRN 5150205
 
 * Operations & supply chain management: Principles and practice<br>(Crowdsourcing review paper with 92 coauthors), 2025, under review
 
-* <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a> (with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
+* <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a></br>(with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
 
 Permanent Working Papers
 ------
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140633" target="_blank">Trend following strategies: A practical guide</a><br>(with X. Lian), 2025, SSRN 5140633
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral finance and empirical asset pricing</a> 2025, SSRN 5137986
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145640" target="_blank">Multiple hypothesis testing, empirical asset pricing, and factor investing</a><br>2024, SSRN 5145640
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140633" target="_blank">Trend following strategies: A practical guide</a> (with X. Lian), 2025, SSRN 5140633
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144971" target="_blank">Piotroski's F-score in the Chinese stock market</a><br>2024, SSRN 5144971
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145640" target="_blank">Multiple hypothesis testing, empirical asset pricing, and factor investing</a> 2024, SSRN 5145640
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146149" target="_blank">The profitability factor, its extensions, and evidence from China</a><br>(with X. Lian), 2022, SSRN 5146149
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144971" target="_blank">Piotroski's F-score in the Chinese stock market</a> 2024, SSRN 5144971
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian), 2021, SSRN 3928587
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146149" target="_blank">The profitability factor, its extensions, and evidence from China</a> (with X. Lian), 2022, SSRN 5146149
 
-* Refined book-to-market ratio and the cross-section of stock returns in China<br>(with X. Lian and Y. Liu), 2019
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a> (with X. Lian), 2021, SSRN 3928587
+
+* Refined book-to-market ratio and the cross-section of stock returns in China (with X. Lian and Y. Liu), 2019
