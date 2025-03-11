@@ -52,7 +52,7 @@ Working Papers
 
 * Operations & supply chain management: Principles and practice<br>(Crowdsourcing review paper with 92 coauthors), 2025, under review
 
-* <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a></br>(with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
+* <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a><br>(with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
 
 Permanent Working Papers
 ------
