@@ -81,13 +81,13 @@ Referee for Journals
 
 Books
 ------
-* Zhang, M. X., T. Lu, and C. Shi (2025). <a href="https://www.routledge.com/Navigating-the-Factor-Zoo-The-Science-of-Quantitative-Investing/Zhang-Lu-Shi/p/book/9781032768410" target="_blank">Navigating the Factor Zoo: The Science of Quantitative Investing</a>. Routledge
+* Zhang, M. X., T. Lu, and C. Shi (2025). <a href="https://www.routledge.com/Navigating-the-Factor-Zoo-The-Science-of-Quantitative-Investing/Zhang-Lu-Shi/p/book/9781032768410" target="_blank"><i>Navigating the Factor Zoo: The Science of Quantitative Investing</i></a>. Routledge
 
-* Wang, X. and C. Shi (2022). <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank">Machine Learning and Asset Pricing (in Chinese)</a>. Publishing House of Electronics Industry
+* Wang, X. and C. Shi (2022). <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank"><i>Machine Learning and Asset Pricing (in Chinese)</i></a>. Publishing House of Electronics Industry
   - Chinese Title: 《机器学习与资产定价》
-  - This book is the Chinese translation of Nagel, S. (2021). Machine Learning in Asset Pricing. Princeton University Press.
+  - This book is the Chinese translation of Nagel, S. (2021). <i>Machine Learning in Asset Pricing</i>. Princeton University Press.
 
-* Shi, C., Y. Liu, and X. Lian (2020). <a href="https://www.factorwar.com/" target="_blank">Factor Investing: Methodology and Practice (in Chinese)</a>. Publishing House of Electronics Industry
+* Shi, C., Y. Liu, and X. Lian (2020). <a href="https://www.factorwar.com/" target="_blank"><i>Factor Investing: Methodology and Practice (in Chinese)</i></a>. Publishing House of Electronics Industry
   - Chinese Title: 《因子投资：方法与实践》
 
 Book Chapter Contributions
