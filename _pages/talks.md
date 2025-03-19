@@ -10,7 +10,7 @@ I have delivered numerous guest lectures at various universities and mutual fund
 
 * Nanjing University, 06/2022
 * Renmin University of China, 11/2021
-* Fudan University, 10/2021
+* Fudan University, 10/2021, 03/2025
 * Shanghai Advanced Institute of Finance, 06/2021, 05/2022
 * Peking University, 12/2020
 * Tianjin University, 04/2020
