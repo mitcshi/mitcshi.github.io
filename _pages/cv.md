@@ -132,13 +132,15 @@ Working Papers
 ------
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150205" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a> 2025, SSRN 5150205
 
-* Operations & supply chain management: Principles and practice<br>(Crowdsourcing review paper with 92 coauthors), 2025, under review
+* <a href="https://arxiv.org/pdf/2503.05749" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors), 2025, under review
 
 * <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a><br>(with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
 
 Permanent Working Papers
 ------
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral finance and empirical asset pricing</a> 2025, SSRN 5137986
+
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5194749" target="_blank">The evolution of asset allocation: From classical models to modern innovations</a> 2024, SSRN 5194749
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140633" target="_blank">Trend following strategies: A practical guide</a> (with X. Lian), 2025, SSRN 5140633
 
