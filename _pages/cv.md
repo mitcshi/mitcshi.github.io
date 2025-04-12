@@ -64,7 +64,7 @@ Teaching/Mentoring Experience
 Guest Lectures/Invited Talks
 ------
 * Lectures on advance in asset pricing/factor investing at universities
-  - Fudan University, Nanjing University, Peking University, Renmin University of China, Shanghai Advanced Institute of Finance, Tianjin University
+  - Fudan University, Nanjing University, Peking University, Renmin University of China, Shanghai Advanced Institute of Finance, Tianjin University, Xi’an Jiaotong-Liverpool University
 
 * Lectures on quantitative investment at universities
   - Central University of Finance and Economics, Nanjing University, Peking University, Peking University HSBC Business School, Shanghai University, Southwestern University of Finance and Economics, Tsinghua University
