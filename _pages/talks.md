@@ -14,6 +14,7 @@ I have delivered numerous guest lectures at various universities and mutual fund
 * Shanghai Advanced Institute of Finance, 06/2021, 05/2022
 * Peking University, 12/2020
 * Tianjin University, 04/2020
+* Xi'an Jiaotong-Liverpool University, 04/2025
 
 <h3>Lectures on quantitative investment at universities</h3>
 
