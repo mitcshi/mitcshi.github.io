@@ -11,8 +11,8 @@ I have delivered numerous guest lectures at various universities and mutual fund
 * Xi'an Jiaotong-Liverpool University, 04/2025
 * Fudan University, 03/2025, 10/2021
 * Nanjing University, 06/2022
+* Shanghai Advanced Institute of Finance, 05/2022, 06/2021
 * Renmin University of China, 11/2021
-* Shanghai Advanced Institute of Finance, 06/2021, 05/2022
 * Peking University, 12/2020
 * Tianjin University, 04/2020
 
@@ -29,6 +29,7 @@ I have delivered numerous guest lectures at various universities and mutual fund
 <h3>Lectures on advances in asset pricing/factor investing for institutional investors</h3>
 
 * E Fund Management, 10/2021
+* Fullgoal Fund Management, 10/2021, 11/2020
 * China Merchants Fund, 09/2021
 * China Southern Asset Management, 04/2021
 * ICBC Credit Suisse Asset Management, 03/2021
@@ -38,7 +39,6 @@ I have delivered numerous guest lectures at various universities and mutual fund
 * Everbright Pramerica Fund, 12/2020
 * Bank of Communications Schroder Fund, 11/2020
 * Bosera Asset Management, 11/2020
-* Fullgoal Fund Management, 11/2020, 10/2021
 * Taikang Asset, 10/2020
 * Penghua Fund Management, 09/2020
 
@@ -46,11 +46,11 @@ I have delivered numerous guest lectures at various universities and mutual fund
 
 * Hongyuan Futures, 05/2024
 * COFCO Futures, 07/2023
+* Northeast Securities, 02/2023, 07/2020
 * Western Securities, 11/2022
+* Kaiyuan Securities, 08/2022, 05/2021
+* Haitong Securities, 08/2021, 10/2019
 * CFA Beijing Association, 06/2021
-* Kaiyuan Securities, 05/2021, 08/2022
 * Huachuang Securities, 10/2020
-* Northeast Securities, 07/2020, 02/2023
-* Haitong Securities, 10/2019, 08/2021
 * CITIC Futures, 08/2019
 * SDIC Essence Futures, 05/2019
