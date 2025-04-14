@@ -36,6 +36,7 @@ This page collects my selected blog articles on asset pricing, factor investing,
 * <a href="https://mp.weixin.qq.com/s/dhG0nX_B1UP3VAgV4wLzDw" target="_blank">资产定价中的实证挑战 (II)</a>
 * <a href="https://mp.weixin.qq.com/s/qFUS6aUI_ICRAiBULMrEkg" target="_blank">资产定价中的实证挑战 (III)</a>
 * <a href="https://mp.weixin.qq.com/s/A8N2qM3FmlXuIkfakeQG5A" target="_blank">资产定价中的实证挑战 (IV)</a>
+* <a href="https://mp.weixin.qq.com/s/cKwf5kyWe5oWwmJsKlRoWw" target="_blank">资产定价中的实证挑战 (V)</a>
 
 p-Hacking
 ------
