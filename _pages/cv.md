@@ -140,9 +140,9 @@ Permanent Working Papers
 ------
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral finance and empirical asset pricing</a> 2025, SSRN 5137986
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5194749" target="_blank">The evolution of asset allocation: From classical models to modern innovations</a> 2024, SSRN 5194749
-
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140633" target="_blank">Trend following strategies: A practical guide</a> (with X. Lian), 2025, SSRN 5140633
+
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5194749" target="_blank">The evolution of asset allocation: From classical models to modern innovations</a> 2024, SSRN 5194749
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145640" target="_blank">Multiple hypothesis testing, empirical asset pricing, and factor investing</a> 2024, SSRN 5145640
 
