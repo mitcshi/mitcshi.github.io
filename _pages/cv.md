@@ -89,6 +89,7 @@ Books
 
 * Shi, C., Y. Liu, and X. Lian (2020). <a href="https://www.factorwar.com/" target="_blank"><i>Factor Investing: Methodology and Practice (in Chinese)</i></a>. Publishing House of Electronics Industry
   - Chinese Title: 《因子投资：方法与实践》
+  - 入选中国知网·中国科学文献计量评价研究中心“高被引图书 TOP 1%（2019-2023）”榜单
 
 Book Chapter Contributions
 ------
