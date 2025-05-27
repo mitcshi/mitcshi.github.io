@@ -69,7 +69,7 @@ Permanent Working Papers
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145640" target="_blank">Multiple hypothesis testing, empirical asset pricing, and factor investing</a> 2024, SSRN 5145640
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144971" target="_blank">Piotroski's F-score in the Chinese stock market</a> 2024, SSRN 5144971
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144971" target="_blank">Piotroski's F-score in the Chinese stock market</a> 2024, SSRN 5144971<br>Finalist of Quantpedia Awards 2025
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146149" target="_blank">The profitability factor, its extensions, and evidence from China</a> (with X. Lian), 2022, SSRN 5146149
 
