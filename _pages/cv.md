@@ -63,6 +63,9 @@ Teaching/Mentoring Experience
 
 Guest Lectures/Invited Talks
 ------
+* Keynote
+  - 投研视角下的量化投资展望，2025 中国金融科技学术年会人工智能与资产管理分论坛，06/2025
+
 * Lectures on advance in asset pricing/factor investing at universities
   - Fudan University, Nanjing University, Peking University, Renmin University of China, Shanghai Advanced Institute of Finance, Tianjin University, Xi’an Jiaotong-Liverpool University
 
@@ -131,11 +134,11 @@ Selected Papers
 
 Working Papers
 ------
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150205" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a> 2025, SSRN 5150205
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150205" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a> 2025, revise and resubmit
 
-* <a href="https://arxiv.org/pdf/2503.05749" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors), 2025, under review
+* <a href="https://arxiv.org/pdf/2503.05749" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors), 2025, revise and resubmit
 
-* <a href="https://dspace.mit.edu/handle/1721.1/103963" target="_blank">Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers</a><br>(with S. B. Gershwin), 2016, MIT Operations Research Center Working paper
+* Lead time distribution in a small manufacturing system with unreliable machines and finite buffers<br>(with S. B. Gershwin), 2025
 
 Permanent Working Papers
 ------
