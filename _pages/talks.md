@@ -6,6 +6,10 @@ author_profile: true
 
 I have delivered numerous guest lectures at various universities and mutual funds, sharing insights and research findings in asset pricing, factor investing, and quantitative investment. Additionally, I have conducted several talks at sell-side strategy conferences, where I discussed market trends and investment methodologies.
 
+<h3>Keynote</h3>
+
+* 投研视角下的量化投资展望，2025 中国金融科技学术年会人工智能与资产管理分论坛，06/2025
+
 <h3>Lectures on advance in asset pricing/factor investing at universities</h3>
 
 * Xi'an Jiaotong-Liverpool University, 04/2025
