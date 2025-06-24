@@ -8,9 +8,9 @@ author_profile: true
 
 * <a href="https://www.routledge.com/Navigating-the-Factor-Zoo-The-Science-of-Quantitative-Investing/Zhang-Lu-Shi/p/book/9781032768410" target="_blank">Navigating the Factor Zoo: The Science of Quantitative Investing</a><br>(with M. X. Zhang and T. Lu), Routledge, 2024
 
-* <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank">Machine Learning and Asset Pricing (in Chinese)</a><br>Chinese Title: 《机器学习与资产定价》<br>(with X. Wang), Publishing House of Electronics Industry, 2022<br>This book is the Chinese translation of Nagel, S. (2021). <a href="https://press.princeton.edu/books/hardcover/9780691218700/machine-learning-in-asset-pricing" target="_blank"><i>Machine Learning in Asset Pricing</i></a>. Princeton University Press
+* <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank">机器学习与资产定价</a><br>(with X. Wang), 电子工业出版社, 2022<br>This book is the Chinese translation of Nagel, S. (2021). <a href="https://press.princeton.edu/books/hardcover/9780691218700/machine-learning-in-asset-pricing" target="_blank"><i>Machine Learning in Asset Pricing</i></a>. Princeton University Press
   
-* <a href="https://www.factorwar.com/" target="_blank">Factor Investing: Methodology and Practice (in Chinese)</a><br>Chinese Title: 《因子投资：方法与实践》<br>(with Y. Liu and X. Lian), Publishing House of Electronics Industry, 2020
+* <a href="https://www.factorwar.com/" target="_blank">因子投资：方法与实践</a><br>(with Y. Liu and X. Lian), 电子工业出版社, 2020
 <br>入选中国知网·中国科学文献计量评价研究中心“高被引图书 TOP 1%（2019-2023）”榜单
 
 Book Chapter Contributions
