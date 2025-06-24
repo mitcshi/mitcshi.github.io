@@ -53,13 +53,13 @@ Working Papers
 ------
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, under review
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">Technological Momentum in China: Large Language Model Meets Simple Classifications</a><br>(with R. Luo, S. Zhao, Q. Wu, and Q. Geng), 2025, under review
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">Technological momentum in China: Large language model meets simple classifications</a><br>(with R. Luo, S. Zhao, Q. Wu, and Q. Geng), 2025, under review
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150205" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a> 2025, revise and resumbit
 
 * <a href="https://arxiv.org/pdf/2503.05749" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors), 2025, <i>International Journal of Production Research</i>, revise and resubmit
 
-* Lead time distribution in a small manufacturing system with unreliable machines and finite buffers<br>(with S. B. Gershwin), 2025
+* Lead time distribution in a small manufacturing system with unreliable machines and finite buffers (with S. B. Gershwin), 2025
 
 Permanent Working Papers
 ------
