@@ -6,7 +6,7 @@ author_profile: true
 
 <h3 style="margin-top: 0;">Undergraduate Courses</h3>
 
-<h4>DDA3600 Factor Investing (<a href="https://mitcshi.github.io/teaching/DDA3600">link</a>)</h4>
+<b>DDA3600 Factor Investing (<a href="https://mitcshi.github.io/teaching/DDA3600">link</a>)</b>
 
 * This course offers a thorough exploration of factor investing, blending econometrics and machine learning. Key topics include foundational concepts of factor investing, portfolio sorting, cross-sectional and time-series regression methods, and multiple hypothesis testing. The course also covers advanced machine learning models, integrating alternative data sources, and addressing practical challenges such as factor timing and allocation. Drawing on the instructor’s extensive experience in the quantitative hedge fund industry, the course emphasizes real-world practice and application. By course end, students will be prepared to conduct empirical research, develop and backtest factor-based strategies, and apply factor investing principles in professional settings.
 * Instructor (Fall 2024, 2025)
