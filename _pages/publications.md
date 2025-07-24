@@ -53,6 +53,10 @@ Selected Publications
 
 Working Papers
 ------
+* Link prediction in supply chain networks: An analysis of graph-based and tabular-based methods (with X. Su, R. Luo, and Q. Geng), 2025
+
+* Seeing through the haze: Estimating corporate Scope 3 emissions from incomplete ESG data (with X. Su, R. Luo, and Q. Geng), 2025
+
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, under review
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">Technological momentum in China: Large language model meets simple classifications</a><br>(with R. Luo, S. Zhao, Q. Wu, and Q. Geng), 2025, under review
@@ -60,6 +64,8 @@ Working Papers
 * <a href="https://arxiv.org/pdf/2503.05749" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors), 2025, <i>International Journal of Production Research</i>, revise and resubmit
 
 * Lead time distribution in a small manufacturing system with unreliable machines and finite buffers (with S. B. Gershwin), 2025
+
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian), 2021
 
 Permanent Working Papers
 ------
@@ -74,7 +80,5 @@ Permanent Working Papers
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144971" target="_blank">Piotroski's F-score in the Chinese stock market</a> 2024, SSRN 5144971<br>Finalist of Quantpedia Awards 2025
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146149" target="_blank">The profitability factor, its extensions, and evidence from China</a> (with X. Lian), 2022, SSRN 5146149
-
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a> (with X. Lian), 2021, SSRN 3928587
 
 * Refined book-to-market ratio and the cross-section of stock returns in China (with X. Lian and Y. Liu), 2019
