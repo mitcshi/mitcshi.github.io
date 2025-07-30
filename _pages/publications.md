@@ -65,6 +65,8 @@ Working Papers
 
 * Lead time distribution in a small manufacturing system with unreliable machines and finite buffers (with S. B. Gershwin), 2025
 
+* The additive property of local bottlenecks in long production line optimization<br>(with S. B. Gershwin), 2025
+
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian), 2021
 
 Permanent Working Papers
