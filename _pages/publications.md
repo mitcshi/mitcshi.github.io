@@ -57,6 +57,8 @@ Working Papers
 
 * Seeing through the haze: Estimating corporate Scope 3 emissions from incomplete ESG data (with X. Su, R. Luo, and Q. Geng), 2025
 
+* Multi-factor and machine learning approaches to convertible bond investing in China (with J. Qiu, X. Zheng, and X. Fang), 2025
+
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, under review
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">Technological momentum in China: Large language model meets simple classifications</a><br>(with R. Luo, S. Zhao, Q. Wu, and Q. Geng), 2025, under review
@@ -67,7 +69,7 @@ Working Papers
 
 * The additive property of local bottlenecks in long production line optimization<br>(with S. B. Gershwin), 2025
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian), 2021
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian and Y. Liu), 2025 (original version 2021)
 
 Permanent Working Papers
 ------
