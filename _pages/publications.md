@@ -69,7 +69,7 @@ Working Papers
 
 * The additive property of local bottlenecks in long production line optimization<br>(with S. B. Gershwin), 2025
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a><br>(with X. Lian and Y. Liu), 2025 (original version 2021)
+* Overreaction and underreaction: Building a behavioral four-factor model for China<br>(with X. Lian and Y. Liu), 2025 (original version written in 2021 with the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">"A composite four-factor model in China"</a>)
 
 Permanent Working Papers
 ------
