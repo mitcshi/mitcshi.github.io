@@ -122,6 +122,8 @@ Financial Econometrics
 * <a href="https://mp.weixin.qq.com/s/UXXcfIifzFzMfIf6BpmhKQ" target="_blank">金融时间序列分析：补完篇</a>
 * <a href="https://mp.weixin.qq.com/s/WDcAYD3gAqKBKoW0LsLg8g" target="_blank">金融时间序列分析：回归篇</a>
 * <a href="https://mp.weixin.qq.com/s/jUZrqjTe5xLfV0l9xQ6RYA" target="_blank">金融时间序列分析：预测篇</a>
+* <a href="https://mp.weixin.qq.com/s/ADC7q-WwG_BNKB4LYWQf0A" target="_blank">很 Wooldridge 风格的计量经济学笔记</a>
+* <a href="https://mp.weixin.qq.com/s/1_8bALDgAL3CvzErM7nKOQ" target="_blank">非 Wooldridge 风格的计量经济学延伸</a>
 
 Financial Machine Learning
 ------
