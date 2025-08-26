@@ -21,6 +21,8 @@ Book Chapter Contributions
 
 Selected Publications
 ------
+* <a href="https://arxiv.org/pdf/2503.05749" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors), <i>International Journal of Production Research</i>, forthcoming
+
 * <a href="https://onlinelibrary.wiley.com/doi/10.1111/joes.70002" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a><br><i>Journal of Economic Surveys</i>, 2025
 
 * <a href="https://mitcshi.github.io/publication/liu-etal-sim-2025">A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i>Statistics in Medicine 44</i>(5), 2025, e70020.
@@ -62,8 +64,6 @@ Working Papers
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, under review
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">Technological momentum in China: Large language model meets simple classifications</a><br>(with R. Luo, S. Zhao, Q. Wu, and Q. Geng), 2025, under review
-
-* <a href="https://arxiv.org/pdf/2503.05749" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors), 2025, <i>International Journal of Production Research</i>, revise and resubmit
 
 * Lead time distribution in a small manufacturing system with unreliable machines and finite buffers (with S. B. Gershwin), 2025
 
