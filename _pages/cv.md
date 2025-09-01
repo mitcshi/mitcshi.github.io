@@ -137,6 +137,8 @@ Book Chapter Contributions
 
 Selected Papers
 ------
+* <a href="https://arxiv.org/pdf/2503.05749" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors)<br><i>International Journal of Production Research</i>, forthcoming
+
 * <a href="https://onlinelibrary.wiley.com/doi/10.1111/joes.70002" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a><br><i>Journal of Economic Surveys</i>, 2025
 
 * <a href="https://mitcshi.github.io/publication/liu-etal-sim-2025">A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i>Statistics in Medicine 44</i>(5), 2025, e70020.
@@ -171,27 +173,23 @@ Selected Papers
 
 Working Papers
 ------
-* <a href="https://arxiv.org/pdf/2503.05749" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors), 2025, revise and resubmit
-
 * Lead time distribution in a small manufacturing system with unreliable machines and finite buffers<br>(with S. B. Gershwin), 2025
 
 Permanent Working Papers
 ------
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral finance and empirical asset pricing</a> 2025, SSRN 5137986
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral finance and empirical asset pricing</a>, 2025
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140633" target="_blank">Trend following strategies: A practical guide</a> (with X. Lian), 2025, SSRN 5140633
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140633" target="_blank">Trend following strategies: A practical guide</a> (with X. Lian), 2025
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5194749" target="_blank">The evolution of asset allocation: From classical models to modern innovations</a> 2024, SSRN 5194749
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5194749" target="_blank">The evolution of asset allocation: From classical models to modern innovations</a>, 2024
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145640" target="_blank">Multiple hypothesis testing, empirical asset pricing, and factor investing</a> 2024, SSRN 5145640
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145640" target="_blank">Multiple hypothesis testing, empirical asset pricing, and factor investing</a>, 2024
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144971" target="_blank">Piotroski's F-score in the Chinese stock market</a> 2024, SSRN 5144971
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144971" target="_blank">Piotroski's F-score in the Chinese stock market</a>, 2024
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146149" target="_blank">The profitability factor, its extensions, and evidence from China</a> (with X. Lian), 2022, SSRN 5146149
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146149" target="_blank">The profitability factor, its extensions, and evidence from China</a> (with X. Lian), 2022
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a> (with X. Lian), 2021, SSRN 3928587
-
-* Refined book-to-market ratio and the cross-section of stock returns in China. (with X. Lian and Y. Liu), 2019
+* Refined book-to-market ratio and the cross-section of stock returns in China (with X. Lian and Y. Liu), 2019
 
 Refereed Conference Publications
 ------
