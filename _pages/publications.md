@@ -61,7 +61,7 @@ Working Papers
 
 * A machine learning-based factor investing framework for Chinese convertible bonds (with J. Qiu, X. Zheng, and X. Fang), 2025
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, under review
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, revise and resubmit
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">Technological momentum in China: Large language model meets simple classifications</a><br>(with R. Luo, S. Zhao, Q. Wu, and Q. Geng), 2025, under review
 
