@@ -55,19 +55,19 @@ Selected Publications
 
 Working Papers
 ------
-* Link prediction in supply chain networks: An analysis of graph-based and tabular-based methods (with X. Su, R. Luo, and Q. Geng), 2025
-
-* Seeing through the haze: Estimating corporate Scope 3 emissions from incomplete ESG data (with X. Su, R. Luo, and Q. Geng), 2025
-
-* A machine learning-based factor investing framework for Chinese convertible bonds (with J. Qiu, X. Zheng, and X. Fang), 2025
+* Lead time distribution in a small manufacturing system with unreliable machines and finite buffers (with S. B. Gershwin), 2025, under review
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, revise and resubmit
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">Technological momentum in China: Large language model meets simple classifications</a><br>(with R. Luo, S. Zhao, Q. Wu, and Q. Geng), 2025, under review
 
 * Overreaction and underreaction: Building a behavioral four-factor model for China<br>(with X. Lian and Y. Liu), 2025, under review, (original version written in 2021 with the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">"A composite four-factor model in China"</a>)
+  
+* Link prediction in supply chain networks: An analysis of graph-based and tabular-based methods (with X. Su, R. Luo, and Q. Geng), 2025
 
-* Lead time distribution in a small manufacturing system with unreliable machines and finite buffers (with S. B. Gershwin), 2025
+* Seeing through the haze: Estimating corporate Scope 3 emissions from incomplete ESG data (with X. Su, R. Luo, and Q. Geng), 2025
+
+* A machine learning-based factor investing framework for Chinese convertible bonds (with J. Qiu, X. Zheng, and X. Fang), 2025
 
 * The additive property of local bottlenecks in long production line optimization<br>(with S. B. Gershwin), 2025
 
