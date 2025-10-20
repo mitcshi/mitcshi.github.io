@@ -85,6 +85,7 @@ Factor Investing
 * <a href="https://mp.weixin.qq.com/s/5HJ9O9lQ-dMKFYq12AWS_g" target="_blank">A 股市场中的科技动量</a>
 * <a href="https://mp.weixin.qq.com/s/4xnEeeYvEOw68pPdzSXuYg" target="_blank">主观宏观经济感知、财务约束和股票收益</a>
 * <a href="https://mp.weixin.qq.com/s/qSPo5seWJK5nxf85AzKGBA" target="_blank">分域研究</a>
+* <a href="https://mp.weixin.qq.com/s/QjXQ2ldPMHlkl8J1WkfJ0w" target="_blank">因子择时</a>
 
 Portfolio Management
 ------
