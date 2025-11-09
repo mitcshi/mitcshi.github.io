@@ -21,7 +21,7 @@ Book Chapter Contributions
 
 Selected Publications
 ------
-* <a href="https://arxiv.org/pdf/2503.05749" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors)<br><i>International Journal of Production Research</i>, forthcoming
+* <a href="https://www.tandfonline.com/doi/pdf/10.1080/00207543.2025.2555531" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors)<br><i>International Journal of Production Research</i>, 2025
 
 * <a href="https://onlinelibrary.wiley.com/doi/10.1111/joes.70002" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a><br><i>Journal of Economic Surveys</i>, 2025
 
