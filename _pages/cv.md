@@ -115,7 +115,7 @@ Guest Lectures/Invited Talks
 
 Referee for Journals
 ------
-* <i>Annals of Operations Research</i>, <i>Computers in Industry</i>, <i>IIE Transactions</i>, <i>European Journal of Operational Research</i>, <i>INFORMS Journal on Computing</i>, <i>Information Systems and e-Business Management</i>, <i>International Journal of Advanced Manufacturing Technology</i>, <i>International Journal of Computer Integrated Manufacturing</i>, <i>International Journal of Management Science (Omega)</i>, <i>International Journal of Production Economics</i>, <i>International Journal of Production Research</i>, <i>International Journal of Physical Distribution & Logistics Management</i>, <i>Journal of Intelligent Manufacturing</i>, <i>Journal of Optimization Theory and Applications</i>, <i>Journal of the Operational Research Society</i>, <i>OR Spectrum</i>, <i>Probability in the Engineering and Informational Sciences</i>, <i>Technological Sustainability</i>, <i>管理科学学报</i>
+* <i>Annals of Operations Research</i>, <i>Computers in Industry</i>, <i>Financial Innovation</i>, <i>IIE Transactions</i>, <i>European Journal of Operational Research</i>, <i>INFORMS Journal on Computing</i>, <i>Information Systems and e-Business Management</i>, <i>International Journal of Advanced Manufacturing Technology</i>, <i>International Journal of Computer Integrated Manufacturing</i>, <i>International Journal of Management Science (Omega)</i>, <i>International Journal of Production Economics</i>, <i>International Journal of Production Research</i>, <i>International Journal of Physical Distribution & Logistics Management</i>, <i>Journal of Intelligent Manufacturing</i>, <i>Journal of Optimization Theory and Applications</i>, <i>Journal of the Operational Research Society</i>, <i>OR Spectrum</i>, <i>Probability in the Engineering and Informational Sciences</i>, <i>Technological Sustainability</i>, <i>管理科学学报</i>
 
 Books
 ------
@@ -137,7 +137,7 @@ Book Chapter Contributions
 
 Selected Papers
 ------
-* <a href="https://arxiv.org/pdf/2503.05749" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors)<br><i>International Journal of Production Research</i>, forthcoming
+* <a href="https://www.tandfonline.com/doi/pdf/10.1080/00207543.2025.2555531" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors)<br><i>International Journal of Production Research</i>, 2025
 
 * <a href="https://onlinelibrary.wiley.com/doi/10.1111/joes.70002" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a><br><i>Journal of Economic Surveys</i>, 2025
 
