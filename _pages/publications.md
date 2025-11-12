@@ -65,8 +65,6 @@ Working Papers
 
 * An iterative optimization framework for production line profit maximization under waiting time constraints (with S. B. Gershwin), 2025
 
-* The additive property of local bottlenecks in long production line optimization<br>(with S. B. Gershwin), 2025
-
 * A machine learning-based factor investing framework for Chinese convertible bonds (with J. Qiu, X. Zheng, and X. Fang), 2025
   
 * Link prediction in supply chain networks: An analysis of graph-based and tabular-based methods (with X. Su, R. Luo, and Q. Geng), 2025
