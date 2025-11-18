@@ -61,9 +61,9 @@ Working Papers
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">Technological momentum in China: Large language model meets simple classifications</a><br>(with R. Luo, S. Zhao, Q. Wu, and Q. Geng), 2025, under review
 
-* Overreaction and underreaction: Building a behavioral four-factor model for China<br>(with X. Lian and Y. Liu), 2025, under review, (original version written in 2021 with the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">"A composite four-factor model in China"</a>)
+* Overreaction and underreaction: Building a behavioral four-factor model for China<br>(with X. Lian and Y. Liu), 2025, (original version written in 2021 with the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">"A composite four-factor model in China"</a>)
 
-* An iterative optimization framework for production line profit maximization under waiting time constraints (with S. B. Gershwin), 2025
+* An optimization method for production line profit maximization under waiting time constraints (with S. B. Gershwin), 2025
 
 * A machine learning-based factor investing framework for Chinese convertible bonds (with J. Qiu, X. Zheng, and X. Fang), 2025
   
