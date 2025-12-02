@@ -55,6 +55,8 @@ Selected Publications
 
 Working Papers
 ------
+* Exact sojourn time distribution for two-machine lines with multiple failure modes, 2025, submitted
+
 * Lead time distribution in a small manufacturing system with unreliable machines and finite buffers (with S. B. Gershwin), 2025, revise and resubmit
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, revise and resubmit
