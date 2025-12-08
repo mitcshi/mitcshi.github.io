@@ -57,13 +57,11 @@ Working Papers
 ------
 * Exact sojourn time distribution for two-machine lines with multiple failure modes, 2025, submitted
 
+* Leveraging LLM-based semantic analysis of patent texts: An application to technological link discovery and financial markets<br>(with R. Luo, S. Zhao, and Q. Geng), 2025, submitted, (the original version was circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">"Technological momentum in China: Large language model meets simple classifications"</a>)
+
 * Lead time distribution in a small manufacturing system with unreliable machines and finite buffers (with S. B. Gershwin), 2025, revise and resubmit
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, revise and resubmit
-
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">Technological momentum in China: Large language model meets simple classifications</a><br>(with R. Luo, S. Zhao, Q. Wu, and Q. Geng), 2025, under review
-
-* Overreaction and underreaction: Building a behavioral four-factor model for China<br>(with X. Lian and Y. Liu), 2025, (original version written in 2021 with the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">"A composite four-factor model in China"</a>)
 
 * An optimization method for production line profit maximization under waiting time constraints (with S. B. Gershwin), 2025
 
@@ -72,6 +70,8 @@ Working Papers
 * Link prediction in supply chain networks: An analysis of graph-based and tabular-based methods (with X. Su, R. Luo, and Q. Geng), 2025
 
 * Seeing through the haze: Estimating corporate Scope 3 emissions from incomplete ESG data (with X. Su, R. Luo, and Q. Geng), 2025
+
+* Overreaction and underreaction: Building a behavioral four-factor model for China<br>(with X. Lian and Y. Liu), 2025, (the original version was written in 2021 and circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">"A composite four-factor model in China"</a>)
 
 Permanent Working Papers
 ------
