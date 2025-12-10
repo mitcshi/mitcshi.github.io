@@ -65,8 +65,6 @@ Working Papers
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, revise and resubmit
 
-* An optimization method for production line profit maximization under waiting time constraints (with S. B. Gershwin), 2025
-
 * A machine learning-based factor investing framework for Chinese convertible bonds (with J. Qiu, X. Zheng, and X. Fang), 2025
   
 * Link prediction in supply chain networks: An analysis of graph-based and tabular-based methods (with X. Su, R. Luo, and Q. Geng), 2025
