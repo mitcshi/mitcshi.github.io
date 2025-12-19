@@ -148,3 +148,4 @@ Financial Machine Learning
 * <a href="https://mp.weixin.qq.com/s/JWad3HDakv5fcpNgGLfnvw" target="_blank">粗糙路径理论 —— 价格序列降维利器</a>
 * <a href="https://mp.weixin.qq.com/s/TZogoW--e7Nz1-1376lXzw" target="_blank">Augmented Fama-MacBeth Regression (I)</a>
 * <a href="https://mp.weixin.qq.com/s/ufZj-u9hUf7pRE-VtbsN2w" target="_blank">Augmented Fama-MacBeth Regression (II)</a>
+* <a href="https://mp.weixin.qq.com/s/UMfs1xtNSG5pDYyp6mNxPg" target="_blank">Ridge</a>
