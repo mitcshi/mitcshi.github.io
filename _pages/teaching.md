@@ -22,7 +22,7 @@ author_profile: true
 
 * <b>MFE5340 Artificial Intelligence in Financial Engineering: Quantitative Investment</b>
   - This course provides a comprehensive introduction to machine learning in quantitative investment, bridging traditional econometrics and modern machine learning techniques. Core topics include asset pricing theory, high-dimensional regression, PCA and factor models, and multiple hypothesis testing. Advanced machine learning applications, such as tree-based methods, neural networks, and large language models, are also covered. Students will learn to tackle real-world challenges like data interpretability, missing data, and model complexity. With a focus on practical applications in finance, this course equips students to analyze complex financial data and apply machine learning in quantitative investment strategies.
-  - Instructor (Spring 2025)
+  - Instructor (Spring 2025, 2026)
 
 * <b>2.853/4 Intro to Manufacturing Systems, MIT</b>
   - This course provides ways to analyze manufacturing systems in terms of material flow and storage, information flow, capacities, and times and durations of events. Fundamental topics include probability, inventory and queuing models, optimization, and linear and dynamic systems. Factory planning and scheduling topics include flow planning, bottleneck characterization, buffer and batch-size analysis, and dynamic behavior of production systems.
