@@ -55,9 +55,9 @@ Selected Publications
 
 Working Papers
 ------
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">Customer-supplier momentum spillover and its cascading effect</a> (with S. Wu, R. Luo, and S. Zhao), 2025, submitted
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">Customer-supplier momentum spillover and its cascading effect</a> (with S. Wu, R. Luo, and S. Zhao), 2026, submitted
 
-* Exact sojourn time distribution for two-machine lines with multiple failure modes, 2025, submitted
+* Exact sojourn time distribution for two-machine lines with multiple failure modes, 2025, under review
 
 * Leveraging LLM-based semantic analysis of patent texts: An application to technological link discovery and financial markets (with R. Luo, S. Zhao, and Q. Geng), 2025, under review, (the original version was circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">"Technological momentum in China: Large language model meets simple classifications"</a>)
 
