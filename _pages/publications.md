@@ -55,7 +55,7 @@ Selected Publications
 
 Working Papers
 ------
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">Customer-supplier momentum spillover and its cascading effect</a> (with S. Wu, R. Luo, and S. Zhao), 2026, submitted
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">Customer-supplier momentum spillover and its cascading effect</a> (with S. Wu, R. Luo, and S. Zhao), 2026, under review
 
 * Exact sojourn time distribution for two-machine lines with multiple failure modes, 2025, under review
 
