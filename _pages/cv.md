@@ -193,6 +193,8 @@ Permanent Working Papers
 
 Refereed Conference Publications
 ------
+* Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers, (with S. B. Gershwin), The 10th International Conference on Stochastic Models of Manufacturing and Service Operations, Volos, Greece, June 1-6, 2015
+
 * The additive property in long line optimization<br>(with S. B. Gershwin), IFAC Conference on Manufacturing Modeling, Management and Control, Saint Petersburg, Russia, July 19-21, 2013
 
 * Qualitative behavior of average buffer levels<br>(with S. B. Gershwin), The 9th International Conference on Stochastic Models of Manufacturing and Service Operations, Kloster Seeon, Germany, May 25-30, 2013
