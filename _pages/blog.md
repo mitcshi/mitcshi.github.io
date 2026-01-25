@@ -53,6 +53,7 @@ p-Hacking
 * <a href="https://mp.weixin.qq.com/s/p3xl23lyz2FgLfg-YpgbKA" target="_blank">出色不如走运 (VI)</a>
 * <a href="https://mp.weixin.qq.com/s/eNbQOKYfwQZa2kKCFu3bFw" target="_blank">出色不如走运 (VII)</a>
 * <a href="https://mp.weixin.qq.com/s/uUl4P6v1ea0zcGvG-Xqy5Q" target="_blank">出色不如走运 (VIII)</a>
+* <a href="https://mp.weixin.qq.com/s/aJIOWe6oyDgjeKjV6eqO7Q" target="_blank">出色不如走运 (终章)</a>
 
 Factor Investing
 ------
