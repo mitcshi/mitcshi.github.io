@@ -55,6 +55,8 @@ Selected Publications
 
 Working Papers
 ------
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6260378" target="_blank">Agri-LAPP: An LLM-based agent framework for adaptive path planning in precision agriculture</a> (with Y. Zeng, R. Wang, Y. Liu, C. Chen, J. Jin, J. Guo, and J. Li), 2026, submitted
+
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">Customer-supplier momentum spillover and its cascading effect</a> (with S. Wu, R. Luo, and S. Zhao), 2026, under review
 
 * Exact sojourn time distribution for two-machine lines with multiple failure modes, 2025, under review
@@ -63,7 +65,7 @@ Working Papers
 
 * Lead time distribution in a small manufacturing system with unreliable machines and finite buffers (with S. B. Gershwin), 2025, revise and resubmit
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, revise and resubmit
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, under review
 
 * A machine learning-based factor investing framework for Chinese convertible bonds (with J. Qiu, X. Zheng, and X. Fang), 2025
   
