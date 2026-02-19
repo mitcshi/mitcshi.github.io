@@ -168,9 +168,9 @@ Book Chapter Contributions
 
 Selected Papers
 ------
-* <a href="https://www.tandfonline.com/doi/pdf/10.1080/00207543.2025.2555531" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors)<br><i>International Journal of Production Research</i>, 2025
+* <a href="https://www.tandfonline.com/doi/pdf/10.1080/00207543.2025.2555531" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors)<br><i>International Journal of Production Research 64</i>(1), 2026, 330-513
 
-* <a href="https://onlinelibrary.wiley.com/doi/10.1111/joes.70002" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a><br><i>Journal of Economic Surveys</i>, 2025
+* <a href="https://onlinelibrary.wiley.com/doi/10.1111/joes.70002" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a><br><i>Journal of Economic Surveys 40</i>(1), 2026, 528-548
 
 * <a href="https://mitcshi.github.io/publication/liu-etal-sim-2025">A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i>Statistics in Medicine 44</i>(5), 2025, e70020.
 
