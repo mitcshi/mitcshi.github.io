@@ -30,7 +30,7 @@ Academic Experience
 
 Industry Experience
 ------
-* Co-founder and Chief Data Scientist<br><a href="http://www.liang-xin.com/" target="_blank">Beijing Liangxin Investment Management Co. Ltd.</a>, 09/2015 - present
+* Co-founder<br>Beijing Liangxin Investment Management Co. Ltd., 09/2015 - present
   - Advanced time-series and cross-sectional data analysis using statistical modeling and machine learning.
   - Quantitative strategy development leadership.
   - Risk control expertise.
@@ -56,10 +56,11 @@ Professional Service
 Teaching/Mentoring Experience
 ------
 * DDA3600 Factor Investing, CUHK(SZ)
-  - Instructor, Fall 2024
+  - Instructor, Fall 2024, 2025
 * 2.853/4 Intro to Manufacturing Systems, MIT
   - Teaching Assistant, Fall 2007, 2009, 2010, and 2011
 * Industry advisor for the Master of Finance program, Nanjing University
+  - 2022 -- 2025
 
 Guest Lectures/Invited Talks
 ------
