@@ -168,6 +168,8 @@ Book Chapter Contributions
 
 Selected Papers
 ------
+* Exact sojourn time distribution for two-machine lines with multiple failure modes<br><i>Operations Research Letters</i>, 2026, accepted
+
 * <a href="https://www.tandfonline.com/doi/pdf/10.1080/00207543.2025.2555531" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors)<br><i>International Journal of Production Research 64</i>(1), 2026, 330-513
 
 * <a href="https://onlinelibrary.wiley.com/doi/10.1111/joes.70002" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a><br><i>Journal of Economic Surveys 40</i>(1), 2026, 528-548
@@ -204,7 +206,7 @@ Selected Papers
 
 Working Papers
 ------
-* Lead time distribution in a small manufacturing system with unreliable machines and finite buffers<br>(with S. B. Gershwin), 2025
+* Lead time distribution in a small manufacturing system with unreliable machines and finite buffers<br>(with S. B. Gershwin), 2025, revise and resubmit
 
 Permanent Working Papers
 ------
