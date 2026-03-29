@@ -21,7 +21,7 @@ Book Chapter Contributions
 
 Selected Publications
 ------
-* Exact sojourn time distribution for two-machine lines with multiple failure modes<br><i>Operations Research Letters</i>, 2026, accepted
+* <a href="https://www.sciencedirect.com/science/article/pii/S0167637726000416" target="_blank">Exact sojourn time distribution for two-machine lines with multiple failure modes</a><br><i>Operations Research Letters</i>, 2026
 
 * <a href="https://www.tandfonline.com/doi/pdf/10.1080/00207543.2025.2555531" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors)<br><i>International Journal of Production Research 64</i>(1), 2026, 330-513
 
