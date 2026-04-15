@@ -57,6 +57,8 @@ Selected Publications
 
 Working Papers
 ------
+* Explainable machine learning for regression with incomplete tabular data: An application to corporate carbon emission estimation (with X. Su, R. Luo, Q. Geng, and J. Guo), 2026, submitted
+
 * When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, submitted
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6260378" target="_blank">Agri-LAPP: An LLM-based agent framework for adaptive path planning in precision agriculture</a> (with Y. Zeng, R. Wang, Y. Liu, C. Chen, J. Jin, J. Guo, and J. Li), 2026, under review
@@ -70,8 +72,6 @@ Working Papers
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5309320" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), 2025, revise and resubmit
 
 * A machine learning-based factor investing framework for Chinese convertible bonds (with J. Qiu, X. Zheng, and X. Fang), 2025
-
-* Seeing through the haze: Estimating corporate Scope 3 emissions from incomplete ESG data (with X. Su, R. Luo, and Q. Geng), 2025
 
 * Overreaction and underreaction: Building a behavioral four-factor model for China<br>(with X. Lian and Y. Liu), 2025, (the original version was written in 2021 and circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">"A composite four-factor model in China"</a>)
 
