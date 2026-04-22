@@ -21,7 +21,7 @@ Book Chapter Contributions
 
 Selected Publications
 ------
-* Lead time distribution in a small manufacturing system with unreliable machines and finite buffers<br>(with S. B. Gershwin), <i>International Journal of Production Economics</i>, 2026, accepted
+* Lead time distribution in a small manufacturing system with unreliable machines and finite buffers (with S. B. Gershwin), <i>International Journal of Production Economics</i>, 2026, accepted
 
 * <a href="https://www.sciencedirect.com/science/article/pii/S0167637726000416" target="_blank">Exact sojourn time distribution for two-machine lines with multiple failure modes</a><br><i>Operations Research Letters 67</i>, 2026, 107444
 
