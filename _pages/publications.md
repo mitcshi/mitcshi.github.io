@@ -59,6 +59,8 @@ Selected Publications
 
 Working Papers
 ------
+* A surrogate optimization framework for buffer allocation under probabilistic waiting-time constraints (with S. B. Gershwin), 2026
+
 * Explainable machine learning for regression with incomplete tabular data: An application to corporate carbon emission estimation (with X. Su, R. Luo, Q. Geng, and J. Guo), 2026, submitted
 
 * When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, submitted
