@@ -101,6 +101,7 @@ Portfolio Management
 * <a href="https://mp.weixin.qq.com/s/uAJp3jFJs-wJuj5LRuL8oQ" target="_blank">配置风险收益还是配置噪音?</a>
 * <a href="https://mp.weixin.qq.com/s/1rGJvqTycc28M9OS4hbahA" target="_blank">Ledoit and Wolf 的协方差矩阵收缩之旅</a>
 * <a href="https://mp.weixin.qq.com/s/uAJp3jFJs-wJuj5LRuL8oQ" target="_blank">配置风险收益还是配置噪声</a>
+* <a href="https://mp.weixin.qq.com/s/SFrRcE5U_BGlOEYxvvcRPQ" target="_blank">风险模型的边界</a>
 
 Fund research
 ------
