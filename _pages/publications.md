@@ -63,7 +63,7 @@ Working Papers
 
 * Seeing through the haze: Estimating corporate scope 3 emissions from sparse ESG disclosures via explainable machine learning (with X. Su, R. Luo, Q. Geng, and J. Guo), 2026, submitted
 
-* When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, submitted
+* When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, under review
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6260378" target="_blank">Agri-LAPP: An LLM-based agent framework for adaptive path planning in precision agriculture</a> (with Y. Zeng, R. Wang, Y. Liu, C. Chen, J. Jin, J. Guo, and J. Li), 2026, under review
 
