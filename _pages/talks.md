@@ -21,6 +21,7 @@ I have delivered numerous guest lectures at various universities and mutual fund
 
 <h3>Lectures on advance in asset pricing/factor investing at universities</h3>
 
+* Tsinghua University, 05/2026
 * Xi'an Jiaotong-Liverpool University, 04/2025
 * Fudan University, 03/2025, 10/2021
 * Nanjing University, 06/2022
@@ -31,6 +32,7 @@ I have delivered numerous guest lectures at various universities and mutual fund
 
 <h3>Lectures on quantitative investment at universities</h3>
 
+* Xi'an Jiaotong-Liverpool University, 05/2026
 * Southwestern University of Finance and Economics, 06/2023
 * Central University of Finance and Economics, 06/2023
 * Nanjing University, 11/2021
