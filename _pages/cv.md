@@ -77,6 +77,7 @@ Guest Lectures/Invited Talks
   - 商品期货中的量化投资. 中信期货大类资产配置及大宗商品应用论坛, 08/2019
 
 * Lectures on advance in asset pricing/factor investing at universities
+  - Tsinghua University, 05/2026
   - Xi'an Jiaotong-Liverpool University, 04/2025
   - Fudan University, 03/2025, 10/2021
   - Nanjing University, 06/2022
@@ -86,6 +87,7 @@ Guest Lectures/Invited Talks
   - Tianjin University, 04/2020
 
 * Lectures on quantitative investment at universities
+  - Xi'an Jiaotong-Liverpool University, 05/2026
   - Southwestern University of Finance and Economics, 06/2023
   - Central University of Finance and Economics, 06/2023
   - Nanjing University, 11/2021
@@ -169,6 +171,8 @@ Book Chapter Contributions
 
 Selected Papers
 ------
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925527326001386" target="_blank">Lead time distribution in a small manufacturing system with unreliable machines and finite buffers</a> (with S. B. Gershwin), <i>International Journal of Production Economics 299</i>, 2026, 110047
+
 * <a href="https://www.sciencedirect.com/science/article/pii/S0167637726000416" target="_blank">Exact sojourn time distribution for two-machine lines with multiple failure modes</a><br><i>Operations Research Letters 67</i>, 2026, 107444
 
 * <a href="https://www.tandfonline.com/doi/pdf/10.1080/00207543.2025.2555531" target="_blank">Operations & supply chain management: Principles and practice</a><br>(Crowdsourcing review paper with 92 coauthors)<br><i>International Journal of Production Research 64</i>(1), 2026, 330-513
@@ -205,10 +209,6 @@ Selected Papers
 
 * Study on control algorithm for continuous segments trajectory interpolation<br>(with P. Ye and Q. Lv), <i>Journal of Wuhan University of Technology 28</i>(z2), 2006, 994-998
 
-Working Papers
-------
-* Lead time distribution in a small manufacturing system with unreliable machines and finite buffers<br>(with S. B. Gershwin), 2025, revise and resubmit
-
 Permanent Working Papers
 ------
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137986" target="_blank">Behavioral finance and empirical asset pricing</a>, 2025
@@ -227,6 +227,8 @@ Permanent Working Papers
 
 Refereed Conference Publications
 ------
+* An optimization method for production line profit maximization under probabilistic waiting time constraints, (with S. B. Gershwin), The 15th International Conference on Stochastic Models of Manufacturing and Service Operations, Pfalz, Germany, June 14-19, 2026
+
 * Lead time distribution of three-machine two-buffer lines with unreliable machines and finite buffers, (with S. B. Gershwin), The 10th International Conference on Stochastic Models of Manufacturing and Service Operations, Volos, Greece, June 1-6, 2015
 
 * The additive property in long line optimization<br>(with S. B. Gershwin), IFAC Conference on Manufacturing Modeling, Management and Control, Saint Petersburg, Russia, July 19-21, 2013
