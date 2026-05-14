@@ -23,6 +23,9 @@ author_profile: true
 
 * <b>DDA2081/2082/2083 Independent Study</b>
   - Supervisor (Spring 2026)
+ 
+* <b>ERG2081/2082/2083 Independent Study</b>
+  - Supervisor (Fall 2025; Spring 2026)
 
 * <b>STA4050 Statistical Capstone</b>
   - Supervisor (Spring 2026)
