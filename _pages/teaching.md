@@ -14,14 +14,18 @@ author_profile: true
   - This course offers a comprehensive exploration of statistical modeling techniques applied to financial markets, preparing students to tackle complex financial modeling challenges. Over the semester, students will develop a deep understanding of econometric principles, time-series analysis, and maximum likelihood estimation. The curriculum also includes advanced topics such as latent factor models and Bayesian statistics, focusing on their applications in asset pricing and asset allocation. Additionally, students will learn about risk models, stochastic calculus, and the bootstrap method. These topics will be taught with an emphasis on ensuring that students can flexibly apply them in real-world financial analysis.
   - Instructor (Fall 2024, 2026)
 
+* <b>DDA4080 Capstone Project</b>
+  - This unique course offers junior and senior students from the School of Data Science (SDS) and the Financial Engineering (FE) the opportunity to apply their knowledge and skills to real-world challenges. Under the guidance of both a practitioner supervisor and a professor supervisor, students will work in teams to develop innovative solutions.
+  - Supervisor (Spring 2025, 2026)
+
 * <b>CSC4501 Computing Capstone for Interdisciplinary Studies</b>
-  - Instructor (Spring 2026)
+  - Supervisor (Spring 2026)
 
 * <b>DDA2081/2082/2083 Independent Study</b>
-  - Instructor (Spring 2026)
+  - Supervisor (Spring 2026)
 
 * <b>STA4050 Statistical Capstone</b>
-  - Instructor (Spring 2026)
+  - Supervisor (Spring 2026)
 
 <h3>Graduate Courses</h3>
 
