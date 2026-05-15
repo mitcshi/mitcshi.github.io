@@ -205,7 +205,7 @@ Selected Papers
 
 * Study on end-point discrimination methods of circular interpolation<br>(with B. Lin, P. Ye, and H. Zhang), <i>Manufacturing Technology & Machine Tool</i>, 2007, 86-90
 
-* The practical study of the professional but non-required courses<br>(with P. Ye and H. Zhang) <i>Experimental Technology and Management 24</i>(4), 100-103
+* The practical study of the professional but non-required courses<br>(with P. Ye and H. Zhang) <i>Experimental Technology and Management 24</i>(4), 2007, 100-103
 
 * Study on control algorithm for continuous segments trajectory interpolation<br>(with P. Ye and Q. Lv), <i>Journal of Wuhan University of Technology 28</i>(z2), 2006, 994-998
 
