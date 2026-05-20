@@ -65,6 +65,8 @@ Working Papers
 ------
 * A surrogate optimization framework for buffer allocation under probabilistic waiting-time constraints (with S. B. Gershwin), 2026
 
+* Measuring investor sentiment from ETF flow concentration (with J. Guo and Y. Liu), 2026, submitted
+
 * Seeing through the haze: Estimating corporate scope 3 emissions from sparse ESG disclosures via explainable machine learning (with X. Su, R. Luo, Q. Geng, and J. Guo), 2026, under review
 
 * When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, under review
