@@ -12,6 +12,7 @@ author_profile: true
   
 * <a href="https://www.factorwar.com/" target="_blank">因子投资：方法与实践</a><br>(with Y. Liu and X. Lian), 电子工业出版社, 2020
 <br>入选中国知网·中国科学文献计量评价研究中心“高被引图书 TOP 1%（2019-2023）”榜单
+<br>入选中国知网“2026 年高被引图书 TOP 1%”榜单
 
 Book Chapter Contributions
 ------
