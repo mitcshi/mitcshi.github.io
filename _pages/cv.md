@@ -12,7 +12,7 @@ redirect_from:
 * Ph.D., Massachusetts Institute of Technology, 2012
   - Department of Mechanical Engineering
   - Thesis: <a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a>
-  - Committee Members: Dr. Stanley Gershwin (advisor), Dr. Stephen Graves, Dr. Brian Anthony
+  - Committee Members: Stanley Gershwin (advisor), Stephen Graves, Brian Anthony
   - Minor: Finance
 * M.Eng., Tsinghua University, 2007
   - Department of Precision Instruments and Mechanology
