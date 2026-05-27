@@ -41,7 +41,7 @@ author_profile: true
   - Instructor (Spring 2025, 2026; Fall 2026)
 
 * <b>MFM7720 Innovation in Practice</b>
-  - Instructor (Spring 2026)
+  - Supervisor (Spring 2026)
 
 * <b>2.853/4 Intro to Manufacturing Systems, MIT</b>
   - This course provides ways to analyze manufacturing systems in terms of material flow and storage, information flow, capacities, and times and durations of events. Fundamental topics include probability, inventory and queuing models, optimization, and linear and dynamic systems. Factory planning and scheduling topics include flow planning, bottleneck characterization, buffer and batch-size analysis, and dynamic behavior of production systems.
