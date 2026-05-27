@@ -11,15 +11,14 @@ redirect_from:
 
 * Ph.D., Massachusetts Institute of Technology, 2012
   - Department of Mechanical Engineering
-  - Thesis: <a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a>
+  - Thesis: <a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient buffer design algorithms for production line profit maximization</a>
   - Committee Members: Stanley Gershwin (advisor), Stephen Graves, Brian Anthony
   - Minor: Finance
 * M.Eng., Tsinghua University, 2007
   - Department of Precision Instruments and Mechanology
   - Graduate with the highest honors (top 2%)
-  - Outstanding master's thesis
-  - Thesis: Study on the Look-Ahead Function Based Motion Control Algorithm for Continuous Micro Line Trajectories
-  - Advisor: Dr. Peiqing Ye
+  - Outstanding master's thesis: Study on the look-ahead function based motion control algorithm for continuous micro line trajectories
+  - Advisor: Peiqing Ye
 * B.Eng., Tsinghua University, 2005
   - Department of Precision Instruments and Mechanology
   - Graduate with honors (top 10%)
