@@ -11,7 +11,7 @@ redirect_from:
 
 * Ph.D., Massachusetts Institute of Technology, 2012
   - Department of Mechanical Engineering
-  - Doctoral Thesis: <a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a>
+  - Thesis: <a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient Buffer Design Algorithms for Production Line Profit Maximization</a>
   - Committee Members: Dr. Stanley Gershwin (advisor), Dr. Stephen Graves, Dr. Brian Anthony
   - Minor: Finance
 * M.Eng., Tsinghua University, 2007
@@ -55,10 +55,18 @@ Professional Service
 
 Teaching/Mentoring Experience
 ------
-* DDA3600 Factor Investing, CUHK(SZ)
-  - Instructor, Fall 2024, 2025
-* 2.853/4 Intro to Manufacturing Systems, MIT
-  - Teaching Assistant, Fall 2007, 2009, 2010, and 2011
+* DDA3600 Factor Investing
+  - Instructor (Fall 2024, 2025)
+* DDA4080 Capstone Project
+  - Supervisor (Spring 2025, 2026)
+* STA4020 Statistical Modeling in Financial Markets
+  - Instructor (Fall 2024, 2026)
+* FIN6131 Portfolio and Asset Management
+  - Instructor (Fall 2025)
+* MFE5340 Artificial Intelligence in Financial Engineering: Quantitative Investment
+  - Instructor (Spring 2025, 2006; Fall 2026)
+* 2.853/4 Intro to Manufacturing Systems (MIT)
+  - Teaching Assistant (Fall 2007, 2009, 2010, and 2011)
 * Industry advisor for the Master of Finance program, Nanjing University
   - 2022 -- 2025
 
