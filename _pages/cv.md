@@ -29,7 +29,7 @@ Academic Experience
 
 Industry Experience
 ------
-* Co-founder<br>Beijing Liangxin Investment Management Co. Ltd., 09/2015 - present
+* Co-founder<br>Beijing Liangxin Investment Management Co. Ltd., 09/2015 - 05/2026
   - Advanced time-series and cross-sectional data analysis using statistical modeling and machine learning.
   - Quantitative strategy development leadership.
   - Risk control expertise.
