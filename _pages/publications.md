@@ -22,7 +22,7 @@ Book Chapter Contributions
 
 Selected Publications
 ------
-* A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China (with R. Luo, Q. Geng, and C. Dang), <i>Journal of Industrial Ecology</i>, 2026, accepted
+* <a href="https://link.springer.com/article/10.1007/s44498-026-00105-0" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), <i>Journal of Industrial Ecology</i>, 2026
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925527326001386" target="_blank">Lead time distribution in a small manufacturing system with unreliable machines and finite buffers</a> (with S. B. Gershwin), <i>International Journal of Production Economics 299</i>, 2026, 110047
 
