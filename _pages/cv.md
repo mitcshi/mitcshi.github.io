@@ -9,48 +9,23 @@ redirect_from:
 
 <h2 style="margin-top: 0;">Education</h2>
 
-* Ph.D., Massachusetts Institute of Technology, 2012
+* <strong>Ph.D.</strong>, Massachusetts Institute of Technology, 2012
   - Department of Mechanical Engineering
   - Thesis: <a href="http://web.mit.edu/manuf-sys/www/oldcell1/theses/Shi-PhD-Thesis.pdf" target="_blank">Efficient buffer design algorithms for production line profit maximization</a>
   - Committee Members: Stanley Gershwin (advisor), Stephen Graves, Brian Anthony
   - Minor: Finance
-* M.Eng., Tsinghua University, 2007
+* <strong>M.Eng.</strong>, Tsinghua University, 2007
   - Department of Precision Instruments and Mechanology
   - Graduate with the highest honors (top 2%)
   - Outstanding master's thesis: Study on the look-ahead function based motion control algorithm for continuous micro line trajectories
   - Advisor: Peiqing Ye
-* B.Eng., Tsinghua University, 2005
+* <strong>B.Eng.</strong>, Tsinghua University, 2005
   - Department of Precision Instruments and Mechanology
   - Graduate with honors (top 10%)
 
 Academic Experience
 ------
-* Professor of Practice in Financial Engineering<br><a href="https://www.cuhk.edu.cn/en" target="_blank">The Chinese University of Hong Kong, Shenzhen</a>, School of Data Science, 08/2024 - present
-
-Industry Experience
-------
-* Co-founder<br>Beijing Liangxin Investment Management Co. Ltd., 09/2015 - 05/2026
-  - Advanced time-series and cross-sectional data analysis using statistical modeling and machine learning.
-  - Quantitative strategy development leadership.
-  - Risk control expertise.
-
-* Senior Member of Technical Staff<br>Oracle America, Inc., Redwood Shores, CA, 01/2012 - 02/2016
-  - Customer requirement analysis.
-  - Data warehouse design.
-  - Cross-functional collaboration.
-  - Global team coordination and client interaction.
-
-* Data Quality Analyst (Internship)<br>Citigroup, Inc., Boston, MA, 06/2011 - 09/2011, 11/2011 - 01/2012
-  - Data quality enhancement.
-  - Advanced data profiling and cleansing.
-
-* Modeling & Simulation Analyst (Internship)<br>Procter & Gamble, Cincinnati, OH, 06/2010 - 08/2010
-  - Production line optimization via advanced modeling and simulation techniques.
-  - Development of simulation test protocol.
-  
-Professional Service
-------
-* Editorial board of <i><a href="https://www.sciencedirect.com/journal/computers-in-industry" target="_blank">Computers in Industry</a></i>
+* <strong>Professor of Practice in Financial Engineering</strong><br><a href="https://www.cuhk.edu.cn/en" target="_blank">The Chinese University of Hong Kong, Shenzhen</a>, School of Data Science, 08/2024 - present
 
 Teaching/Mentoring Experience
 ------
@@ -63,11 +38,43 @@ Teaching/Mentoring Experience
 * FIN6131 Portfolio and Asset Management
   - Instructor (Fall 2025)
 * MFE5340 Artificial Intelligence in Financial Engineering: Quantitative Investment
-  - Instructor (Spring 2025, 2006; Fall 2026)
+  - Instructor (Spring 2025, 2026; Fall 2026)
 * 2.853/4 Intro to Manufacturing Systems (MIT)
   - Teaching Assistant (Fall 2007, 2009, 2010, and 2011)
 * Industry advisor for the Master of Finance program, Nanjing University
   - 2022 -- 2025
+
+Academic Service (School of Data Science, CUHK(SZ))
+------
+* UG Director of Academic Advising – Financial Engineering (2024–)
+* Chair, Curriculum Committee – Financial Engineering (2025–)
+* Course Coordinator – Financial Engineering (2025–)
+* Member, Publicity Committee (2025–)
+
+Professional Service
+------
+* Editorial board of <i><a href="https://www.sciencedirect.com/journal/computers-in-industry" target="_blank">Computers in Industry</a></i>
+
+Industry Experience
+------
+* <strong>Co-founder</strong><br>Beijing Liangxin Investment Management Co. Ltd., 09/2015 - 05/2026
+  - Advanced time-series and cross-sectional data analysis using statistical modeling and machine learning.
+  - Quantitative strategy development leadership.
+  - Risk control expertise.
+
+* <strong>Senior Member of Technical Staff</strong><br>Oracle America, Inc., Redwood Shores, CA, 01/2012 - 02/2016
+  - Customer requirement analysis.
+  - Data warehouse design.
+  - Cross-functional collaboration.
+  - Global team coordination and client interaction.
+
+* <strong>Data Quality Analyst</strong> (Internship)<br>Citigroup, Inc., Boston, MA, 06/2011 - 09/2011, 11/2011 - 01/2012
+  - Data quality enhancement.
+  - Advanced data profiling and cleansing.
+
+* <strong>Modeling & Simulation Analyst</strong> (Internship)<br>Procter & Gamble, Cincinnati, OH, 06/2010 - 08/2010
+  - Production line optimization via advanced modeling and simulation techniques.
+  - Development of simulation test protocol.
 
 Guest Lectures/Invited Talks
 ------
