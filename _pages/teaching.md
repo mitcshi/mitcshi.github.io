@@ -18,7 +18,7 @@ author_profile: true
   - This unique course offers junior and senior students from the School of Data Science (SDS) and the Financial Engineering (FE) the opportunity to apply their knowledge and skills to real-world challenges. Under the guidance of both a practitioner supervisor and a professor supervisor, students will work in teams to develop innovative solutions.
   - Supervisor (Spring 2025, 2026)
 
-* <b>CSC4501 Computing Capstone for Interdisciplinary Studies</b>
+* <b>CSC4051 Computing Capstone for Interdisciplinary Studies</b>
   - Supervisor (Spring 2026)
 
 * <b>DDA2081/2082/2083 Independent Study</b>
