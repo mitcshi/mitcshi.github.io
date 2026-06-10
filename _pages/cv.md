@@ -255,11 +255,11 @@ Refereed Conference Publications
 
 * The segmentation method for long line optimization<br>(with S. B. Gershwin), The 8th International Conference on Stochastic Models of Manufacturing and Service Operations, Kusadasi, Turkey, May 28-Jan 2, 2011
 
-* An efficient buffer design algorithm for production line profit maximization<br>(with S. B. Gershwin) The 13th IFAC Symposium on Information Control Problems in Manufacturing (INCOM 2009), Moscow, Russia, June 3-5, 2009
+* <a href="https://www.sciencedirect.com/science/article/pii/S1474667016338447" target="_blank">An efficient buffer design algorithm for production line profit maximization</a><br>(with S. B. Gershwin) The 13th IFAC Symposium on Information Control Problems in Manufacturing (INCOM 2009), Moscow, Russia, June 3-5, 2009, in <i>IFAC Proceedings Volumes 42</i>(4), 510-515
 
-* The look-ahead based adaptive motion control for high-speed machining of complicated contours, (with P. Ye, Q. Lv, and K. Yang), IEEE International Symposium on Assembly and Manufacturing, Ann Arbor, MI, July 22-25, 2007
+* <a href="https://ieeexplore.ieee.org/document/4288445" target="_blank">The look-ahead based adaptive motion control for high-speed machining of complicated contours</a>, (with P. Ye, Q. Lv, and K. Yang), IEEE International Symposium on Assembly and Manufacturing, Ann Arbor, MI, July 22-25, 2007
 
-* The recycling model of the printed circuit board and its economy evaluation<br>(with Q. Niu, D. Xiang, X. Liu, and G. Duan), IEEE International Symposium on Electronics and the Environment, Orlando, FL, May 7-10, 2007
+* <a href="https://www.computer.org/csdl/proceedings-article/isee/2007/04222865/12OmNzt0IPj" target="_blank">The recycling model of the printed circuit board and its economy evaluation</a><br>(with Q. Niu, D. Xiang, X. Liu, and G. Duan), IEEE International Symposium on Electronics and the Environment, Orlando, FL, May 7-10, 2007, 106-111
 
 Honors/Awards
 ------
