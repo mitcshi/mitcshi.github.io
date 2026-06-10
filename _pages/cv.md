@@ -251,11 +251,11 @@ Refereed Conference Publications
 
 * Qualitative behavior of average buffer levels<br>(with S. B. Gershwin), The 9th International Conference on Stochastic Models of Manufacturing and Service Operations, Kloster Seeon, Germany, May 25-30, 2013
 
-* Part waiting time distribution in a two-machine line<br>(with S. B. Gershwin), The 14th IFCA Symposium on Information Control Problems in Manufacturing (INCOM 2012), Bucharest, Romania, May 23-25, 2012
+* Part waiting time distribution in a two-machine line<br>(with S. B. Gershwin), The 14th IFAC Symposium on Information Control Problems in Manufacturing (INCOM 2012), Bucharest, Romania, May 23-25, 2012
 
 * The segmentation method for long line optimization<br>(with S. B. Gershwin), The 8th International Conference on Stochastic Models of Manufacturing and Service Operations, Kusadasi, Turkey, May 28-Jan 2, 2011
 
-* An efficient buffer design algorithm for production line profit maximization<br>(with S. B. Gershwin) The 13th IFCA Symposium on Information Control Problems in Manufacturing (INCOM 2009), Moscow, Russia, June 3-5, 2009
+* An efficient buffer design algorithm for production line profit maximization<br>(with S. B. Gershwin) The 13th IFAC Symposium on Information Control Problems in Manufacturing (INCOM 2009), Moscow, Russia, June 3-5, 2009
 
 * The look-ahead based adaptive motion control for high-speed machining of complicated contours, (with P. Ye, Q. Lv, and K. Yang), IEEE International Symposium on Assembly and Manufacturing, Ann Arbor, MI, July 22-25, 2007
 
