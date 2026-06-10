@@ -251,7 +251,7 @@ Refereed Conference Publications
 
 * Qualitative behavior of average buffer levels<br>(with S. B. Gershwin), The 9th International Conference on Stochastic Models of Manufacturing and Service Operations, Kloster Seeon, Germany, May 25-30, 2013
 
-* Part waiting time distribution in a two-machine line<br>(with S. B. Gershwin), The 14th IFAC Symposium on Information Control Problems in Manufacturing (INCOM 2012), Bucharest, Romania, May 23-25, 2012
+* <a href="https://www.sciencedirect.com/science/article/pii/S1474667016343786" target="_blank">Part waiting time distribution in a two-machine line</a><br>(with S. B. Gershwin), The 14th IFAC Symposium on Information Control Problems in Manufacturing (INCOM 2012), Bucharest, Romania, May 23-25, 2012, in <i>IFAC Proceedings Volumes 45</i>(6), 457-462
 
 * The segmentation method for long line optimization<br>(with S. B. Gershwin), The 8th International Conference on Stochastic Models of Manufacturing and Service Operations, Kusadasi, Turkey, May 28-Jan 2, 2011
 
