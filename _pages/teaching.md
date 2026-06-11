@@ -15,7 +15,7 @@ author_profile: true
   - Instructor (Fall 2024, 2026)
 
 * <b>DDA4080 Capstone Project</b>
-  - This unique course offers junior and senior students from the School of Data Science (SDS) and the Financial Engineering (FE) the opportunity to apply their knowledge and skills to real-world challenges. Under the guidance of both a practitioner supervisor and a professor supervisor, students will work in teams to develop innovative solutions.
+  - This unique course offers junior and senior students from the School of Data Science and the Financial Engineering the opportunity to apply their knowledge and skills to real-world challenges. Under the guidance of both a practitioner supervisor and a professor supervisor, students will work in teams to develop innovative solutions.
   - Supervisor (Spring 2025, 2026)
 
 * <b>CSC4051 Computing Capstone for Interdisciplinary Studies</b>
