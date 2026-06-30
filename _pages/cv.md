@@ -158,6 +158,7 @@ Referee for Journals
   - <i>Information Systems and e-Business Management</i>
 
 * Business, Economics & Finance
+  - <i>Applied Economics</i>
   - <i>Cogent Business & Management</i>
   - <i>Financial Innovation</i>
   - <i>Journal of Economic Surveys</i>
