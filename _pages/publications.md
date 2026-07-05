@@ -6,6 +6,8 @@ author_profile: true
 
 <h2 style="margin-top: 0;">Books</h2>
 
+* 主动基金投资<br>(with Y. Liu, J. Wei, and X. Lian), 电子工业出版社, forthcoming
+
 * <a href="https://www.routledge.com/Navigating-the-Factor-Zoo-The-Science-of-Quantitative-Investing/Zhang-Lu-Shi/p/book/9781032768410" target="_blank">Navigating the Factor Zoo: The Science of Quantitative Investing</a><br>(with M. X. Zhang and T. Lu), Routledge, 2025
 
 * <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank">机器学习与资产定价</a><br>(with X. Wang), 电子工业出版社, 2022<br>原著：Nagel, S., <a href="https://press.princeton.edu/books/hardcover/9780691218700/machine-learning-in-asset-pricing" target="_blank"><i>Machine Learning in Asset Pricing</i></a>, Princeton University Press, 2021
@@ -77,8 +79,6 @@ Working Papers
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">Customer-supplier momentum spillover and its cascading effect</a> (with S. Wu, R. Luo, and S. Zhao), 2026, revise and resubmit
 
 * Leveraging LLM-based semantic analysis of patent texts: An application to technological link discovery and financial markets (with R. Luo, S. Zhao, and Q. Geng), 2025, revise and resubmit, (the original version was circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">"Technological momentum in China: Large language model meets simple classifications"</a>)
-
-* A machine learning-based factor investing framework for Chinese convertible bonds (with J. Qiu, X. Zheng, and X. Fang), 2025
 
 * Overreaction and underreaction: Building a behavioral four-factor model for China<br>(with X. Lian and Y. Liu), 2025, (the original version was written in 2021 and circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">"A composite four-factor model in China"</a>)
 
