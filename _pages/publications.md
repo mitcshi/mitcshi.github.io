@@ -74,8 +74,6 @@ Working Papers
 
 * When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, under review
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6260378" target="_blank">Agri-LAPP: An LLM-based agent framework for adaptive path planning in precision agriculture</a> (with Y. Zeng, R. Wang, Y. Liu, C. Chen, J. Jin, J. Guo, and J. Li), 2026, under review
-
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">Customer-supplier momentum spillover and its cascading effect</a> (with S. Wu, R. Luo, and S. Zhao), 2026, revise and resubmit
 
 * Leveraging LLM-based semantic analysis of patent texts: An application to technological link discovery and financial markets (with R. Luo, S. Zhao, and Q. Geng), 2025, revise and resubmit, (the original version was circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">"Technological momentum in China: Large language model meets simple classifications"</a>)
