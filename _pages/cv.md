@@ -162,6 +162,7 @@ Referee for Journals
   - <i>Cogent Business & Management</i>
   - <i>Financial Innovation</i>
   - <i>Journal of Economic Surveys</i>
+  - <i>Pacific-Basin Finance Journal</i>
 
 * 中文期刊
   - <i>管理科学学报</i>
