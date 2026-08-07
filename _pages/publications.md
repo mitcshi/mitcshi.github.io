@@ -6,7 +6,7 @@ author_profile: true
 
 <h2 style="margin-top: 0;">Books</h2>
 
-* 主动基金投资<br>(with Y. Liu, J. Wei, and X. Lian), 电子工业出版社, forthcoming
+* 主动基金投资<br>(with Y. Liu, J. Wei, and X. Lian), 电子工业出版社, 2026
 
 * <a href="https://www.routledge.com/Navigating-the-Factor-Zoo-The-Science-of-Quantitative-Investing/Zhang-Lu-Shi/p/book/9781032768410" target="_blank">Navigating the Factor Zoo: The Science of Quantitative Investing</a><br>(with M. X. Zhang and T. Lu), Routledge, 2025
 
