@@ -169,6 +169,9 @@ Referee for Journals
 
 Books
 ------
+* Liu, Y., J. Wei, X. Lian, and C. Shi (2026). <i>Active Fund Investing (in Chinese)</i>. Publishing House of Electronics Industry
+  - Chinese Title: 《主动基金投资》
+
 * Zhang, M. X., T. Lu, and C. Shi (2025). <a href="https://www.routledge.com/Navigating-the-Factor-Zoo-The-Science-of-Quantitative-Investing/Zhang-Lu-Shi/p/book/9781032768410" target="_blank"><i>Navigating the Factor Zoo: The Science of Quantitative Investing</i></a>. Routledge
 
 * Wang, X. and C. Shi (2022). <a href="https://www.factorwar.com/machine_learning_in_asset_pricing/" target="_blank"><i>Machine Learning and Asset Pricing (in Chinese)</i></a>. Publishing House of Electronics Industry
