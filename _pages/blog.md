@@ -108,6 +108,7 @@ Portfolio Management
 Fund research
 ------
 * <a href="https://mp.weixin.qq.com/s/WpL9JjRkhkM64Rwpp_40fQ" target="_blank">基金研究：文献综述 (I)</a>
+* <a href="https://mp.weixin.qq.com/s/TaTzsZL2GhymF0fKmFctMA" target="_blank">主动基金投资研究框架</a>
 
 Financial Econometrics
 ------
