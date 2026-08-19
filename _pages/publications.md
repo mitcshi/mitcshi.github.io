@@ -72,7 +72,7 @@ Working Papers
 
 * Seeing through the haze: Estimating corporate scope 3 emissions from sparse ESG disclosures via explainable machine learning (with X. Su, R. Luo, Q. Geng, and J. Guo), 2026, revise and resubmit
 
-* When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, under review
+* When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, revise and resubmit
 
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">Customer-supplier momentum spillover and its cascading effect</a> (with S. Wu, R. Luo, and S. Zhao), 2026, revise and resubmit
 
