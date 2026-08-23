@@ -22,8 +22,10 @@ Book Chapter Contributions
 
 * <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch7" target="_blank">Chapter 7: Prioritization of Critical Data Elements (Funnel Approach)</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley, 2014
 
-Selected Publications
+Journal Publications
 ------
+* Information Diffusion and Price Adjustment Beyond Tier-1 Customer-Supplier Links<br>(with S. Wu, R. Luo, and S. Zhao),  <i>Pacific-Basin Finance Journal</i>, 2026, accepted, (the original version was circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">"Customer-supplier momentum spillover and its cascading effect"</a>)
+
 * <a href="https://link.springer.com/article/10.1007/s44498-026-00105-0" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), <i>Journal of Industrial Ecology</i>, 2026
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925527326001386" target="_blank">Lead time distribution in a small manufacturing system with unreliable machines and finite buffers</a> (with S. B. Gershwin), <i>International Journal of Production Economics 299</i>, 2026, 110047
@@ -73,8 +75,6 @@ Working Papers
 * Seeing through the haze: Estimating corporate scope 3 emissions from sparse ESG disclosures via explainable machine learning (with X. Su, R. Luo, Q. Geng, and J. Guo), 2026, revise and resubmit
 
 * When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, revise and resubmit
-
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">Customer-supplier momentum spillover and its cascading effect</a> (with S. Wu, R. Luo, and S. Zhao), 2026, revise and resubmit
 
 * Leveraging LLM-based semantic analysis of patent texts: An application to technological link discovery and financial markets (with R. Luo, S. Zhao, and Q. Geng), 2025, revise and resubmit, (the original version was circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">"Technological momentum in China: Large language model meets simple classifications"</a>)
 
