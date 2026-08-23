@@ -24,7 +24,7 @@ Book Chapter Contributions
 
 Journal Publications
 ------
-* Information diffusion and price adjustment beyond Tier-1 customer-supplier links<br>(with S. Wu, R. Luo, and S. Zhao),  <i>Pacific-Basin Finance Journal</i>, 2026, accepted, (the original version was circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">"Customer-supplier momentum spillover and its cascading effect"</a>)
+* Information diffusion and price adjustment beyond Tier-1 customer-supplier links<br>(with S. Wu, R. Luo, and S. Zhao),  <i>Pacific-Basin Finance Journal</i>, 2026, accepted, (the original version was circulated under the title "Customer-supplier momentum spillover and its cascading effect" [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">link</a>])
 
 * <a href="https://link.springer.com/article/10.1007/s44498-026-00105-0" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), <i>Journal of Industrial Ecology</i>, 2026
 
@@ -76,9 +76,9 @@ Working Papers
 
 * When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, revise and resubmit
 
-* Leveraging LLM-based semantic analysis of patent texts: An application to technological link discovery and financial markets (with R. Luo, S. Zhao, and Q. Geng), 2025, revise and resubmit, (the original version was circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">"Technological momentum in China: Large language model meets simple classifications"</a>)
+* Leveraging LLM-based semantic analysis of patent texts: An application to technological link discovery and financial markets (with R. Luo, S. Zhao, and Q. Geng), 2025, revise and resubmit, (the original version was circulated under the title "Technological momentum in China: Large language model meets simple classifications" [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">link</a>])
 
-* Overreaction and underreaction: Building a behavioral four-factor model for China<br>(with X. Lian and Y. Liu), 2025, (the original version was written in 2021 and circulated under the title <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">"A composite four-factor model in China"</a>)
+* Overreaction and underreaction: Building a behavioral four-factor model for China<br>(with X. Lian and Y. Liu), 2025, (the original version was written in 2021 and circulated under the title "A composite four-factor model in China" [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">link</a>])
 
 Permanent Working Papers
 ------
