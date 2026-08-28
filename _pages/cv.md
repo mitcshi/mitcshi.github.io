@@ -147,11 +147,10 @@ Selected Referee Service
   - <i>International Journal of Production Economics</i>
   - <i>International Journal of Production Research</i>
   - <i>Computers in Industry</i>
+  - <i>Journal of Intelligent Manufacturing</i>
   - <i>International Journal of Advanced Manufacturing Technology</i>
   - <i>International Journal of Computer Integrated Manufacturing</i>
   - <i>International Journal of Physical Distribution & Logistics Management</i>
-  - <i>Journal of Intelligent Manufacturing</i>
-  - <i>Technological Sustainability</i>
 
 * Business, Economics, and Finance 
   - <i>Journal of Economic Surveys</i>
