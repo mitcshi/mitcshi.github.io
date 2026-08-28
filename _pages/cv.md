@@ -130,41 +130,36 @@ Guest Lectures/Invited Talks
   - COFCO Futures, 07/2023
   - SDIC Essence Futures, 05/2019
 
-Referee for Journals
+Selected Referee Service
 ------
-* Operations Research & Management Science
-  - <i>Annals of Operations Research</i>
+* Operations Research, Industrial Engineering, and Management Science:
   - <i>European Journal of Operational Research</i>
   - <i>IISE Transactions</i>
   - <i>INFORMS Journal on Computing</i>
   - <i>International Journal of Management Science (Omega)</i>
+  - <i>Annals of Operations Research</i>
   - <i>Journal of Optimization Theory and Applications</i>
-  - <i>Journal of the Operational Research Society</i>
-  - <i>Operational Research</i>
   - <i>OR Spectrum</i>
+  - <i>Journal of the Operational Research Society</i>
   - <i>Probability in the Engineering and Informational Sciences</i>
 
-* Manufacturing, Supply Chain & Industrial Engineering
+* Manufacturing, Supply Chain, and Industrial Informatics:
+  - <i>International Journal of Production Economics</i>
+  - <i>International Journal of Production Research</i>
   - <i>Computers in Industry</i>
   - <i>International Journal of Advanced Manufacturing Technology</i>
   - <i>International Journal of Computer Integrated Manufacturing</i>
   - <i>International Journal of Physical Distribution & Logistics Management</i>
-  - <i>International Journal of Production Economics</i>
-  - <i>International Journal of Production Research</i>
   - <i>Journal of Intelligent Manufacturing</i>
   - <i>Technological Sustainability</i>
 
-* Information Systems / Business Management
-  - <i>Information Systems and e-Business Management</i>
-
-* Business, Economics & Finance
-  - <i>Applied Economics</i>
-  - <i>Cogent Business & Management</i>
-  - <i>Financial Innovation</i>
+* Business, Economics, and Finance 
   - <i>Journal of Economic Surveys</i>
   - <i>Pacific-Basin Finance Journal</i>
+  - <i>Financial Innovation</i>
+  - <i>Applied Economics</i>
 
-* 中文期刊
+* Chinese Journals:
   - <i>管理科学学报</i>
 
 Books
