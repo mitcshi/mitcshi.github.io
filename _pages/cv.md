@@ -182,8 +182,10 @@ Book Chapter Contributions
 
 * <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch7" target="_blank">Chapter 7: Prioritization of Critical Data Elements (Funnel Approach)</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley 2014
 
-Selected Papers
+Selected Journal Papers
 ------
+* <a href="https://www.sciencedirect.com/science/article/pii/S0927538X26003021" target="_blank">Information diffusion and price adjustment beyond Tier-1 customer-supplier links</a><br>(with S. Wu, R. Luo, and S. Zhao),  <i>Pacific-Basin Finance Journal 101</i>, 2027, 103355
+
 * <a href="https://link.springer.com/article/10.1007/s44498-026-00105-0" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), <i>Journal of Industrial Ecology</i>, 2026
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925527326001386" target="_blank">Lead time distribution in a small manufacturing system with unreliable machines and finite buffers</a> (with S. B. Gershwin), <i>International Journal of Production Economics 299</i>, 2026, 110047
