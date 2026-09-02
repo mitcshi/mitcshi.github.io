@@ -24,7 +24,7 @@ Book Chapter Contributions
 
 Journal Publications
 ------
-* <a href="https://www.sciencedirect.com/science/article/pii/S0927538X26003021" target="_blank">Information diffusion and price adjustment beyond Tier-1 customer-supplier links</a><br>(with S. Wu, R. Luo, and S. Zhao),  <i>Pacific-Basin Finance Journal</i>, 2026, accepted, (early version [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">link</a>])
+* <a href="https://www.sciencedirect.com/science/article/pii/S0927538X26003021" target="_blank">Information diffusion and price adjustment beyond Tier-1 customer-supplier links</a><br>(with S. Wu, R. Luo, and S. Zhao),  <i>Pacific-Basin Finance Journal</i>, 2026, 103355, (early version [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">link</a>])
 
 * <a href="https://link.springer.com/article/10.1007/s44498-026-00105-0" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), <i>Journal of Industrial Ecology 30</i>, 2026, 1585–1595
 
