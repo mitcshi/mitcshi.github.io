@@ -24,6 +24,8 @@ Book Chapter Contributions
 
 Journal Publications
 ------
+* Measuring firm-level technological similarity from patent texts using semantic embeddings: A data-driven framework and financial market application (with R. Luo, S. Zhao, Q. Geng, and D. Wu), <i>International Journal of Data Science and Analytics</i> 2026, accepted
+
 * <a href="https://www.sciencedirect.com/science/article/pii/S0927538X26003021" target="_blank">Information diffusion and price adjustment beyond Tier-1 customer-supplier links</a><br>(with S. Wu, R. Luo, and S. Zhao),  <i>Pacific-Basin Finance Journal 101</i>, 2027, 103355, (early version [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5892284" target="_blank">link</a>])
 
 * <a href="https://link.springer.com/article/10.1007/s44498-026-00105-0" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), <i>Journal of Industrial Ecology 30</i>, 2026, 1585–1595
@@ -75,8 +77,6 @@ Working Papers
 * Seeing through the haze: Estimating corporate scope 3 emissions from sparse ESG disclosures via explainable machine learning (with X. Su, R. Luo, Q. Geng, and J. Guo), 2026, revise and resubmit
 
 * When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, revise and resubmit
-
-* Leveraging LLM-based semantic analysis of patent texts: An application to technological link discovery and financial markets (with R. Luo, S. Zhao, and Q. Geng), 2025, revise and resubmit, (early version [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5249018" target="_blank">link</a>])
 
 * Overreaction and underreaction: Building a behavioral four-factor model for China<br>(with X. Lian and Y. Liu), 2025, (early version [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">link</a>])
 
