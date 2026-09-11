@@ -96,6 +96,7 @@ Portfolio Management
 * <a href="https://mp.weixin.qq.com/s/DmB22oncRpYfwnNcFOyAYQ" target="_blank">Harry Markowitz</a>
 * <a href="https://mp.weixin.qq.com/s/0WBpcEkWaNTIJ8H-u_9-OA" target="_blank">浅析资产配置的几种方法</a>
 * <a href="https://mp.weixin.qq.com/s/Y5wIqQ6qt8jGakc-yoKSfg" target="_blank">Machine Learning Meets Markowitz</a>
+* <a href="https://mp.weixin.qq.com/s/NUnZ-KuoIm2H8DUF-cOlXQ" target="_blank">AlphaGlass</a>
 * <a href="https://mp.weixin.qq.com/s/LmLAU7sn7dGabvXGKL1YcA" target="_blank">正确理解 Barra 的纯因子模型</a>
 * <a href="https://mp.weixin.qq.com/s/LjOtlE-oBI7QoA_sKROexg" target="_blank">Barra 因子模型截面回归求解</a>
 * <a href="https://mp.weixin.qq.com/s/YzIO9c3ErkQhY8I2p96Ukg" target="_blank">Black-Litterman 模型 —— 贝叶斯框架下的资产配置利器</a>
