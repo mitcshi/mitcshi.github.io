@@ -11,7 +11,7 @@ author_profile: true
 * [Download link 1](/files/data/BetaPlus4-Academic-Daily-Returns.csv) (factors constructed according to academic procedure)
 * [Download link 2](/files/data/BetaPlus4-Simple-Daily-Returns.csv) (factors constructed according to industrial practice)
 
-<h3>Factor returns for Common Factor Models</h3> 
+<h3>Factor returns for common factor models</h3> 
 
 * Source: BetaPlus®
 * Market: Chinese A-share
