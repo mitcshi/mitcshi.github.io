@@ -4,7 +4,7 @@ permalink: /code-and-data/
 author_profile: true
 ---
 
-<h3 style="margin-top: 0;">Factor returns of Lian, X. and C. Shi (2021)</h3>
+<h3 style="margin-top: 0;">Factor returns of Lian and Shi (2021)</h3>
 
 * Source: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928587" target="_blank">A composite four-factor model in China</a>.
 * Periods: 2000/01/01 to 2023/12/31
