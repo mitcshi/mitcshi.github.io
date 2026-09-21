@@ -4,7 +4,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-I don't have any Ph.D. or RA openings, so please kindly refrain from sending inquiries about them. If you have already written to me, I may not be able to reply—thank you for your understanding.
+I don't have any Ph.D. or RA openings, so please kindly refrain from sending inquiries about them. If you have already written to me, I may not be able to reply. Thank you for your understanding.
 
 I can be reached via email at: mitcshi [at] gmail.com.
 
