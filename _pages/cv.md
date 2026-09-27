@@ -46,7 +46,7 @@ Teaching/Mentoring Experience
 
 Academic Service (School of Data Science, CUHK(SZ))
 ------
-* UG Director of Academic Advising – Financial Engineering (2024–)
+* Director of Academic Advising – Financial Engineering (2024–)
 * Chair, Curriculum Committee – Financial Engineering (2025–)
 * Course Coordinator – Financial Engineering (2025–)
 * Member, Publicity Committee (2025–)
