@@ -184,6 +184,8 @@ Book Chapter Contributions
 
 Selected Journal Papers
 ------
+* <a href="https://rdcu.be/uH6hgHQJq6Ea" target="_blank">Measuring firm-level technological similarity from patent texts using semantic embeddings: A data-driven framework and financial market application</a> (with R. Luo, S. Zhao, Q. Geng, and D. Wu), <i>International Journal of Data Science and Analytics 22</i>, 2026, 339
+
 * <a href="https://www.sciencedirect.com/science/article/pii/S0927538X26003021" target="_blank">Information diffusion and price adjustment beyond Tier-1 customer-supplier links</a><br>(with S. Wu, R. Luo, and S. Zhao),  <i>Pacific-Basin Finance Journal 101</i>, 2027, 103355
 
 * <a href="https://link.springer.com/article/10.1007/s44498-026-00105-0" target="_blank">A multi-tier methodology for Scope 3 emissions accounting in complex supply chains: Mathematical framework and empirical insights from China</a> (with R. Luo, Q. Geng, and C. Dang), <i>Journal of Industrial Ecology</i>, 2026
