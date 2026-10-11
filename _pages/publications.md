@@ -24,8 +24,7 @@ Book Chapter Contributions
 
 Journal Publications
 ------
-* Measuring firm-level technological similarity from patent texts using semantic embeddings: A data-driven framework and financial market application (with R. Luo, S. Zhao, Q. Geng, and D. Wu), <i>International Journal of Data Science and Analytics</i> 2026, 
-Special Issue on Data Science and AI in Finance, accepted
+* <a href="https://rdcu.be/uH6hgHQJq6Ea" target="_blank">Measuring firm-level technological similarity from patent texts using semantic embeddings: A data-driven framework and financial market application</a> (with R. Luo, S. Zhao, Q. Geng, and D. Wu), <i>International Journal of Data Science and Analytics 22</i>, 2026, 339
 
 * <a href="https://www.sciencedirect.com/science/article/pii/S0927538X26003021" target="_blank">Information diffusion and price adjustment beyond Tier-1 customer-supplier links</a><br>(with S. Wu, R. Luo, and S. Zhao),  <i>Pacific-Basin Finance Journal 101</i>, 2027, 103355
 
