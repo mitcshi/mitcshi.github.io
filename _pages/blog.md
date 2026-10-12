@@ -161,3 +161,7 @@ Financial Machine Learning
 Quantitative Investing
 ------
 * <a href="https://mp.weixin.qq.com/s/R20T0eOaWwzI-bqfcBDVOQ" target="_blank">量化投资中的主观判断</a>
+* <a href="https://mp.weixin.qq.com/s/q5Xsb1ph0X9RxRL5GdpeaQ" target="_blank">数据驱动的投资思想史</a>
+* <a href="https://mp.weixin.qq.com/s/Q81loQgpvyj7Fyb_3rwlGw" target="_blank">金融洞见：量化投资中被低估的“定价因子”</a>
+* <a href="https://mp.weixin.qq.com/s/PcWCcPeazJV_G8TBlHJqSA" target="_blank">AI Agent 做量化，靠谱吗</a>
+* <a href="https://mp.weixin.qq.com/s/DGHX4rtjm__J9unuWDJlXw" target="_blank">The MD and the PhD</a>
