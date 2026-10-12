@@ -4,7 +4,7 @@ permalink: /blog/
 author_profile: true
 classes: unique-page-class
 ---
-This page collects my selected blog articles on asset pricing, factor investing, p-hacking, portfolio management, fund research, financial econometrics, and financial machine learning, mostly written in Chinese.
+This page collects my selected blog articles on asset pricing, factor investing, p-hacking, portfolio management, fund research, financial econometrics, financial machine learning, and quantitative investing, mostly written in Chinese.
 
 <h2>Asset Pricing</h2>
 
@@ -157,3 +157,7 @@ Financial Machine Learning
 * <a href="https://mp.weixin.qq.com/s/TZogoW--e7Nz1-1376lXzw" target="_blank">Augmented Fama-MacBeth Regression (I)</a>
 * <a href="https://mp.weixin.qq.com/s/ufZj-u9hUf7pRE-VtbsN2w" target="_blank">Augmented Fama-MacBeth Regression (II)</a>
 * <a href="https://mp.weixin.qq.com/s/UMfs1xtNSG5pDYyp6mNxPg" target="_blank">Ridge</a>
+
+Quantitative Investing
+------
+* <a href="https://mp.weixin.qq.com/s/R20T0eOaWwzI-bqfcBDVOQ" target="_blank">量化投资中的主观判断</a>
