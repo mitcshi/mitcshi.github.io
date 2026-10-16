@@ -8,7 +8,7 @@ author_profile: true
 
 * <b>DDA3600 Factor Investing (<a href="https://www.shichuan.info/teaching/DDA3600">link</a>)</b>
   - This course offers a thorough exploration of factor investing, blending econometrics and machine learning. Key topics include foundational concepts of factor investing, portfolio sorting, cross-sectional and time-series regression methods, and multiple hypothesis testing. The course also covers advanced machine learning models, integrating alternative data sources, and addressing practical challenges such as factor timing and allocation. Drawing on the instructor’s extensive experience in the quantitative hedge fund industry, the course emphasizes real-world practice and application. By course end, students will be prepared to conduct empirical research, develop and backtest factor-based strategies, and apply factor investing principles in professional settings.
-  - Instructor (Fall 2024, 2025)
+  - Instructor (Fall 2024, 2025; Spring 2027)
 
 * <b>STA4020 Statistical Modeling in Financial Markets</b>
   - This course offers a comprehensive exploration of statistical modeling techniques applied to financial markets, preparing students to tackle complex financial modeling challenges. Over the semester, students will develop a deep understanding of econometric principles, time-series analysis, and maximum likelihood estimation. The curriculum also includes advanced topics such as latent factor models and Bayesian statistics, focusing on their applications in asset pricing and asset allocation. Additionally, students will learn about risk models, stochastic calculus, and the bootstrap method. These topics will be taught with an emphasis on ensuring that students can flexibly apply them in real-world financial analysis.
@@ -16,7 +16,7 @@ author_profile: true
 
 * <b>DDA4080 Capstone Project</b>
   - This unique course offers junior and senior students from the School of Data Science and the Financial Engineering the opportunity to apply their knowledge and skills to real-world challenges. Under the guidance of both a practitioner supervisor and a professor supervisor, students will work in teams to develop innovative solutions.
-  - Supervisor (Spring 2025, 2026)
+  - Supervisor (Spring 2025, 2026, 2027)
 
 * <b>CSC4051 Computing Capstone for Interdisciplinary Studies</b>
   - Supervisor (Spring 2026)
