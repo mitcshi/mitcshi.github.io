@@ -74,7 +74,7 @@ Working Papers
 
 * ETF flow crowding and short-horizon market reversals (with J. Guo and Y. Liu), 2026, submitted
 
-* Seeing through the haze: Estimating corporate scope 3 emissions from sparse ESG disclosures via explainable machine learning (with X. Su, R. Luo, Q. Geng, and J. Guo), 2026, revise and resubmit
+* Estimating Corporate Scope 3 Emissions from Sparse ESG Data: Predictive Performance and Its Limits (with X. Su, R. Luo, Q. Geng, and J. Guo), 2026, submitted
 
 * When trees outperform graphs: Representation choice for supply chain link prediction (with X. Su, R. Luo, and Q. Geng), 2026, revise and resubmit
 
