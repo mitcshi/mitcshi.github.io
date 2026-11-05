@@ -72,7 +72,11 @@ Working Papers
 ------
 * A surrogate optimization framework for buffer allocation under probabilistic waiting-time constraints (with S. B. Gershwin), 2026
 
-* ETF flow crowding and short-horizon market reversals (with J. Guo and Y. Liu), 2026, submitted
+* ETF flow crowding and short-horizon market reversals (with Y. Liu), 2026
+
+* Deep learning with long-sequence information for predicting excess returns in the Chinese treasury bond market (with J. Guo, D. Huang, and X. Wang), 2026, revise and resubmit
+
+* Robust wind power interval forecasting via adaptive graph conformal inference under distribution shifts (with Y. Bian, J. Bao, S. Cao, and R. Luo), 2026, under review
 
 * Estimating corporate scope 3 emissions from sparse ESG data: Predictive performance and its limits (with X. Su, R. Luo, Q. Geng, and J. Guo), 2026, under review
 
