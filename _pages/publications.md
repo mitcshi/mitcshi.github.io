@@ -54,7 +54,7 @@ Journal Publications
 
 * <a href="https://link.springer.com/article/10.1007/s00170-007-1041-9" target="_blank">Interpolation of continuous micro line segment trajectories based on look-ahead algorithm in high-speed machining</a> (with P. Ye, K. Yang, and Q. Lv), <i>International Journal of Advanced Manufacturing Technology 37</i>, 2008, 881-897
 
-* Look-ahead feedrate plan method based on the requirement of real time and its experimental study (with Q. Lv, H. Zhang, K. Yang, and H. Lu), <i>Machine Tool & Hydraulics 36</i>(4), 2008, 1-4
+* <a href="https://d.wanfangdata.com.cn/periodical/CiBQZXJpb2RpY2FsQ0hJU29scjkyMDI2MTAxMjE5NTI0NxIOamN5eXkyMDA4MDQwMDEaCG1ibXh4OW9h" target="_blank">Look-ahead feedrate plan method based on the requirement of real time and its experimental study</a> (with Q. Lv, H. Zhang, K. Yang, and H. Lu), <i>Machine Tool & Hydraulics 36</i>(4), 2008, 1-4
 
 * <a href="https://www.tandfonline.com/doi/abs/10.1080/17452750701677319" target="_blank">Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly</a> (with B. Lin), <i>Virtual and Physical Prototyping 2</i>(3), 2007, 173-179
 
