@@ -58,13 +58,13 @@ Journal Publications
 
 * <a href="https://www.tandfonline.com/doi/abs/10.1080/17452750701677319" target="_blank">Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly</a> (with B. Lin), <i>Virtual and Physical Prototyping 2</i>(3), 2007, 173-179
 
-* Study on S-shape curve acceleration and deceleration control on NC system<br>(with T. Zhao, P. Ye, and Q. Lv), <i>China Mechanical Engineering 18</i>(7), 2007, 1421-1425
+* <a href="https://d.wanfangdata.com.cn/periodical/CiBQZXJpb2RpY2FsQ0hJU29scjkyMDI2MTAxMjE5NTI0NxIPemdqeGdjMjAwNzEyMDA5Ggh6YjR6ZjVqdA%3D%3D" target="_blank">Study on S-shape curve acceleration and deceleration control on NC system</a><br>(with T. Zhao, P. Ye, and Q. Lv), <i>China Mechanical Engineering 18</i>(12), 2007, 1421-1425
 
-* Smooth transfer control algorithm of continuous segment trajectory in CNC system<br>(with K. Yang, P. Ye, and Q. Lv), <i>Journal of Tsinghua University (Science and Technology) 47</i>(8), 2007, 1295-1299
+* <a href="https://d.wanfangdata.com.cn/periodical/CiBQZXJpb2RpY2FsQ0hJU29scjkyMDI2MTAxMjE5NTI0NxIPcWhkeHhiMjAwNzA4MDEyGghub25majNhNQ%3D%3D" target="_blank">Smooth transfer control algorithm of continuous segment trajectory in CNC system</a><br>(with K. Yang, P. Ye, and Q. Lv), <i>Journal of Tsinghua University (Science and Technology) 47</i>(8), 2007, 1295-1299
 
-* Study on end-point discrimination methods of circular interpolation<br>(with B. Lin, P. Ye, and H. Zhang), <i>Manufacturing Technology & Machine Tool</i>, 2007, 86-90
+* <a href="https://d.wanfangdata.com.cn/periodical/CiBQZXJpb2RpY2FsQ0hJU29scjkyMDI2MTAxMjE5NTI0NxIQenpqc3lqYzIwMDcwNjAzMRoIbm9uZmozYTU%3D" target="_blank">Study on end-point discrimination methods of circular interpolation</a><br>(with B. Lin, P. Ye, and H. Zhang), <i>Manufacturing Technology & Machine Tool 2007</i>(6), 2007, 86-90
 
-* The practical study of the professional but non-required courses<br>(with P. Ye and H. Zhang) <i>Experimental Technology and Management 24</i>(4), 2007, 100-103
+* <a href="https://d.wanfangdata.com.cn/periodical/CiBQZXJpb2RpY2FsQ0hJU29scjkyMDI2MTAxMjE5NTI0NxIQc3lqc3lnbDIwMDcwNDAzMRoIbm9uZmozYTU%3D" target="_blank">The practical study of the professional but non-required courses</a><br>(with P. Ye and H. Zhang) <i>Experimental Technology and Management 24</i>(4), 2007, 100-103
 
 * Study on control algorithm for continuous segments trajectory interpolation<br>(with P. Ye and Q. Lv), <i>Journal of Wuhan University of Technology 28</i>(z2), 2006, 994-998
 
