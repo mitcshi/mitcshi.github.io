@@ -198,33 +198,33 @@ Selected Journal Papers
 
 * <a href="https://onlinelibrary.wiley.com/doi/10.1111/joes.70002" target="_blank">From econometrics to machine learning: Transforming empirical asset pricing</a><br><i>Journal of Economic Surveys 40</i>(1), 2026, 528-548
 
-* <a href="https://mitcshi.github.io/publication/liu-etal-sim-2025">A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i>Statistics in Medicine 44</i>(5), 2025, e70020.
+* <a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.70020" target="_blank">A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i>Statistics in Medicine 44</i>(5), 2025, e70020.
 
-* <a href="https://www.shichuan.info/publication/shi-gershwin-ejor-2016">Part sojourn time distribution in a two-machine line</a><br>(with S. B. Gershwin), <i>European Journal of Operational Research 248</i>(1), 2016, 146-158
+* <a href="https://www.sciencedirect.com/science/article/pii/S0377221715006384" target="_blank">Part sojourn time distribution in a two-machine line</a><br>(with S. B. Gershwin), <i>European Journal of Operational Research 248</i>(1), 2016, 146-158
 
-* <a href="https://www.shichuan.info/publication/shi-gershwin-ijpr-2016">A segmentation approach for solving buffer allocation problems in large production systems</a><br>(with S. B. Gershwin), <i>International Journal of Production Research 54</i>(20), 2016, 6121-6141
+* <a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2014.991842" target="_blank">A segmentation approach for solving buffer allocation problems in large production systems</a><br>(with S. B. Gershwin), <i>International Journal of Production Research 54</i>(20), 2016, 6121-6141
 
-* <a href="https://www.shichuan.info/publication/shi-etal-ijlss-2015">Improving financial services data quality - A Citigroup practice</a><br>(with H. Heien, J. R. Talburt, R. A. Granese, D. W. Gray, R. Jugulum, R. Ramachandran, J. Singh, J. Hamilton, and H. I. Joyce), <i>International Journal of Lean Six Sigma 6</i>(2), 2015, 98-110
+* <a href="https://www.emerald.com/ijlss/article/6/2/98/134699/Improving-financial-services-data-quality-a" target="_blank">Improving financial services data quality - A Citigroup practice</a><br>(with H. Heien, J. R. Talburt, R. A. Granese, D. W. Gray, R. Jugulum, R. Ramachandran, J. Singh, J. Hamilton, and H. I. Joyce), <i>International Journal of Lean Six Sigma 6</i>(2), 2015, 98-110
 
-* <a href="https://www.shichuan.info/publication/shi-gershwin-cie-2014">Improvement of the evaluation of closed-loop production systems with unreliable machines and finite buffers</a><br>(with S. B. Gershwin), <i>Computers & Industrial Engineering 75</i>(1), 2014, 239-256
+* <a href="https://www.sciencedirect.com/science/article/pii/S0360835214002149" target="_blank">Improvement of the evaluation of closed-loop production systems with unreliable machines and finite buffers</a><br>(with S. B. Gershwin), <i>Computers & Industrial Engineering 75</i>(1), 2014, 239-256
 
-* <a href="https://www.shichuan.info/publication/shi-ye-ijamt-2011">The look-ahead function based interpolation algorithm for continuous micro line trajectories</a><br>(with P. Ye), <i>International Journal of Advanced Manufacturing Technology 54</i>(5-8), 2011, 649-668
+* <a href="https://link.springer.com/article/10.1007/s00170-010-2975-x" target="_blank">The look-ahead function based interpolation algorithm for continuous micro line trajectories</a><br>(with P. Ye), <i>International Journal of Advanced Manufacturing Technology 54</i>(5-8), 2011, 649-668
 
-* <a href="https://www.shichuan.info/publication/shi-gershwin-ijpe-2009">An efficient buffer design algorithm for production line profit maximization</a><br>(with S. B. Gershwin), <i>International Journal of Production Economics 122</i>(2), 2009, 725-740
+* <a href="https://www.sciencedirect.com/science/article/pii/S0925527309002382" target="_blank">An efficient buffer design algorithm for production line profit maximization</a><br>(with S. B. Gershwin), <i>International Journal of Production Economics 122</i>(2), 2009, 725-740
 
-* <a href="https://www.shichuan.info/publication/ye-shi-etal-ijamt-2008">Interpolation of continuous micro line segment trajectories based on look-ahead algorithm in high-speed machining</a><br>(with P. Ye, K. Yang, and Q. Lv), <i>International Journal of Advanced Manufacturing Technology 37</i>, 2008, 881-897
+* <a href="https://link.springer.com/article/10.1007/s00170-007-1041-9" target="_blank">Interpolation of continuous micro line segment trajectories based on look-ahead algorithm in high-speed machining</a><br>(with P. Ye, K. Yang, and Q. Lv), <i>International Journal of Advanced Manufacturing Technology 37</i>, 2008, 881-897
 
-* Look-ahead feedrate plan method based on the requirement of real time and its experimental study<br>(with Q. Lv, H. Zhang, K. Yang, and H. Lu), <i>Machine Tool & Hydraulics 36</i>(4), 2008, 1-4
+* <a href="https://d.wanfangdata.com.cn/periodical/CiBQZXJpb2RpY2FsQ0hJU29scjkyMDI2MTAxMjE5NTI0NxIOamN5eXkyMDA4MDQwMDEaCG1ibXh4OW9h" target="_blank">Look-ahead feedrate plan method based on the requirement of real time and its experimental study</a><br>(with Q. Lv, H. Zhang, K. Yang, and H. Lu), <i>Machine Tool & Hydraulics 36</i>(4), 2008, 1-4
 
-* <a href="https://www.shichuan.info/publication/shi-lin-vpp-2007">Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly</a><br>(with B. Lin), <i>Virtual and Physical Prototyping 2</i>(3), 2007, 173-179
+* <a href="https://www.tandfonline.com/doi/full/10.1080/17452750701677319" target="_blank">Design of air-operated spring-based stand assist chair tracking knee joint torque for the elderly</a><br>(with B. Lin), <i>Virtual and Physical Prototyping 2</i>(3), 2007, 173-179
 
-* <a href="https://www.shichuan.info/publication/shi-etal-cme-2007">Study on S-shape curve acceleration and deceleration control on NC system</a><br>(with T. Zhao, P. Ye, and Q. Lv), <i>China Mechanical Engineering 18</i>(7), 2007, 1421-1425
+* <a href="https://d.wanfangdata.com.cn/periodical/CiBQZXJpb2RpY2FsQ0hJU29scjkyMDI2MTAxMjE5NTI0NxIPemdqeGdjMjAwNzEyMDA5Ggh6YjR6ZjVqdA%3D%3D" target="_blank">Study on S-shape curve acceleration and deceleration control on NC system</a><br>(with T. Zhao, P. Ye, and Q. Lv), <i>China Mechanical Engineering 18</i>(12), 2007, 1421-1425
 
-* <a href="https://www.shichuan.info/publication/yang-shi-etal-thu-2007">Smooth transfer control algorithm of continuous segment trajectory in CNC system</a><br>(with K. Yang, P. Ye, and Q. Lv), <i>Journal of Tsinghua University (Science and Technology) 47</i>(8), 2007, 1295-1299
+* <a href="https://d.wanfangdata.com.cn/periodical/CiBQZXJpb2RpY2FsQ0hJU29scjkyMDI2MTAxMjE5NTI0NxIPcWhkeHhiMjAwNzA4MDEyGghub25majNhNQ%3D%3D" target="_blank">Smooth transfer control algorithm of continuous segment trajectory in CNC system</a><br>(with K. Yang, P. Ye, and Q. Lv), <i>Journal of Tsinghua University (Science and Technology) 47</i>(8), 2007, 1295-1299
 
-* Study on end-point discrimination methods of circular interpolation<br>(with B. Lin, P. Ye, and H. Zhang), <i>Manufacturing Technology & Machine Tool</i>, 2007, 86-90
+* <a href="https://d.wanfangdata.com.cn/periodical/CiBQZXJpb2RpY2FsQ0hJU29scjkyMDI2MTAxMjE5NTI0NxIQenpqc3lqYzIwMDcwNjAzMRoIbm9uZmozYTU%3D" target="_blank">Study on end-point discrimination methods of circular interpolation</a><br>(with B. Lin, P. Ye, and H. Zhang), <i>Manufacturing Technology & Machine Tool</i>, 2007, 86-90
 
-* The practical study of the professional but non-required courses<br>(with P. Ye and H. Zhang) <i>Experimental Technology and Management 24</i>(4), 2007, 100-103
+* <a href="https://d.wanfangdata.com.cn/periodical/CiBQZXJpb2RpY2FsQ0hJU29scjkyMDI2MTAxMjE5NTI0NxIQc3lqc3lnbDIwMDcwNDAzMRoIbm9uZmozYTU%3D" target="_blank">The practical study of the professional but non-required courses</a><br>(with P. Ye and H. Zhang) <i>Experimental Technology and Management 24</i>(4), 2007, 100-103
 
 * Study on control algorithm for continuous segments trajectory interpolation<br>(with P. Ye and Q. Lv), <i>Journal of Wuhan University of Technology 28</i>(z2), 2006, 994-998
 
