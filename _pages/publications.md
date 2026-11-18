@@ -40,7 +40,7 @@ Journal Publications
 
 * <a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.70020" target="_blank">A graph-theoretic approach to detection of Parkinsonian freezing of gait from videos</a><br>(with Q. Liu, J. Bao, X. Zhang, C. C. Liu, and R. Luo), <i>Statistics in Medicine 44</i>(5), 2025, e70020.
 
-* <a href="https://www.sciencedirect.com/science/article/pii/S0377221715006384">Part sojourn time distribution in a two-machine line</a><br>(with S. B. Gershwin), <i>European Journal of Operational Research 248</i>(1), 2016, 146-158
+* <a href="https://www.sciencedirect.com/science/article/pii/S0377221715006384" target="_blank">Part sojourn time distribution in a two-machine line</a><br>(with S. B. Gershwin), <i>European Journal of Operational Research 248</i>(1), 2016, 146-158
   
 * <a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2014.991842" target="_blank">A segmentation approach for solving buffer allocation problems in large production systems</a> (with S. B. Gershwin), <i>International Journal of Production Research 54</i>(20), 2016, 6121-6141
 
