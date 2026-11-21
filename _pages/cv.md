@@ -266,6 +266,7 @@ Refereed Conference Publications
 
 Honors/Awards
 ------
+* Winner of the Best Paper Prizes of the 26th Asia-Pacific Industrial Engineering and Management Systems Conference, 12/2026
 * Recipient of the Outstanding Contribution Award on the 40th Anniversary of the Publishing House of the Electronics Industry, 08/2022
 * Winner of the Best Paper Prizes (10 out of 382 papers) of the 2013 IFAC Conference on Manufacturing Modelling, Management and Control, 05/2013
 * Winner of the Best Paper Prize for Track D: Design of Reconfigurable Manufacturing Systems of INCOM 2012, 05/2012
