@@ -39,6 +39,7 @@ This page collects my selected blog articles on asset pricing, factor investing,
 * <a href="https://mp.weixin.qq.com/s/cKwf5kyWe5oWwmJsKlRoWw" target="_blank">资产定价中的实证挑战 (V)</a>
 * <a href="https://mp.weixin.qq.com/s/WbJioPSo_pgaOvNgYFxIsg" target="_blank">从股票截面数据到股息期限结构</a>
 * <a href="https://mp.weixin.qq.com/s/l6ZGaZQmcGMJl1zy3NUbNw" target="_blank">PCA 之前</a>
+* <a href="https://mp.weixin.qq.com/s/Kco1YcdOubmufGmqfKSSAA" target="_blank">Revisiting the Factor Zoo</a>
 
 p-Hacking
 ------
