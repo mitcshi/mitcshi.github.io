@@ -18,6 +18,8 @@ author_profile: true
 
 Book Chapter Contributions
 ------
+* Learning from predictor histories: Attention-based forecasting of Chinese treasury bond excess returns (with J. Guo, D. Huang, and X. Wang), 2026, accepted
+
 * <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch6" target="_blank">Chapter 6: Critical Data Elements: Identification, Validation, and Assessment</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley, 2014
 
 * <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781118840962.ch7" target="_blank">Chapter 7: Prioritization of Critical Data Elements (Funnel Approach)</a><br>In: R. Jugulum. <i>Competing with Data Quality: Relevance and Importance in Industry</i>, Wiley, 2014
@@ -73,8 +75,6 @@ Working Papers
 * A surrogate optimization framework for buffer allocation under probabilistic waiting-time constraints (with S. B. Gershwin), 2026
 
 * ETF flow crowding and short-horizon market reversals (with Y. Liu), 2026
-
-* Deep learning with long-sequence information for predicting excess returns in the Chinese treasury bond market (with J. Guo, D. Huang, and X. Wang), 2026, revise and resubmit
 
 * Robust wind power interval forecasting via adaptive graph conformal inference under distribution shifts (with Y. Bian, J. Bao, S. Cao, and R. Luo), 2026, under review
 
